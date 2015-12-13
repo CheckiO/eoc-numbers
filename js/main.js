@@ -1,7 +1,9 @@
 var CONFIG = {
 	data: '../data/',
 	maxLevel: 10,
-	maxUnitLevel: 6
+	maxUnitLevel: 8,
+	dataLink: 'https://github.com/CheckiO/eoc-game/tree/gh-pages/data',
+	title: ' EoC Numbers'
 };
 var DATA = {
 	B: {}
@@ -55,7 +57,8 @@ function formatPrice(amount) {
 }
 
 function appedLog(line) {
-	$('#log').append($('<div></div>').text(line));
+	var url = line.replace('../data', CONFIG.dataLink);
+	$('#log').append($('<div><a href="' + url + '">' + url + '</a></div>'));
 }
 
 function getDataConfig(fn) {
@@ -88,7 +91,7 @@ function getBuildingsData(keys, fn) {
 			} else {
 				var requestPath = CONFIG.data + buildingSlug + '/' + key + '.json';
 				$.getJSON(requestPath, function(data){
-					appedLog('Used ' + requestPath);
+					appedLog(requestPath);
 					getSuccess(buildingSlug, key, data);
 				});
 			}
@@ -116,7 +119,7 @@ function getData(keys, fn) {
 	_.each(keys, function(key){
 		var requestPath = CONFIG.data + key + '.json';
 		$.getJSON(requestPath, function(data){
-			appedLog('Used ' + requestPath);
+			appedLog(requestPath);
 			getSuccess(key, data);
 		}).always(function(){
 			requestCount--;
@@ -335,6 +338,8 @@ function processDataUnit(unitSlug) {
 		specData = DATA.B[unitSlug],
 		$table;
 
+	$('title').text(generalData.title + '. ' + CONFIG.title);
+
 	$('.out__name').text(generalData.title);
 	$('.out__img').attr('src', '../img/' + unitSlug + '.png');
 
@@ -347,9 +352,9 @@ function processDataUnit(unitSlug) {
 			'<tr><th>CC Required</th><td>' + specData.unit_level_requirement[0].required_building_level + '</td></tr>');
 
 	$table = $('.out__levels');
-	$table.append('<tr><th>LvL</th><th>Cost</th><th>Time</th><th>Demage per Shot</th><th>HP</th><th>Upgrade Cost</th><th>Upgrade Time</th></tr>');
+	$table.append('<tr><th>LvL</th><th>Cost</th><th>Time</th><th>Demage per Shot</th><th>HP</th><th>Lab. Level</th><th>Upgrade Cost</th><th>Upgrade Time</th></tr>');
 
-	_.each(_.range(1, CONFIG.maxUnitLevel), function(lvl){
+	_.each(_.range(1, CONFIG.maxUnitLevel + 1), function(lvl){
 		var unitLevel = _.find(specData.unit_level, function(data){
 			return data.LEVEL === lvl;
 		}),
@@ -366,6 +371,7 @@ function processDataUnit(unitSlug) {
 		$('<td>' + formatTime(unitLevel.time_production) + '</td>').appendTo($tr);
 		$('<td>' + formatPrice(unitLevel.damage_per_shot) + '</td>').appendTo($tr);
 		$('<td>' + formatPrice(unitLevel.hit_points) + '</td>').appendTo($tr);
+		$('<td>' + (laboratoryResearch?laboratoryResearch.BUILDING_LEVEL:'0') + '</td>').appendTo($tr);
 		$('<td>' + formatPrice(unitLevel.amount_resource_upgrade) + '</td>').appendTo($tr);
 		$('<td>' + formatTime(unitLevel.time_upgrade) + '</td>').appendTo($tr);
 	});

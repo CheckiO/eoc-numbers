@@ -1,0 +1,20 @@
+[
+ {
+  "BUILDING_LEVEL": 1,
+  "BUILDING_SLUG": "rocket_gun",
+  "required_building_level": 7,
+  "required_building_slug": "command_center"
+ },
+ {
+  "BUILDING_LEVEL": 2,
+  "BUILDING_SLUG": "rocket_gun",
+  "required_building_level": 8,
+  "required_building_slug": "command_center"
+ },
+ {
+  "BUILDING_LEVEL": 3,
+  "BUILDING_SLUG": "rocket_gun",
+  "required_building_level": 8,
+  "required_building_slug": "command_center"
+ }
+]

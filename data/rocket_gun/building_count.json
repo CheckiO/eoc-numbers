@@ -1,0 +1,8 @@
+[
+ {
+  "BUILDING_SLUG": "rocket_gun",
+  "REQUIRED_BUILDING_LEVEL": 7,
+  "REQUIRED_BUILDING_SLUG": "command_center",
+  "max_count": 1
+ }
+]

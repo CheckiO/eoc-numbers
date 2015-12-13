@@ -1,0 +1,16 @@
+[
+ {
+  "MISSION_SLUG": "roman_numbers",
+  "building_level": 1,
+  "building_number": 1,
+  "building_slug": "rocket_gun",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "find_sequence",
+  "building_level": 3,
+  "building_number": 1,
+  "building_slug": "rocket_gun",
+  "order_menu": 1
+ }
+]

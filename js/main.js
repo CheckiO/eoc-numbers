@@ -228,14 +228,16 @@ function processDataBuilding(buildingSlug) {
 	});
 	var configData = DATA.config.buildings[buildingSlug];
 
-	$out.append('<h1>' + generalData.title + '</h1>');
-	$out.append($('<div class="description"></div>').text(generalData.description));
+	$('title').text(generalData.title + '. ' + CONFIG.title);
+	$('.out__name').text(generalData.title);
+	$('.out__description').text(generalData.description);
+	$('.out__img').attr('src', '../img/' + buildingSlug + '.png');
 
 	var specData = DATA.B[buildingSlug],
 		specTypeData = specData[configData.type];
 
 	//CC level open
-	var $table = $('<table border="1">').appendTo($out),
+	var $table = $('.out__lvl_count'),
 		$trCC = $('<tr><th>CC</th></tr>').appendTo($table),
 		$trLevel = $('<tr><th>LVL</th></tr>').appendTo($table),
 		$trCount = $('<tr><th>Count</th></tr>').appendTo($table);
@@ -251,8 +253,8 @@ function processDataBuilding(buildingSlug) {
 		thTypeData = typeData.keysDescription.length? '<th>' +
 				typeData.keysDescription.join('</th><th>') +
 				'</th>':'';
-
-	$table = $('<table border="1"><tr><th>LVL</th><th>Time</th><th>HP</th><th>XP</th><th>Cost</th>' + thTypeData + '</tr></table>').appendTo($out);
+	$table = $('.out__levels');
+	$table = $table.append('<tr><th>LVL</th><th>Time</th><th>HP</th><th>XP</th><th>Cost</th>' + thTypeData + '</tr>');
 
 	_.each(_.range(1, CONFIG.maxLevel + 1), function(lvl) {
 		var buildingLevel = _.find(specData.building_level, function(data){
@@ -283,7 +285,9 @@ function processDataBuilding(buildingSlug) {
 	var missions = DATA.B.missions;
 	var impTypeData = specData[configData.type + '_improvement'];
 
-	$table = $('<table border="1"><tr><th>Num</th><th>Lvl</th><th>Mission</th><th>Improvement</th><th>Imp.Value</th><th>XP</th></tr></table>').appendTo($out);
+	$table = $('.out__development');
+
+	$table.append('<tr><th>Num</th><th>Lvl</th><th>Mission</th><th>Improvement</th><th>Imp.Value</th><th>XP</th></tr>');
 	_.each(missionLevels, function(missionLevel){
 		var $tr = $('<tr></tr>').appendTo($table);
 		$tr.append('<td>' + missionLevel.building_number + '</td>');

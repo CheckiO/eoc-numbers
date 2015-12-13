@@ -1,0 +1,22 @@
+[
+ {
+  "BUILDING_LEVEL": 1,
+  "BUILDING_SLUG": "rocket_gun",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "roman_numbers",
+  "TIER": 1,
+  "type_improvement": 2,
+  "value": 100,
+  "xp_gain": 7
+ },
+ {
+  "BUILDING_LEVEL": 3,
+  "BUILDING_SLUG": "rocket_gun",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "find_sequence",
+  "TIER": 1,
+  "type_improvement": 1,
+  "value": 10,
+  "xp_gain": 20
+ }
+]

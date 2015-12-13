@@ -1,0 +1,34 @@
+[
+ {
+  "BUILDING_LEVEL": 1,
+  "BUILDING_SLUG": "rocket_gun",
+  "damage_per_shot": 100.0,
+  "fire_range": 15.0,
+  "fire_rate": 0.4,
+  "target_system": 2
+ },
+ {
+  "BUILDING_LEVEL": 2,
+  "BUILDING_SLUG": "rocket_gun",
+  "damage_per_shot": 120.0,
+  "fire_range": 15.0,
+  "fire_rate": 0.4,
+  "target_system": 2
+ },
+ {
+  "BUILDING_LEVEL": 3,
+  "BUILDING_SLUG": "rocket_gun",
+  "damage_per_shot": 130.0,
+  "fire_range": 15.0,
+  "fire_rate": 0.4,
+  "target_system": 2
+ },
+ {
+  "BUILDING_LEVEL": 4,
+  "BUILDING_SLUG": "rocket_gun",
+  "damage_per_shot": 135.0,
+  "fire_range": 15.0,
+  "fire_rate": 0.4,
+  "target_system": 2
+ }
+]

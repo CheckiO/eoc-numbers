@@ -54,6 +54,11 @@
 			"category": "defense",
 			"type": "defence"
 		},
+		"rocket_gun": {
+			"name": "Rocket Gun",
+			"category": "defense",
+			"type": "defence"
+		},
 		"command_center": {
 			"name": "Command Center",
 			"category": "other",

@@ -1,0 +1,14 @@
+[
+ {
+  "BUILDING_SLUG": "adamantite_mine",
+  "REQUIRED_BUILDING_LEVEL": 1,
+  "REQUIRED_BUILDING_SLUG": "command_center",
+  "max_count": 1
+ },
+ {
+  "BUILDING_SLUG": "adamantite_mine",
+  "REQUIRED_BUILDING_LEVEL": 4,
+  "REQUIRED_BUILDING_SLUG": "command_center",
+  "max_count": 2
+ }
+]

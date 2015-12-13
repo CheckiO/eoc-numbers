@@ -1,0 +1,26 @@
+[
+ {
+  "BUILDING_SLUG": "craft_pad",
+  "REQUIRED_BUILDING_LEVEL": 1,
+  "REQUIRED_BUILDING_SLUG": "command_center",
+  "max_count": 1
+ },
+ {
+  "BUILDING_SLUG": "craft_pad",
+  "REQUIRED_BUILDING_LEVEL": 3,
+  "REQUIRED_BUILDING_SLUG": "command_center",
+  "max_count": 2
+ },
+ {
+  "BUILDING_SLUG": "craft_pad",
+  "REQUIRED_BUILDING_LEVEL": 6,
+  "REQUIRED_BUILDING_SLUG": "command_center",
+  "max_count": 3
+ },
+ {
+  "BUILDING_SLUG": "craft_pad",
+  "REQUIRED_BUILDING_LEVEL": 8,
+  "REQUIRED_BUILDING_SLUG": "command_center",
+  "max_count": 4
+ }
+]

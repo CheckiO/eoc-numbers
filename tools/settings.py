@@ -1,0 +1,1 @@
+FOLDER_SPLITTED = '../data/'

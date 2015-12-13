@@ -1,0 +1,14 @@
+[
+ {
+  "BUILDING_SLUG": "adamantite_storage",
+  "REQUIRED_BUILDING_LEVEL": 2,
+  "REQUIRED_BUILDING_SLUG": "command_center",
+  "max_count": 1
+ },
+ {
+  "BUILDING_SLUG": "adamantite_storage",
+  "REQUIRED_BUILDING_LEVEL": 5,
+  "REQUIRED_BUILDING_SLUG": "command_center",
+  "max_count": 2
+ }
+]

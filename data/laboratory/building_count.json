@@ -1,0 +1,8 @@
+[
+ {
+  "BUILDING_SLUG": "laboratory",
+  "REQUIRED_BUILDING_LEVEL": 4,
+  "REQUIRED_BUILDING_SLUG": "command_center",
+  "max_count": 1
+ }
+]

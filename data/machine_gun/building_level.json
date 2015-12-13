@@ -1,0 +1,72 @@
+[
+ {
+  "BUILDING_SLUG": "machine_gun",
+  "LEVEL": 1,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 3300,
+  "hit_points": 1600,
+  "time_upgrade": 3600,
+  "user_level": 1,
+  "xp_gain": 10
+ },
+ {
+  "BUILDING_SLUG": "machine_gun",
+  "LEVEL": 2,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 4600,
+  "hit_points": 1740,
+  "time_upgrade": 4500,
+  "user_level": 1,
+  "xp_gain": 11
+ },
+ {
+  "BUILDING_SLUG": "machine_gun",
+  "LEVEL": 3,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 8800,
+  "hit_points": 1890,
+  "time_upgrade": 6300,
+  "user_level": 1,
+  "xp_gain": 13
+ },
+ {
+  "BUILDING_SLUG": "machine_gun",
+  "LEVEL": 4,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 10000,
+  "hit_points": 2060,
+  "time_upgrade": 7200,
+  "user_level": 1,
+  "xp_gain": 14
+ },
+ {
+  "BUILDING_SLUG": "machine_gun",
+  "LEVEL": 5,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 13200,
+  "hit_points": 2240,
+  "time_upgrade": 8100,
+  "user_level": 1,
+  "xp_gain": 15
+ },
+ {
+  "BUILDING_SLUG": "machine_gun",
+  "LEVEL": 6,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 14900,
+  "hit_points": 2700,
+  "time_upgrade": 9000,
+  "user_level": 1,
+  "xp_gain": 15
+ },
+ {
+  "BUILDING_SLUG": "machine_gun",
+  "LEVEL": 7,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 22500,
+  "hit_points": 2900,
+  "time_upgrade": 10800,
+  "user_level": 1,
+  "xp_gain": 17
+ }
+]

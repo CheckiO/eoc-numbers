@@ -1,0 +1,212 @@
+[
+ {
+  "BUILDING_LEVEL": 1,
+  "BUILDING_SLUG": "sentry_gun",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "number_base",
+  "TIER": 1,
+  "type_improvement": 1,
+  "value": 3,
+  "xp_gain": 7
+ },
+ {
+  "BUILDING_LEVEL": 2,
+  "BUILDING_SLUG": "sentry_gun",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "boolean_algebra",
+  "TIER": 1,
+  "type_improvement": 1,
+  "value": 3,
+  "xp_gain": 7
+ },
+ {
+  "BUILDING_LEVEL": 2,
+  "BUILDING_SLUG": "sentry_gun",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "binary_count",
+  "TIER": 1,
+  "type_improvement": 1,
+  "value": 3,
+  "xp_gain": 7
+ },
+ {
+  "BUILDING_LEVEL": 3,
+  "BUILDING_SLUG": "sentry_gun",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "flat_dictionary",
+  "TIER": 1,
+  "type_improvement": 2,
+  "value": 15,
+  "xp_gain": 7
+ },
+ {
+  "BUILDING_LEVEL": 3,
+  "BUILDING_SLUG": "sentry_gun",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "pangram",
+  "TIER": 1,
+  "type_improvement": 1,
+  "value": 5,
+  "xp_gain": 7
+ },
+ {
+  "BUILDING_LEVEL": 4,
+  "BUILDING_SLUG": "sentry_gun",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "spheroid_bullet",
+  "TIER": 1,
+  "type_improvement": 1,
+  "value": 4,
+  "xp_gain": 7
+ },
+ {
+  "BUILDING_LEVEL": 4,
+  "BUILDING_SLUG": "sentry_gun",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "transpose_matrix",
+  "TIER": 1,
+  "type_improvement": 1,
+  "value": 5,
+  "xp_gain": 7
+ },
+ {
+  "BUILDING_LEVEL": 4,
+  "BUILDING_SLUG": "sentry_gun",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "spheroid_bullet",
+  "TIER": 2,
+  "type_improvement": 1,
+  "value": 4,
+  "xp_gain": 7
+ },
+ {
+  "BUILDING_LEVEL": 4,
+  "BUILDING_SLUG": "sentry_gun",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "spheroid_bullet",
+  "TIER": 3,
+  "type_improvement": 1,
+  "value": 4,
+  "xp_gain": 7
+ },
+ {
+  "BUILDING_LEVEL": 5,
+  "BUILDING_SLUG": "sentry_gun",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "skew_symmetry",
+  "TIER": 1,
+  "type_improvement": 2,
+  "value": 50,
+  "xp_gain": 7
+ },
+ {
+  "BUILDING_LEVEL": 5,
+  "BUILDING_SLUG": "sentry_gun",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "weak_point",
+  "TIER": 1,
+  "type_improvement": 2,
+  "value": 15,
+  "xp_gain": 7
+ },
+ {
+  "BUILDING_LEVEL": 5,
+  "BUILDING_SLUG": "sentry_gun",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "shooting_range",
+  "TIER": 1,
+  "type_improvement": 1,
+  "value": 7,
+  "xp_gain": 7
+ },
+ {
+  "BUILDING_LEVEL": 5,
+  "BUILDING_SLUG": "sentry_gun",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "weak_point",
+  "TIER": 2,
+  "type_improvement": 2,
+  "value": 20,
+  "xp_gain": 7
+ },
+ {
+  "BUILDING_LEVEL": 5,
+  "BUILDING_SLUG": "sentry_gun",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "weak_point",
+  "TIER": 3,
+  "type_improvement": 2,
+  "value": 20,
+  "xp_gain": 7
+ },
+ {
+  "BUILDING_LEVEL": 6,
+  "BUILDING_SLUG": "sentry_gun",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "pawn_brotherhood",
+  "TIER": 1,
+  "type_improvement": 2,
+  "value": 50,
+  "xp_gain": 7
+ },
+ {
+  "BUILDING_LEVEL": 7,
+  "BUILDING_SLUG": "sentry_gun",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "eternal_marathon",
+  "TIER": 1,
+  "type_improvement": 2,
+  "value": 30,
+  "xp_gain": 7
+ },
+ {
+  "BUILDING_LEVEL": 8,
+  "BUILDING_SLUG": "sentry_gun",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "determinant",
+  "TIER": 1,
+  "type_improvement": 1,
+  "value": 5,
+  "xp_gain": 7
+ },
+ {
+  "BUILDING_LEVEL": 8,
+  "BUILDING_SLUG": "sentry_gun",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "determinant",
+  "TIER": 2,
+  "type_improvement": 1,
+  "value": 5,
+  "xp_gain": 7
+ },
+ {
+  "BUILDING_LEVEL": 8,
+  "BUILDING_SLUG": "sentry_gun",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "determinant",
+  "TIER": 3,
+  "type_improvement": 1,
+  "value": 5,
+  "xp_gain": 7
+ },
+ {
+  "BUILDING_LEVEL": 9,
+  "BUILDING_SLUG": "sentry_gun",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "broken_clock",
+  "TIER": 1,
+  "type_improvement": 2,
+  "value": 50,
+  "xp_gain": 7
+ },
+ {
+  "BUILDING_LEVEL": 9,
+  "BUILDING_SLUG": "sentry_gun",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "number_factory",
+  "TIER": 1,
+  "type_improvement": 1,
+  "value": 7,
+  "xp_gain": 7
+ }
+]

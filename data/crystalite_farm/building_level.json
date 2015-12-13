@@ -1,0 +1,72 @@
+[
+ {
+  "BUILDING_SLUG": "crystalite_farm",
+  "LEVEL": 1,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 150,
+  "hit_points": 1000,
+  "time_upgrade": 120,
+  "user_level": 1,
+  "xp_gain": 0
+ },
+ {
+  "BUILDING_SLUG": "crystalite_farm",
+  "LEVEL": 2,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 350,
+  "hit_points": 1200,
+  "time_upgrade": 300,
+  "user_level": 1,
+  "xp_gain": 2
+ },
+ {
+  "BUILDING_SLUG": "crystalite_farm",
+  "LEVEL": 3,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 1140,
+  "hit_points": 1400,
+  "time_upgrade": 2700,
+  "user_level": 1,
+  "xp_gain": 8
+ },
+ {
+  "BUILDING_SLUG": "crystalite_farm",
+  "LEVEL": 4,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 3800,
+  "hit_points": 1700,
+  "time_upgrade": 6300,
+  "user_level": 1,
+  "xp_gain": 13
+ },
+ {
+  "BUILDING_SLUG": "crystalite_farm",
+  "LEVEL": 5,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 7800,
+  "hit_points": 2000,
+  "time_upgrade": 8100,
+  "user_level": 1,
+  "xp_gain": 15
+ },
+ {
+  "BUILDING_SLUG": "crystalite_farm",
+  "LEVEL": 6,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 19800,
+  "hit_points": 2400,
+  "time_upgrade": 12600,
+  "user_level": 1,
+  "xp_gain": 18
+ },
+ {
+  "BUILDING_SLUG": "crystalite_farm",
+  "LEVEL": 7,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 57000,
+  "hit_points": 2900,
+  "time_upgrade": 14400,
+  "user_level": 1,
+  "xp_gain": 22
+ }
+]

@@ -1,0 +1,82 @@
+[
+ {
+  "BUILDING_SLUG": "crystalite_silo",
+  "LEVEL": 1,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 130,
+  "hit_points": 1000,
+  "time_upgrade": 120,
+  "user_level": 1,
+  "xp_gain": 1
+ },
+ {
+  "BUILDING_SLUG": "crystalite_silo",
+  "LEVEL": 2,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 500,
+  "hit_points": 1200,
+  "time_upgrade": 1500,
+  "user_level": 1,
+  "xp_gain": 6
+ },
+ {
+  "BUILDING_SLUG": "crystalite_silo",
+  "LEVEL": 3,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 4100,
+  "hit_points": 1400,
+  "time_upgrade": 7200,
+  "user_level": 1,
+  "xp_gain": 14
+ },
+ {
+  "BUILDING_SLUG": "crystalite_silo",
+  "LEVEL": 4,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 10400,
+  "hit_points": 1700,
+  "time_upgrade": 10800,
+  "user_level": 1,
+  "xp_gain": 17
+ },
+ {
+  "BUILDING_SLUG": "crystalite_silo",
+  "LEVEL": 5,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 20000,
+  "hit_points": 2000,
+  "time_upgrade": 14400,
+  "user_level": 1,
+  "xp_gain": 20
+ },
+ {
+  "BUILDING_SLUG": "crystalite_silo",
+  "LEVEL": 6,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 26400,
+  "hit_points": 2400,
+  "time_upgrade": 18000,
+  "user_level": 1,
+  "xp_gain": 20
+ },
+ {
+  "BUILDING_SLUG": "crystalite_silo",
+  "LEVEL": 7,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 65000,
+  "hit_points": 2900,
+  "time_upgrade": 21600,
+  "user_level": 1,
+  "xp_gain": 26
+ },
+ {
+  "BUILDING_SLUG": "crystalite_silo",
+  "LEVEL": 8,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 158000,
+  "hit_points": 3500,
+  "time_upgrade": 28800,
+  "user_level": 1,
+  "xp_gain": 34
+ }
+]

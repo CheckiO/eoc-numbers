@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Hi</title>
+	<link rel="stylesheet" href="../css/bootstrap.min.css" />
+	<link rel="stylesheet" href="../css/bootstrap-theme.css" />
+	<link rel="stylesheet" href="../css/main.css" />
+	<script type="text/javascript" src="../js/jquery-2.1.4.min.js"></script>
+	<script type="text/javascript" src="../js/underscore-min.js"></script>
+	<script type="text/javascript" src="../js/main.js"></script>
+	<script type="text/javascript">
+		var unitSlug = document.location.search.slice(1);
+		$(outUnit.bind(this,unitSlug));
+	</script>
+</head>
+<body>
+
+<div class="container unit">
+     <div class="row">
+        <div class="col-md-4">
+        	<img class="out__img" />
+        </div>
+        <div class="col-md-8">
+	        <div class="page-header">
+	        	<h2 class="out__name"></h2>
+        	</div>
+        	<table class="table table-striped out__general">
+        	</table>
+        </div>
+      </div>
+      <div class="page-header">
+      <h3>Levels and Upgrades</h3>
+      </div>
+      
+      <table class="table table-striped out__levels">
+      </table>
+	<div id="out"></div>
+	<div id="log"></div>
+</div>
+</body>
+</html>

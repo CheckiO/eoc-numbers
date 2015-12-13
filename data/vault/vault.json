@@ -1,0 +1,107 @@
+[
+ {
+  "BUILDING_LEVEL": 1,
+  "BUILDING_SLUG": "vault",
+  "limit_resource_storages": [
+   [
+    "adamantite",
+    2000
+   ],
+   [
+    "crystalite",
+    3000
+   ]
+  ],
+  "protection_percentage": 25
+ },
+ {
+  "BUILDING_LEVEL": 2,
+  "BUILDING_SLUG": "vault",
+  "limit_resource_storages": [
+   [
+    "adamantite",
+    4000
+   ],
+   [
+    "crystalite",
+    6000
+   ]
+  ],
+  "protection_percentage": 30
+ },
+ {
+  "BUILDING_LEVEL": 3,
+  "BUILDING_SLUG": "vault",
+  "limit_resource_storages": [
+   [
+    "adamantite",
+    6000
+   ],
+   [
+    "crystalite",
+    10000
+   ]
+  ],
+  "protection_percentage": 35
+ },
+ {
+  "BUILDING_LEVEL": 4,
+  "BUILDING_SLUG": "vault",
+  "limit_resource_storages": [
+   [
+    "adamantite",
+    9000
+   ],
+   [
+    "crystalite",
+    14000
+   ]
+  ],
+  "protection_percentage": 40
+ },
+ {
+  "BUILDING_LEVEL": 5,
+  "BUILDING_SLUG": "vault",
+  "limit_resource_storages": [
+   [
+    "adamantite",
+    9000
+   ],
+   [
+    "crystalite",
+    14000
+   ]
+  ],
+  "protection_percentage": 44
+ },
+ {
+  "BUILDING_LEVEL": 6,
+  "BUILDING_SLUG": "vault",
+  "limit_resource_storages": [
+   [
+    "adamantite",
+    9000
+   ],
+   [
+    "crystalite",
+    14000
+   ]
+  ],
+  "protection_percentage": 48
+ },
+ {
+  "BUILDING_LEVEL": 7,
+  "BUILDING_SLUG": "vault",
+  "limit_resource_storages": [
+   [
+    "adamantite",
+    9000
+   ],
+   [
+    "crystalite",
+    14000
+   ]
+  ],
+  "protection_percentage": 52
+ }
+]

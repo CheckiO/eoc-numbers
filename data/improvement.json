@@ -1,184 +1,184 @@
 [
-  {
-    "type_improvement":1,
-    "MISSION_SLUG":"bird_language",
-    "OBJECT_SLUG":"speed_boost",
-    "IS_ACTIVE":true,
-    "value":900,
-    "user_level":1,
-    "content_type":[
-      "resources",
-      "resource"
-    ],
-    "tier":1,
-    "xp_gain":5
-  },
-  {
-    "type_improvement":1,
-    "MISSION_SLUG":"common_words",
-    "OBJECT_SLUG":"speed_boost",
-    "IS_ACTIVE":true,
-    "value":900,
-    "user_level":1,
-    "content_type":[
-      "resources",
-      "resource"
-    ],
-    "tier":1,
-    "xp_gain":10
-  },
-  {
-    "type_improvement":1,
-    "MISSION_SLUG":"count_inversion",
-    "OBJECT_SLUG":"speed_boost",
-    "IS_ACTIVE":true,
-    "value":600,
-    "user_level":1,
-    "content_type":[
-      "resources",
-      "resource"
-    ],
-    "tier":1,
-    "xp_gain":5
-  },
-  {
-    "type_improvement":1,
-    "MISSION_SLUG":"divide_fuel_rod",
-    "OBJECT_SLUG":"speed_boost",
-    "IS_ACTIVE":true,
-    "value":1200,
-    "user_level":1,
-    "content_type":[
-      "resources",
-      "resource"
-    ],
-    "tier":1,
-    "xp_gain":15
-  },
-  {
-    "type_improvement":1,
-    "MISSION_SLUG":"even_last",
-    "OBJECT_SLUG":"speed_boost",
-    "IS_ACTIVE":true,
-    "value":600,
-    "user_level":1,
-    "content_type":[
-      "resources",
-      "resource"
-    ],
-    "tier":1,
-    "xp_gain":5
-  },
-  {
-    "type_improvement":1,
-    "MISSION_SLUG":"flatten_list",
-    "OBJECT_SLUG":"speed_boost",
-    "IS_ACTIVE":true,
-    "value":1200,
-    "user_level":1,
-    "content_type":[
-      "resources",
-      "resource"
-    ],
-    "tier":1,
-    "xp_gain":10
-  },
-  {
-    "type_improvement":1,
-    "MISSION_SLUG":"hamming_distance",
-    "OBJECT_SLUG":"speed_boost",
-    "IS_ACTIVE":true,
-    "value":900,
-    "user_level":1,
-    "content_type":[
-      "resources",
-      "resource"
-    ],
-    "tier":1,
-    "xp_gain":5
-  },
-  {
-    "type_improvement":1,
-    "MISSION_SLUG":"landing_holes",
-    "OBJECT_SLUG":"speed_boost",
-    "IS_ACTIVE":true,
-    "value":900,
-    "user_level":1,
-    "content_type":[
-      "resources",
-      "resource"
-    ],
-    "tier":1,
-    "xp_gain":10
-  },
-  {
-    "type_improvement":1,
-    "MISSION_SLUG":"median",
-    "OBJECT_SLUG":"speed_boost",
-    "IS_ACTIVE":true,
-    "value":600,
-    "user_level":1,
-    "content_type":[
-      "resources",
-      "resource"
-    ],
-    "tier":1,
-    "xp_gain":5
-  },
-  {
-    "type_improvement":1,
-    "MISSION_SLUG":"pearl_box",
-    "OBJECT_SLUG":"speed_boost",
-    "IS_ACTIVE":true,
-    "value":1200,
-    "user_level":1,
-    "content_type":[
-      "resources",
-      "resource"
-    ],
-    "tier":1,
-    "xp_gain":10
-  },
-  {
-    "type_improvement":1,
-    "MISSION_SLUG":"secret_message",
-    "OBJECT_SLUG":"speed_boost",
-    "IS_ACTIVE":true,
-    "value":600,
-    "user_level":1,
-    "content_type":[
-      "resources",
-      "resource"
-    ],
-    "tier":1,
-    "xp_gain":5
-  },
-  {
-    "type_improvement":1,
-    "MISSION_SLUG":"striped_words",
-    "OBJECT_SLUG":"speed_boost",
-    "IS_ACTIVE":true,
-    "value":1800,
-    "user_level":1,
-    "content_type":[
-      "resources",
-      "resource"
-    ],
-    "tier":1,
-    "xp_gain":15
-  },
-  {
-    "type_improvement":1,
-    "MISSION_SLUG":"three_words",
-    "OBJECT_SLUG":"speed_boost",
-    "IS_ACTIVE":true,
-    "value":600,
-    "user_level":1,
-    "content_type":[
-      "resources",
-      "resource"
-    ],
-    "tier":1,
-    "xp_gain":5
-  }
+ {
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "bird_language",
+  "OBJECT_SLUG": "speed_boost",
+  "content_type": [
+   "resources",
+   "resource"
+  ],
+  "tier": 1,
+  "type_improvement": 1,
+  "user_level": 5,
+  "value": 1800,
+  "xp_gain": 0
+ },
+ {
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "common_words",
+  "OBJECT_SLUG": "speed_boost",
+  "content_type": [
+   "resources",
+   "resource"
+  ],
+  "tier": 1,
+  "type_improvement": 1,
+  "user_level": 5,
+  "value": 1800,
+  "xp_gain": 0
+ },
+ {
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "count_inversion",
+  "OBJECT_SLUG": "speed_boost",
+  "content_type": [
+   "resources",
+   "resource"
+  ],
+  "tier": 1,
+  "type_improvement": 1,
+  "user_level": 1,
+  "value": 900,
+  "xp_gain": 0
+ },
+ {
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "divide_fuel_rod",
+  "OBJECT_SLUG": "speed_boost",
+  "content_type": [
+   "resources",
+   "resource"
+  ],
+  "tier": 1,
+  "type_improvement": 1,
+  "user_level": 8,
+  "value": 3600,
+  "xp_gain": 0
+ },
+ {
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "even_last",
+  "OBJECT_SLUG": "speed_boost",
+  "content_type": [
+   "resources",
+   "resource"
+  ],
+  "tier": 1,
+  "type_improvement": 1,
+  "user_level": 1,
+  "value": 900,
+  "xp_gain": 0
+ },
+ {
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "flatten_list",
+  "OBJECT_SLUG": "speed_boost",
+  "content_type": [
+   "resources",
+   "resource"
+  ],
+  "tier": 1,
+  "type_improvement": 1,
+  "user_level": 1,
+  "value": 1200,
+  "xp_gain": 0
+ },
+ {
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "hamming_distance",
+  "OBJECT_SLUG": "speed_boost",
+  "content_type": [
+   "resources",
+   "resource"
+  ],
+  "tier": 1,
+  "type_improvement": 1,
+  "user_level": 5,
+  "value": 1800,
+  "xp_gain": 0
+ },
+ {
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "landing_holes",
+  "OBJECT_SLUG": "speed_boost",
+  "content_type": [
+   "resources",
+   "resource"
+  ],
+  "tier": 1,
+  "type_improvement": 1,
+  "user_level": 5,
+  "value": 1800,
+  "xp_gain": 0
+ },
+ {
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "median",
+  "OBJECT_SLUG": "speed_boost",
+  "content_type": [
+   "resources",
+   "resource"
+  ],
+  "tier": 1,
+  "type_improvement": 1,
+  "user_level": 1,
+  "value": 900,
+  "xp_gain": 0
+ },
+ {
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "pearl_box",
+  "OBJECT_SLUG": "speed_boost",
+  "content_type": [
+   "resources",
+   "resource"
+  ],
+  "tier": 1,
+  "type_improvement": 1,
+  "user_level": 5,
+  "value": 1200,
+  "xp_gain": 0
+ },
+ {
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "secret_message",
+  "OBJECT_SLUG": "speed_boost",
+  "content_type": [
+   "resources",
+   "resource"
+  ],
+  "tier": 1,
+  "type_improvement": 1,
+  "user_level": 1,
+  "value": 900,
+  "xp_gain": 0
+ },
+ {
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "striped_words",
+  "OBJECT_SLUG": "speed_boost",
+  "content_type": [
+   "resources",
+   "resource"
+  ],
+  "tier": 1,
+  "type_improvement": 1,
+  "user_level": 8,
+  "value": 3600,
+  "xp_gain": 0
+ },
+ {
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "three_words",
+  "OBJECT_SLUG": "speed_boost",
+  "content_type": [
+   "resources",
+   "resource"
+  ],
+  "tier": 1,
+  "type_improvement": 1,
+  "user_level": 1,
+  "value": 900,
+  "xp_gain": 0
+ }
 ]

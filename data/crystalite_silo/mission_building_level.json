@@ -1,0 +1,51 @@
+[
+ {
+  "MISSION_SLUG": "simple_areas",
+  "building_level": 1,
+  "building_number": 1,
+  "building_slug": "crystalite_silo",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "earth_distances",
+  "building_level": 2,
+  "building_number": 3,
+  "building_slug": "crystalite_silo",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "triangle_angles",
+  "building_level": 2,
+  "building_number": 2,
+  "building_slug": "crystalite_silo",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "counting_tiles",
+  "building_level": 4,
+  "building_number": 3,
+  "building_slug": "crystalite_silo",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "crystal_lattice",
+  "building_level": 5,
+  "building_number": 1,
+  "building_slug": "crystalite_silo",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "three_point_circle",
+  "building_level": 5,
+  "building_number": 2,
+  "building_slug": "crystalite_silo",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "pattern_recognition",
+  "building_level": 7,
+  "building_number": 1,
+  "building_slug": "crystalite_silo",
+  "order_menu": 1
+ }
+]

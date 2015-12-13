@@ -1,0 +1,18 @@
+[
+ {
+  "SLUG": "decor",
+  "title": "Decor"
+ },
+ {
+  "SLUG": "defense",
+  "title": "Defense"
+ },
+ {
+  "SLUG": "resource",
+  "title": "Resource"
+ },
+ {
+  "SLUG": "support",
+  "title": "Support"
+ }
+]

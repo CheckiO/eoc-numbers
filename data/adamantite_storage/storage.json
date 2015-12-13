@@ -1,0 +1,38 @@
+[
+ {
+  "BUILDING_LEVEL": 1,
+  "BUILDING_SLUG": "adamantite_storage",
+  "RESOURCE_SLUG": "adamantite",
+  "limit_resource_storage": 4000
+ },
+ {
+  "BUILDING_LEVEL": 2,
+  "BUILDING_SLUG": "adamantite_storage",
+  "RESOURCE_SLUG": "adamantite",
+  "limit_resource_storage": 8000
+ },
+ {
+  "BUILDING_LEVEL": 3,
+  "BUILDING_SLUG": "adamantite_storage",
+  "RESOURCE_SLUG": "adamantite",
+  "limit_resource_storage": 16000
+ },
+ {
+  "BUILDING_LEVEL": 4,
+  "BUILDING_SLUG": "adamantite_storage",
+  "RESOURCE_SLUG": "adamantite",
+  "limit_resource_storage": 32000
+ },
+ {
+  "BUILDING_LEVEL": 5,
+  "BUILDING_SLUG": "adamantite_storage",
+  "RESOURCE_SLUG": "adamantite",
+  "limit_resource_storage": 64000
+ },
+ {
+  "BUILDING_LEVEL": 6,
+  "BUILDING_SLUG": "adamantite_storage",
+  "RESOURCE_SLUG": "adamantite",
+  "limit_resource_storage": 125000
+ }
+]

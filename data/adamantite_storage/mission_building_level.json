@@ -1,0 +1,37 @@
+[
+ {
+  "MISSION_SLUG": "count_ingots",
+  "building_level": 1,
+  "building_number": 1,
+  "building_slug": "adamantite_storage",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "broken_reports",
+  "building_level": 2,
+  "building_number": 2,
+  "building_slug": "adamantite_storage",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "daily_reports",
+  "building_level": 3,
+  "building_number": 1,
+  "building_slug": "adamantite_storage",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "letter_queue",
+  "building_level": 4,
+  "building_number": 2,
+  "building_slug": "adamantite_storage",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "call_base",
+  "building_level": 5,
+  "building_number": 1,
+  "building_slug": "adamantite_storage",
+  "order_menu": 1
+ }
+]

@@ -1,0 +1,112 @@
+[
+ {
+  "BUILDING_SLUG": "sentry_gun",
+  "LEVEL": 1,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 100,
+  "hit_points": 1700,
+  "time_upgrade": 120,
+  "user_level": 1,
+  "xp_gain": 1
+ },
+ {
+  "BUILDING_SLUG": "sentry_gun",
+  "LEVEL": 2,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 200,
+  "hit_points": 1850,
+  "time_upgrade": 300,
+  "user_level": 1,
+  "xp_gain": 2
+ },
+ {
+  "BUILDING_SLUG": "sentry_gun",
+  "LEVEL": 3,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 760,
+  "hit_points": 2010,
+  "time_upgrade": 1200,
+  "user_level": 1,
+  "xp_gain": 5
+ },
+ {
+  "BUILDING_SLUG": "sentry_gun",
+  "LEVEL": 4,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 2070,
+  "hit_points": 2190,
+  "time_upgrade": 3600,
+  "user_level": 1,
+  "xp_gain": 10
+ },
+ {
+  "BUILDING_SLUG": "sentry_gun",
+  "LEVEL": 5,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 4700,
+  "hit_points": 2380,
+  "time_upgrade": 4500,
+  "user_level": 1,
+  "xp_gain": 11
+ },
+ {
+  "BUILDING_SLUG": "sentry_gun",
+  "LEVEL": 6,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 9300,
+  "hit_points": 2600,
+  "time_upgrade": 6300,
+  "user_level": 1,
+  "xp_gain": 13
+ },
+ {
+  "BUILDING_SLUG": "sentry_gun",
+  "LEVEL": 7,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 12500,
+  "hit_points": 2800,
+  "time_upgrade": 8100,
+  "user_level": 1,
+  "xp_gain": 15
+ },
+ {
+  "BUILDING_SLUG": "sentry_gun",
+  "LEVEL": 8,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 19100,
+  "hit_points": 3100,
+  "time_upgrade": 9000,
+  "user_level": 1,
+  "xp_gain": 15
+ },
+ {
+  "BUILDING_SLUG": "sentry_gun",
+  "LEVEL": 9,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 32000,
+  "hit_points": 3300,
+  "time_upgrade": 12600,
+  "user_level": 1,
+  "xp_gain": 18
+ },
+ {
+  "BUILDING_SLUG": "sentry_gun",
+  "LEVEL": 10,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 50200,
+  "hit_points": 3600,
+  "time_upgrade": 14400,
+  "user_level": 1,
+  "xp_gain": 20
+ },
+ {
+  "BUILDING_SLUG": "sentry_gun",
+  "LEVEL": 11,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 83000,
+  "hit_points": 4000,
+  "time_upgrade": 18000,
+  "user_level": 1,
+  "xp_gain": 24
+ }
+]

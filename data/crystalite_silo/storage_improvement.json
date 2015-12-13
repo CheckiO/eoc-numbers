@@ -1,0 +1,112 @@
+[
+ {
+  "BUILDING_LEVEL": 1,
+  "BUILDING_SLUG": "crystalite_silo",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "simple_areas",
+  "TIER": 1,
+  "type_improvement": 1,
+  "value": 800,
+  "xp_gain": 2
+ },
+ {
+  "BUILDING_LEVEL": 2,
+  "BUILDING_SLUG": "crystalite_silo",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "triangle_angles",
+  "TIER": 1,
+  "type_improvement": 1,
+  "value": 1600,
+  "xp_gain": 4
+ },
+ {
+  "BUILDING_LEVEL": 2,
+  "BUILDING_SLUG": "crystalite_silo",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "earth_distances",
+  "TIER": 1,
+  "type_improvement": 1,
+  "value": 6400,
+  "xp_gain": 12
+ },
+ {
+  "BUILDING_LEVEL": 4,
+  "BUILDING_SLUG": "crystalite_silo",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "counting_tiles",
+  "TIER": 1,
+  "type_improvement": 1,
+  "value": 1000,
+  "xp_gain": 7
+ },
+ {
+  "BUILDING_LEVEL": 4,
+  "BUILDING_SLUG": "crystalite_silo",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "counting_tiles",
+  "TIER": 2,
+  "type_improvement": 1,
+  "value": 1000,
+  "xp_gain": 7
+ },
+ {
+  "BUILDING_LEVEL": 4,
+  "BUILDING_SLUG": "crystalite_silo",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "counting_tiles",
+  "TIER": 3,
+  "type_improvement": 1,
+  "value": 1000,
+  "xp_gain": 7
+ },
+ {
+  "BUILDING_LEVEL": 5,
+  "BUILDING_SLUG": "crystalite_silo",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "three_point_circle",
+  "TIER": 1,
+  "type_improvement": 1,
+  "value": 12800,
+  "xp_gain": 25
+ },
+ {
+  "BUILDING_LEVEL": 5,
+  "BUILDING_SLUG": "crystalite_silo",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "crystal_lattice",
+  "TIER": 1,
+  "type_improvement": 1,
+  "value": 12800,
+  "xp_gain": 25
+ },
+ {
+  "BUILDING_LEVEL": 5,
+  "BUILDING_SLUG": "crystalite_silo",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "crystal_lattice",
+  "TIER": 2,
+  "type_improvement": 1,
+  "value": 12800,
+  "xp_gain": 25
+ },
+ {
+  "BUILDING_LEVEL": 5,
+  "BUILDING_SLUG": "crystalite_silo",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "crystal_lattice",
+  "TIER": 3,
+  "type_improvement": 1,
+  "value": 12800,
+  "xp_gain": 25
+ },
+ {
+  "BUILDING_LEVEL": 7,
+  "BUILDING_SLUG": "crystalite_silo",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "pattern_recognition",
+  "TIER": 1,
+  "type_improvement": 1,
+  "value": 12800,
+  "xp_gain": 25
+ }
+]

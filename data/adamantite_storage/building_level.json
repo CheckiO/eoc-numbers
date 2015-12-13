@@ -1,0 +1,62 @@
+[
+ {
+  "BUILDING_SLUG": "adamantite_storage",
+  "LEVEL": 1,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 100,
+  "hit_points": 1500,
+  "time_upgrade": 120,
+  "user_level": 1,
+  "xp_gain": 2
+ },
+ {
+  "BUILDING_SLUG": "adamantite_storage",
+  "LEVEL": 2,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 200,
+  "hit_points": 1800,
+  "time_upgrade": 600,
+  "user_level": 1,
+  "xp_gain": 2
+ },
+ {
+  "BUILDING_SLUG": "adamantite_storage",
+  "LEVEL": 3,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 600,
+  "hit_points": 2200,
+  "time_upgrade": 1800,
+  "user_level": 1,
+  "xp_gain": 7
+ },
+ {
+  "BUILDING_SLUG": "adamantite_storage",
+  "LEVEL": 4,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 3500,
+  "hit_points": 2600,
+  "time_upgrade": 6300,
+  "user_level": 1,
+  "xp_gain": 13
+ },
+ {
+  "BUILDING_SLUG": "adamantite_storage",
+  "LEVEL": 5,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 10000,
+  "hit_points": 3100,
+  "time_upgrade": 9000,
+  "user_level": 1,
+  "xp_gain": 15
+ },
+ {
+  "BUILDING_SLUG": "adamantite_storage",
+  "LEVEL": 6,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 35000,
+  "hit_points": 3700,
+  "time_upgrade": 21600,
+  "user_level": 1,
+  "xp_gain": 24
+ }
+]

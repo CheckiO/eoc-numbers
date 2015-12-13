@@ -1,0 +1,127 @@
+{
+	"categories": {
+		"resource": {},
+		"support": {},
+		"defense": {},
+		"other": {}
+	},
+
+	"buildings": {
+		"adamantite_mine": {
+			"name": "Adamantite Mine",
+			"category": "resource",
+			"type": "production"
+		},
+		"adamantite_storage": {
+			"name": "Adamantite Storage",
+			"category": "resource",
+			"type": "storage"
+		},
+		"crystalite_farm": {
+			"name": "Crystalite Farm",
+			"category": "resource",
+			"type": "production"
+		},
+		"crystalite_silo": {
+			"name": "Crystalite Silo",
+			"category": "resource",
+			"type": "storage"
+		},
+		"vault": {
+			"name": "Vault",
+			"category": "resource",
+			"type": "vault"
+		},
+
+		"laboratory": {
+			"name": "Laboratory",
+			"category": "support",
+			"type": "laboratory"
+		},
+		"craft_pad": {
+			"name": "Craft Pad",
+			"category": "support",
+			"type": "craft"
+		},
+		
+		"machine_gun": {
+			"name": "Machine Gun",
+			"category": "defense",
+			"type": "defence"
+		},
+		"sentry_gun": {
+			"name": "Sentry Gun",
+			"category": "defense",
+			"type": "defence"
+		},
+		"command_center": {
+			"name": "Command Center",
+			"category": "other",
+			"type": "command_center"
+		}
+	},
+	"units": {
+		"infantry_bot": {
+			"name": "Infantry Bot",
+			"category": "units",
+			"type": "unit"
+		},
+		"heavy_bot": {
+			"name": "Heavy Bot",
+			"category": "units",
+			"type": "unit"
+		},
+		"rocket_bot": {
+			"name": "Rocket Bot",
+			"category": "units",
+			"type": "unit"
+		}
+	},
+	"types": {
+		"production": {
+			"keys": [
+				"amount_resource_production",
+				"limit_resource_production"
+			],
+			"keysDescription": [
+				"Production",
+				"Capacity"
+			],
+			"improvementTypes": [
+				"Production",
+				"Capacity"
+			]
+		},
+		"storage": {
+			"keys": ["limit_resource_storage"],
+			"keysDescription": ["Capacity"],
+			"improvementTypes": ["Capacity"]
+		},
+		"vault": {
+			"keys": ["protection_percentage"],
+			"keysDescription": ["Protec.Percent"],
+			"improvementTypes": [null, "Protec.Percent"]
+		},
+		"defence": {
+			"keys": [
+				"damage_per_shot", 
+				"fire_range",
+				"fire_rate"
+			],
+			"keysDescription": [
+				"Damage per Shot", 
+				"Fire Range",
+				"Fire Speed"
+			],
+			"improvementTypes": [
+				"Demage per Shot",
+				"HP"
+			]
+		},
+		"laboratory": {
+			"keys": [],
+			"keysDescription": [],
+			"improvementTypes": []
+		}
+	}
+}

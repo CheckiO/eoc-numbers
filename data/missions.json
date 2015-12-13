@@ -1,0 +1,674 @@
+[
+ {
+  "MISSION_SLUG": "absolute_sorting",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-absolute-sorting.git"
+ },
+ {
+  "MISSION_SLUG": "auto_painting",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-auto-painting.git"
+ },
+ {
+  "MISSION_SLUG": "battle",
+  "repository_url": "https://github.com/CheckiO/EoC-battle.git"
+ },
+ {
+  "MISSION_SLUG": "battle_craft_pad_01",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-craft.git"
+ },
+ {
+  "MISSION_SLUG": "battle_craft_pad_02",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-craft.git"
+ },
+ {
+  "MISSION_SLUG": "battle_craft_pad_03",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-craft.git"
+ },
+ {
+  "MISSION_SLUG": "battle_craft_pad_04",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-craft.git"
+ },
+ {
+  "MISSION_SLUG": "battle_craft_pad_05",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-craft.git"
+ },
+ {
+  "MISSION_SLUG": "battle_craft_pad_06",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-craft.git"
+ },
+ {
+  "MISSION_SLUG": "battle_craft_pad_07",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-craft.git"
+ },
+ {
+  "MISSION_SLUG": "battle_craft_pad_08",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-craft.git"
+ },
+ {
+  "MISSION_SLUG": "battle_craft_pad_09",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-craft.git"
+ },
+ {
+  "MISSION_SLUG": "battle_craft_pad_10",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-craft.git"
+ },
+ {
+  "MISSION_SLUG": "battle_craft_pad_11",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-craft.git"
+ },
+ {
+  "MISSION_SLUG": "battle_craft_pad_12",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-craft.git"
+ },
+ {
+  "MISSION_SLUG": "battle_craft_pad_13",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-craft.git"
+ },
+ {
+  "MISSION_SLUG": "battle_craft_pad_14",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-craft.git"
+ },
+ {
+  "MISSION_SLUG": "battle_craft_pad_15",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-craft.git"
+ },
+ {
+  "MISSION_SLUG": "battle_craft_pad_16",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-craft.git"
+ },
+ {
+  "MISSION_SLUG": "battle_craft_pad_17",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-craft.git"
+ },
+ {
+  "MISSION_SLUG": "battle_craft_pad_18",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-craft.git"
+ },
+ {
+  "MISSION_SLUG": "battle_craft_pad_19",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-craft.git"
+ },
+ {
+  "MISSION_SLUG": "battle_craft_pad_20",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-craft.git"
+ },
+ {
+  "MISSION_SLUG": "battle_machine_gun_01",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_machine_gun_02",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_machine_gun_03",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_machine_gun_04",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_machine_gun_05",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_machine_gun_06",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_machine_gun_07",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_machine_gun_08",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_machine_gun_09",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_machine_gun_10",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_machine_gun_11",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_machine_gun_12",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_machine_gun_13",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_machine_gun_14",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_machine_gun_15",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_machine_gun_16",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_machine_gun_17",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_machine_gun_18",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_machine_gun_19",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_machine_gun_20",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_rocket_gun_01",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_rocket_gun_02",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_rocket_gun_03",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_rocket_gun_04",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_rocket_gun_05",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_rocket_gun_06",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_rocket_gun_07",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_rocket_gun_08",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_rocket_gun_09",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_rocket_gun_10",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_rocket_gun_11",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_rocket_gun_12",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_rocket_gun_13",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_rocket_gun_14",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_rocket_gun_15",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_rocket_gun_16",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_rocket_gun_17",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_rocket_gun_18",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_rocket_gun_19",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_rocket_gun_20",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_sentry_gun_01",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_sentry_gun_02",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_sentry_gun_03",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_sentry_gun_04",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_sentry_gun_05",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_sentry_gun_06",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_sentry_gun_07",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_sentry_gun_08",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_sentry_gun_09",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_sentry_gun_10",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_sentry_gun_11",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_sentry_gun_12",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_sentry_gun_13",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_sentry_gun_14",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_sentry_gun_15",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_sentry_gun_16",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_sentry_gun_17",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_sentry_gun_18",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_sentry_gun_19",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "battle_sentry_gun_20",
+  "repository_url": "https://github.com/CheckiO/checkio-empire-battle-tower.git"
+ },
+ {
+  "MISSION_SLUG": "binary_count",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-binary-count.git"
+ },
+ {
+  "MISSION_SLUG": "bird_language",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-bird-language.git"
+ },
+ {
+  "MISSION_SLUG": "boolean_algebra",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-boolean-algebra.git"
+ },
+ {
+  "MISSION_SLUG": "brackets",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-brackets.git"
+ },
+ {
+  "MISSION_SLUG": "break-rings",
+  "repository_url": "https://github.com/Empire-of-Code-Puzzles/eoc-puzzle-break-rings"
+ },
+ {
+  "MISSION_SLUG": "broken_clock",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-broken-clock.git"
+ },
+ {
+  "MISSION_SLUG": "broken_reports",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-broken-report.git"
+ },
+ {
+  "MISSION_SLUG": "call_base",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-calls-home.git"
+ },
+ {
+  "MISSION_SLUG": "can_you_pass",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-can-it-pass.git"
+ },
+ {
+  "MISSION_SLUG": "cipher_map",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-cipher-map.git"
+ },
+ {
+  "MISSION_SLUG": "clock_angle",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-clock-angle.git"
+ },
+ {
+  "MISSION_SLUG": "common_words",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-common-words.git"
+ },
+ {
+  "MISSION_SLUG": "count_ingots",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-count-ingots.git"
+ },
+ {
+  "MISSION_SLUG": "count_inversion",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-count-inversion.git"
+ },
+ {
+  "MISSION_SLUG": "count_neighbours",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-count-neighbours.git"
+ },
+ {
+  "MISSION_SLUG": "counting_tiles",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-counting-tiles.git"
+ },
+ {
+  "MISSION_SLUG": "crystal_grid",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-crystal-grid.git"
+ },
+ {
+  "MISSION_SLUG": "crystal_lattice",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-crystal-lattice.git"
+ },
+ {
+  "MISSION_SLUG": "crystal_row",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-crystal-row.git"
+ },
+ {
+  "MISSION_SLUG": "daily_reports",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-dailies-reports.git"
+ },
+ {
+  "MISSION_SLUG": "determinant",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-determinant.git"
+ },
+ {
+  "MISSION_SLUG": "digit_stack",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-digit-stack.git"
+ },
+ {
+  "MISSION_SLUG": "digits_multiplication",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-digits-multiplication.git"
+ },
+ {
+  "MISSION_SLUG": "divide_fuel_rod",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-divide-fuel-rod.git"
+ },
+ {
+  "MISSION_SLUG": "earth_distances",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-earth-distances.git"
+ },
+ {
+  "MISSION_SLUG": "energy_pie",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-energy-pie.git"
+ },
+ {
+  "MISSION_SLUG": "eternal_marathon",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-achilles-tortoise.git"
+ },
+ {
+  "MISSION_SLUG": "even_last",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-even-last.git"
+ },
+ {
+  "MISSION_SLUG": "find_sequence",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-find-sequence.git"
+ },
+ {
+  "MISSION_SLUG": "fizz_buzz",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-fizz-buzz.git"
+ },
+ {
+  "MISSION_SLUG": "flat_dictionary",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-flatten-dict.git"
+ },
+ {
+  "MISSION_SLUG": "flatten_list",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-flatten-list.git"
+ },
+ {
+  "MISSION_SLUG": "friendly_numbers",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-friendly-number.git"
+ },
+ {
+  "MISSION_SLUG": "good_radix",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-good-radix.git"
+ },
+ {
+  "MISSION_SLUG": "guess_number",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-number-guess.git"
+ },
+ {
+  "MISSION_SLUG": "hamming_distance",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-hamming-distance.git"
+ },
+ {
+  "MISSION_SLUG": "hidden_word",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-hidden-word.git"
+ },
+ {
+  "MISSION_SLUG": "index_power",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-index-power.git"
+ },
+ {
+  "MISSION_SLUG": "knight_path",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-knight-maneur.git"
+ },
+ {
+  "MISSION_SLUG": "landing_holes",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-landing-holes.git"
+ },
+ {
+  "MISSION_SLUG": "letter_queue",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-letter-queue.git"
+ },
+ {
+  "MISSION_SLUG": "median",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-median.git"
+ },
+ {
+  "MISSION_SLUG": "mind-switcher",
+  "repository_url": "https://github.com/Empire-of-Code-Puzzles/eoc-puzzle-mind-switcher.git"
+ },
+ {
+  "MISSION_SLUG": "mona_captcha",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-digit-captcha.git"
+ },
+ {
+  "MISSION_SLUG": "monkey_typing",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-monkey-typing.git"
+ },
+ {
+  "MISSION_SLUG": "morse_clock",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-morse-clock.git"
+ },
+ {
+  "MISSION_SLUG": "most_numbers",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-most-numbers.git"
+ },
+ {
+  "MISSION_SLUG": "most_wanted_letter",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-most-wanted-letter.git"
+ },
+ {
+  "MISSION_SLUG": "network_attack",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-network-attack.git"
+ },
+ {
+  "MISSION_SLUG": "non_unique",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-non-unique-elements.git"
+ },
+ {
+  "MISSION_SLUG": "number_base",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-number-radix.git"
+ },
+ {
+  "MISSION_SLUG": "number_factory",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-numbers-factory.git"
+ },
+ {
+  "MISSION_SLUG": "pangram",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-pangram.git"
+ },
+ {
+  "MISSION_SLUG": "pattern_recognition",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-pattern-recogntion.git"
+ },
+ {
+  "MISSION_SLUG": "pawn_brotherhood",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-pawn-brotherhood.git"
+ },
+ {
+  "MISSION_SLUG": "pearl_box",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-pearl-box.git"
+ },
+ {
+  "MISSION_SLUG": "place_queens",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-place-queens.git"
+ },
+ {
+  "MISSION_SLUG": "playfair_cipher",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-playfair-cipher.git"
+ },
+ {
+  "MISSION_SLUG": "probably_dice",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-probably-dice.git"
+ },
+ {
+  "MISSION_SLUG": "repeating_decimals",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-repeating-decimal.git"
+ },
+ {
+  "MISSION_SLUG": "robot_sort",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-robot-sort.git"
+ },
+ {
+  "MISSION_SLUG": "roman_numbers",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-roman-numerals.git"
+ },
+ {
+  "MISSION_SLUG": "secret_message",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-secret-message.git"
+ },
+ {
+  "MISSION_SLUG": "shooting_range",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-shooting-range.git"
+ },
+ {
+  "MISSION_SLUG": "simple_areas",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-simple-areas.git"
+ },
+ {
+  "MISSION_SLUG": "skew_symmetry",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-skew-symmetric-matrix.git"
+ },
+ {
+  "MISSION_SLUG": "space_golf",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-space-golf.git"
+ },
+ {
+  "MISSION_SLUG": "speech_module",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-speech-module.git"
+ },
+ {
+  "MISSION_SLUG": "spheroid_bullet",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-spheroid-bullet.git"
+ },
+ {
+  "MISSION_SLUG": "square_codes",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-square-codes.git"
+ },
+ {
+  "MISSION_SLUG": "square_spiral",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-square-spiral.git"
+ },
+ {
+  "MISSION_SLUG": "stair_steps",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-stair-steps.git"
+ },
+ {
+  "MISSION_SLUG": "striped_words",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-striped-words.git"
+ },
+ {
+  "MISSION_SLUG": "structure_pattern",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-structure-pattern.git"
+ },
+ {
+  "MISSION_SLUG": "super_root",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-super-root.git"
+ },
+ {
+  "MISSION_SLUG": "text-holes",
+  "repository_url": "https://github.com/Empire-of-Code-Puzzles/eoc-puzzle-text-hole-golf"
+ },
+ {
+  "MISSION_SLUG": "three_point_circle",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-three-points-circle.git"
+ },
+ {
+  "MISSION_SLUG": "three_words",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-three-words.git"
+ },
+ {
+  "MISSION_SLUG": "transpose_matrix",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-matrix-transpose.git"
+ },
+ {
+  "MISSION_SLUG": "triangle_angles",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-triangle-angles.git"
+ },
+ {
+  "MISSION_SLUG": "union_search",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-union-search.git"
+ },
+ {
+  "MISSION_SLUG": "vault_password",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-vault-password.git"
+ },
+ {
+  "MISSION_SLUG": "verify_anagrams",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-verify-anagrams.git"
+ },
+ {
+  "MISSION_SLUG": "weak_point",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-weak-point.git"
+ },
+ {
+  "MISSION_SLUG": "x_o_referee",
+  "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-x-o-referee.git"
+ }
+]

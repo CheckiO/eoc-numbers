@@ -1,0 +1,30 @@
+[
+ {
+  "MISSION_SLUG": "x_o_referee",
+  "building_level": 1,
+  "building_number": 2,
+  "building_slug": "machine_gun",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "can_you_pass",
+  "building_level": 3,
+  "building_number": 2,
+  "building_slug": "machine_gun",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "count_neighbours",
+  "building_level": 3,
+  "building_number": 1,
+  "building_slug": "machine_gun",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "space_golf",
+  "building_level": 5,
+  "building_number": 1,
+  "building_slug": "machine_gun",
+  "order_menu": 1
+ }
+]

@@ -1,0 +1,65 @@
+[
+ {
+  "MISSION_SLUG": "clock_angle",
+  "building_level": 2,
+  "building_number": 1,
+  "building_slug": "craft_pad",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "square_codes",
+  "building_level": 2,
+  "building_number": 2,
+  "building_slug": "craft_pad",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "probably_dice",
+  "building_level": 3,
+  "building_number": 3,
+  "building_slug": "craft_pad",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "energy_pie",
+  "building_level": 4,
+  "building_number": 4,
+  "building_slug": "craft_pad",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "morse_clock",
+  "building_level": 4,
+  "building_number": 1,
+  "building_slug": "craft_pad",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "repeating_decimals",
+  "building_level": 5,
+  "building_number": 2,
+  "building_slug": "craft_pad",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "knight_path",
+  "building_level": 7,
+  "building_number": 4,
+  "building_slug": "craft_pad",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "mona_captcha",
+  "building_level": 7,
+  "building_number": 3,
+  "building_slug": "craft_pad",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "network_attack",
+  "building_level": 7,
+  "building_number": 1,
+  "building_slug": "craft_pad",
+  "order_menu": 1
+ }
+]

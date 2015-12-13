@@ -1,0 +1,98 @@
+[
+ {
+  "LEVEL": 1,
+  "UNIT_SLUG": "heavy_bot",
+  "amount_resource_production": 300,
+  "amount_resource_upgrade": 0,
+  "damage_per_shot": 5.2,
+  "hit_points": 1000,
+  "resource_slug": "crystalite",
+  "time_production": 360,
+  "time_upgrade": 0,
+  "xp_gain": 0
+ },
+ {
+  "LEVEL": 2,
+  "UNIT_SLUG": "heavy_bot",
+  "amount_resource_production": 500,
+  "amount_resource_upgrade": 10400,
+  "damage_per_shot": 5.6,
+  "hit_points": 1080,
+  "resource_slug": "crystalite",
+  "time_production": 360,
+  "time_upgrade": 10800,
+  "xp_gain": 0
+ },
+ {
+  "LEVEL": 3,
+  "UNIT_SLUG": "heavy_bot",
+  "amount_resource_production": 700,
+  "amount_resource_upgrade": 21800,
+  "damage_per_shot": 6.2,
+  "hit_points": 1166,
+  "resource_slug": "crystalite",
+  "time_production": 360,
+  "time_upgrade": 14400,
+  "xp_gain": 0
+ },
+ {
+  "LEVEL": 4,
+  "UNIT_SLUG": "heavy_bot",
+  "amount_resource_production": 900,
+  "amount_resource_upgrade": 47000,
+  "damage_per_shot": 6.6,
+  "hit_points": 1260,
+  "resource_slug": "crystalite",
+  "time_production": 360,
+  "time_upgrade": 25200,
+  "xp_gain": 0
+ },
+ {
+  "LEVEL": 5,
+  "UNIT_SLUG": "heavy_bot",
+  "amount_resource_production": 1100,
+  "amount_resource_upgrade": 94000,
+  "damage_per_shot": 7.2,
+  "hit_points": 1360,
+  "resource_slug": "crystalite",
+  "time_production": 360,
+  "time_upgrade": 32400,
+  "xp_gain": 0
+ },
+ {
+  "LEVEL": 6,
+  "UNIT_SLUG": "heavy_bot",
+  "amount_resource_production": 1400,
+  "amount_resource_upgrade": 159000,
+  "damage_per_shot": 7.8,
+  "hit_points": 1469,
+  "resource_slug": "crystalite",
+  "time_production": 360,
+  "time_upgrade": 50400,
+  "xp_gain": 0
+ },
+ {
+  "LEVEL": 7,
+  "UNIT_SLUG": "heavy_bot",
+  "amount_resource_production": 1700,
+  "amount_resource_upgrade": 268000,
+  "damage_per_shot": 8.4,
+  "hit_points": 1587,
+  "resource_slug": "crystalite",
+  "time_production": 360,
+  "time_upgrade": 68400,
+  "xp_gain": 0
+ },
+ {
+  "LEVEL": 8,
+  "UNIT_SLUG": "heavy_bot",
+  "amount_resource_production": 2000,
+  "amount_resource_upgrade": 420000,
+  "damage_per_shot": 9.2,
+  "hit_points": 1714,
+  "resource_slug": "crystalite",
+  "time_production": 360,
+  "time_upgrade": 90000,
+  "xp_gain": 0
+ }
+]

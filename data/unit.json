@@ -1,32 +1,32 @@
 [
-  {
-    "fire_range":4.0,
-    "description":"Infantry Bot",
-    "title":"InfantryBot",
-    "fire_rate":2.0,
-    "occupied_space":1,
-    "order_menu":1,
-    "movement_speed":2,
-    "SLUG":"infantry_bot"
-  },
-  {
-    "fire_range":2.5,
-    "description":"Heavy Bot",
-    "title":"HeavyBot",
-    "fire_rate":10.0,
-    "occupied_space":5,
-    "order_menu":2,
-    "movement_speed":1,
-    "SLUG":"heavy_bot"
-  },
-  {
-    "fire_range":8.0,
-    "description":"Rocket Bot",
-    "title":"RocketBot",
-    "fire_rate":0.5,
-    "occupied_space":2,
-    "order_menu":3,
-    "movement_speed":2,
-    "SLUG":"rocket_bot"
-  }
+ {
+  "SLUG": "heavy_bot",
+  "description": "Heavy Bot",
+  "fire_range": 2.5,
+  "fire_rate": 10.0,
+  "movement_speed": 1.0,
+  "occupied_space": 5,
+  "order_menu": 2,
+  "title": "HeavyBot"
+ },
+ {
+  "SLUG": "infantry_bot",
+  "description": "Infantry Bot",
+  "fire_range": 4.0,
+  "fire_rate": 2.0,
+  "movement_speed": 2.0,
+  "occupied_space": 1,
+  "order_menu": 1,
+  "title": "InfantryBot"
+ },
+ {
+  "SLUG": "rocket_bot",
+  "description": "Rocket Bot",
+  "fire_range": 8.0,
+  "fire_rate": 0.5,
+  "movement_speed": 2.0,
+  "occupied_space": 2,
+  "order_menu": 3,
+  "title": "RocketBot"
+ }
 ]

@@ -1,0 +1,86 @@
+[
+ {
+  "MISSION_SLUG": "fizz_buzz",
+  "building_level": 1,
+  "building_number": 2,
+  "building_slug": "crystalite_farm",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "crystal_row",
+  "building_level": 2,
+  "building_number": 1,
+  "building_slug": "crystalite_farm",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "speech_module",
+  "building_level": 2,
+  "building_number": 4,
+  "building_slug": "crystalite_farm",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "monkey_typing",
+  "building_level": 3,
+  "building_number": 3,
+  "building_slug": "crystalite_farm",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "crystal_grid",
+  "building_level": 4,
+  "building_number": 1,
+  "building_slug": "crystalite_farm",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "digits_multiplication",
+  "building_level": 4,
+  "building_number": 2,
+  "building_slug": "crystalite_farm",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "digit_stack",
+  "building_level": 5,
+  "building_number": 3,
+  "building_slug": "crystalite_farm",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "good_radix",
+  "building_level": 5,
+  "building_number": 4,
+  "building_slug": "crystalite_farm",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "structure_pattern",
+  "building_level": 5,
+  "building_number": 1,
+  "building_slug": "crystalite_farm",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "friendly_numbers",
+  "building_level": 6,
+  "building_number": 2,
+  "building_slug": "crystalite_farm",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "hidden_word",
+  "building_level": 6,
+  "building_number": 4,
+  "building_slug": "crystalite_farm",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "most_wanted_letter",
+  "building_level": 6,
+  "building_number": 3,
+  "building_slug": "crystalite_farm",
+  "order_menu": 1
+ }
+]

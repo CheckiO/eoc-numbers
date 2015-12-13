@@ -1,0 +1,102 @@
+[
+ {
+  "BUILDING_SLUG": "command_center",
+  "LEVEL": 1,
+  "RESOURCE_SLUG": null,
+  "amount_resource_construction": 0,
+  "hit_points": 5000,
+  "time_upgrade": 0,
+  "user_level": 1,
+  "xp_gain": 0
+ },
+ {
+  "BUILDING_SLUG": "command_center",
+  "LEVEL": 2,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 600,
+  "hit_points": 11000,
+  "time_upgrade": 600,
+  "user_level": 1,
+  "xp_gain": 1
+ },
+ {
+  "BUILDING_SLUG": "command_center",
+  "LEVEL": 3,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 1900,
+  "hit_points": 12000,
+  "time_upgrade": 3600,
+  "user_level": 1,
+  "xp_gain": 7
+ },
+ {
+  "BUILDING_SLUG": "command_center",
+  "LEVEL": 4,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 5900,
+  "hit_points": 14000,
+  "time_upgrade": 7200,
+  "user_level": 3,
+  "xp_gain": 13
+ },
+ {
+  "BUILDING_SLUG": "command_center",
+  "LEVEL": 5,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 13000,
+  "hit_points": 16000,
+  "time_upgrade": 18000,
+  "user_level": 8,
+  "xp_gain": 17
+ },
+ {
+  "BUILDING_SLUG": "command_center",
+  "LEVEL": 6,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 25000,
+  "hit_points": 18000,
+  "time_upgrade": 21600,
+  "user_level": 10,
+  "xp_gain": 19
+ },
+ {
+  "BUILDING_SLUG": "command_center",
+  "LEVEL": 7,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 33000,
+  "hit_points": 20000,
+  "time_upgrade": 25200,
+  "user_level": 13,
+  "xp_gain": 20
+ },
+ {
+  "BUILDING_SLUG": "command_center",
+  "LEVEL": 8,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 49000,
+  "hit_points": 23000,
+  "time_upgrade": 28800,
+  "user_level": 15,
+  "xp_gain": 22
+ },
+ {
+  "BUILDING_SLUG": "command_center",
+  "LEVEL": 9,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 81000,
+  "hit_points": 26000,
+  "time_upgrade": 36000,
+  "user_level": 18,
+  "xp_gain": 26
+ },
+ {
+  "BUILDING_SLUG": "command_center",
+  "LEVEL": 10,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 126000,
+  "hit_points": 29000,
+  "time_upgrade": 43200,
+  "user_level": 21,
+  "xp_gain": 26
+ }
+]

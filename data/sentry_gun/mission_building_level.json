@@ -1,0 +1,107 @@
+[
+ {
+  "MISSION_SLUG": "number_base",
+  "building_level": 1,
+  "building_number": 2,
+  "building_slug": "sentry_gun",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "binary_count",
+  "building_level": 2,
+  "building_number": 1,
+  "building_slug": "sentry_gun",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "boolean_algebra",
+  "building_level": 2,
+  "building_number": 3,
+  "building_slug": "sentry_gun",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "flat_dictionary",
+  "building_level": 3,
+  "building_number": 5,
+  "building_slug": "sentry_gun",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "pangram",
+  "building_level": 3,
+  "building_number": 1,
+  "building_slug": "sentry_gun",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "spheroid_bullet",
+  "building_level": 4,
+  "building_number": 4,
+  "building_slug": "sentry_gun",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "transpose_matrix",
+  "building_level": 4,
+  "building_number": 2,
+  "building_slug": "sentry_gun",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "shooting_range",
+  "building_level": 5,
+  "building_number": 5,
+  "building_slug": "sentry_gun",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "skew_symmetry",
+  "building_level": 5,
+  "building_number": 3,
+  "building_slug": "sentry_gun",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "weak_point",
+  "building_level": 5,
+  "building_number": 1,
+  "building_slug": "sentry_gun",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "pawn_brotherhood",
+  "building_level": 6,
+  "building_number": 2,
+  "building_slug": "sentry_gun",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "eternal_marathon",
+  "building_level": 7,
+  "building_number": 5,
+  "building_slug": "sentry_gun",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "determinant",
+  "building_level": 8,
+  "building_number": 2,
+  "building_slug": "sentry_gun",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "broken_clock",
+  "building_level": 9,
+  "building_number": 4,
+  "building_slug": "sentry_gun",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "number_factory",
+  "building_level": 9,
+  "building_number": 1,
+  "building_slug": "sentry_gun",
+  "order_menu": 1
+ }
+]

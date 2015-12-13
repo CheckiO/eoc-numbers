@@ -1,232 +1,255 @@
 [
-  {
-    "description":"Extracts mineral Adamantite for construction.",
-    "title":"Adamantite mine",
-    "CATEGORY_SLUG":"resource",
-    "description_upgrade":"",
-    "is_available":true,
-    "grid_height":3,
-    "grid_width":3,
-    "SLUG":"adamantite_mine"
-  },
-  {
-    "description":"Purpose-built high capacity sheds for holding large quantities of Adamantite.",
-    "title":"Adamantite storage",
-    "CATEGORY_SLUG":"resource",
-    "description_upgrade":null,
-    "is_available":true,
-    "grid_height":3,
-    "grid_width":3,
-    "SLUG":"adamantite_storage"
-  },
-  {
-    "description":"",
-    "title":"Birthday Cake",
-    "CATEGORY_SLUG":"decor",
-    "description_upgrade":null,
-    "is_available":true,
-    "grid_height":2,
-    "grid_width":2,
-    "SLUG":"birthday_cake"
-  },
-  {
-    "description":"The nervous system of your colony. Upgrades enable increased construction capabilities and storage.",
-    "title":"Command Center",
-    "CATEGORY_SLUG":null,
-    "description_upgrade":null,
-    "is_available":true,
-    "grid_height":4,
-    "grid_width":4,
-    "SLUG":"command_center"
-  },
-  {
-    "description":"Prepare your troops, upload battle code in robominds and launch them to fight.",
-    "title":"Craft Pad",
-    "CATEGORY_SLUG":"support",
-    "description_upgrade":"",
-    "is_available":true,
-    "grid_height":3,
-    "grid_width":3,
-    "SLUG":"craft_pad"
-  },
-  {
-    "description":"Grows and harvests one of the most precious resources available.",
-    "title":"Crystalite farm",
-    "CATEGORY_SLUG":"resource",
-    "description_upgrade":null,
-    "is_available":true,
-    "grid_height":3,
-    "grid_width":3,
-    "SLUG":"crystalite_farm"
-  },
-  {
-    "description":"High capacity specialised silos for the storage of raw Crystalite.",
-    "title":"Crystalite silo",
-    "CATEGORY_SLUG":"resource",
-    "description_upgrade":null,
-    "is_available":true,
-    "grid_height":3,
-    "grid_width":3,
-    "SLUG":"crystalite_silo"
-  },
-  {
-    "description":"",
-    "title":"Dragon Bones",
-    "CATEGORY_SLUG":"decor",
-    "description_upgrade":null,
-    "is_available":true,
-    "grid_height":3,
-    "grid_width":3,
-    "SLUG":"dragon_bones"
-  },
-  {
-    "description":"",
-    "title":"Flag Stock",
-    "CATEGORY_SLUG":null,
-    "description_upgrade":null,
-    "is_available":true,
-    "grid_height":2,
-    "grid_width":2,
-    "SLUG":"flag_stock"
-  },
-  {
-    "description":"",
-    "title":"Golden Cat",
-    "CATEGORY_SLUG":"decor",
-    "description_upgrade":null,
-    "is_available":true,
-    "grid_height":2,
-    "grid_width":2,
-    "SLUG":"golden_cat"
-  },
-  {
-    "description":"Research new tech, to upgrade units and weapons and keep your colony on the bleeding edge.",
-    "title":"Laboratory",
-    "CATEGORY_SLUG":"support",
-    "description_upgrade":null,
-    "is_available":true,
-    "grid_height":3,
-    "grid_width":3,
-    "SLUG":"laboratory"
-  },
-  {
-    "description":"Hidden explosives which can decimate the enemy once tread on.",
-    "title":"Landmine",
-    "CATEGORY_SLUG":"defense",
-    "description_upgrade":null,
-    "is_available":false,
-    "grid_height":1,
-    "grid_width":1,
-    "SLUG":"landmine"
-  },
-  {
-    "description":"Quickly cut down encroaching forces with the high rate of fire from these machine gunners.",
-    "title":"Machine Gun",
-    "CATEGORY_SLUG":"defense",
-    "description_upgrade":null,
-    "is_available":true,
-    "grid_height":2,
-    "grid_width":2,
-    "SLUG":"machine_gun"
-  },
-  {
-    "description":"",
-    "title":"Mushroom",
-    "CATEGORY_SLUG":"decor",
-    "description_upgrade":null,
-    "is_available":true,
-    "grid_height":2,
-    "grid_width":2,
-    "SLUG":"mushroom"
-  },
-  {
-    "description":"",
-    "title":"RIP",
-    "CATEGORY_SLUG":"decor",
-    "description_upgrade":null,
-    "is_available":true,
-    "grid_height":2,
-    "grid_width":2,
-    "SLUG":"rip"
-  },
-  {
-    "description":"Targets groups of enemy forces with long-range explosive shells.",
-    "title":"Rocket Gun",
-    "CATEGORY_SLUG":"defense",
-    "description_upgrade":"",
-    "is_available":false,
-    "grid_height":2,
-    "grid_width":2,
-    "SLUG":"rocket_gun"
-  },
-  {
-    "description":"",
-    "title":"Rocket Stone",
-    "CATEGORY_SLUG":"decor",
-    "description_upgrade":null,
-    "is_available":true,
-    "grid_height":2,
-    "grid_width":2,
-    "SLUG":"rocket_stone"
-  },
-  {
-    "description":"",
-    "title":"Scarecrow",
-    "CATEGORY_SLUG":"decor",
-    "description_upgrade":null,
-    "is_available":true,
-    "grid_height":2,
-    "grid_width":2,
-    "SLUG":"scarecrow"
-  },
-  {
-    "description":"Snipe enemy combatants from long range with this high powered rifle tower.",
-    "title":"Sentry Gun",
-    "CATEGORY_SLUG":"defense",
-    "description_upgrade":null,
-    "is_available":true,
-    "grid_height":3,
-    "grid_width":3,
-    "SLUG":"sentry_gun"
-  },
-  {
-    "description":"",
-    "title":"Stone Lego",
-    "CATEGORY_SLUG":"decor",
-    "description_upgrade":null,
-    "is_available":true,
-    "grid_height":2,
-    "grid_width":2,
-    "SLUG":"stone_lego"
-  },
-  {
-    "description":"",
-    "title":"UFO",
-    "CATEGORY_SLUG":"decor",
-    "description_upgrade":null,
-    "is_available":true,
-    "grid_height":3,
-    "grid_width":3,
-    "SLUG":"ufo"
-  },
-  {
-    "description":"Resources are kept safe from damage and theft within the walls of the impenetrable Vaultmaster 5K.",
-    "title":"Vault",
-    "CATEGORY_SLUG":"resource",
-    "description_upgrade":null,
-    "is_available":true,
-    "grid_height":3,
-    "grid_width":3,
-    "SLUG":"vault"
-  },
-  {
-    "description":"",
-    "title":"Zeus",
-    "CATEGORY_SLUG":"decor",
-    "description_upgrade":null,
-    "is_available":true,
-    "grid_height":3,
-    "grid_width":3,
-    "SLUG":"zeus"
-  }
+ {
+  "CATEGORY_SLUG": "resource",
+  "SLUG": "adamantite_mine",
+  "description": "Extracts mineral Adamantite for construction.",
+  "description_upgrade": "",
+  "grid_height": 3,
+  "grid_width": 3,
+  "is_available": true,
+  "order_menu": 1,
+  "title": "Adamantite mine"
+ },
+ {
+  "CATEGORY_SLUG": "resource",
+  "SLUG": "adamantite_storage",
+  "description": "Purpose-built high capacity sheds for holding large quantities of Adamantite.",
+  "description_upgrade": null,
+  "grid_height": 3,
+  "grid_width": 3,
+  "is_available": true,
+  "order_menu": 1,
+  "title": "Adamantite storage"
+ },
+ {
+  "CATEGORY_SLUG": "decor",
+  "SLUG": "birthday_cake",
+  "description": "",
+  "description_upgrade": null,
+  "grid_height": 2,
+  "grid_width": 2,
+  "is_available": true,
+  "order_menu": 1,
+  "title": "Birthday Cake"
+ },
+ {
+  "CATEGORY_SLUG": null,
+  "SLUG": "command_center",
+  "description": "The nervous system of your colony. Upgrades enable increased construction capabilities and storage.",
+  "description_upgrade": null,
+  "grid_height": 4,
+  "grid_width": 4,
+  "is_available": true,
+  "order_menu": 1,
+  "title": "Command Center"
+ },
+ {
+  "CATEGORY_SLUG": "support",
+  "SLUG": "craft_pad",
+  "description": "Prepare your troops, upload battle code in robominds and launch them to fight.",
+  "description_upgrade": "",
+  "grid_height": 3,
+  "grid_width": 3,
+  "is_available": true,
+  "order_menu": 1,
+  "title": "Craft Pad"
+ },
+ {
+  "CATEGORY_SLUG": "resource",
+  "SLUG": "crystalite_farm",
+  "description": "Grows and harvests one of the most precious resources available.",
+  "description_upgrade": null,
+  "grid_height": 3,
+  "grid_width": 3,
+  "is_available": true,
+  "order_menu": 1,
+  "title": "Crystalite farm"
+ },
+ {
+  "CATEGORY_SLUG": "resource",
+  "SLUG": "crystalite_silo",
+  "description": "High capacity specialised silos for the storage of raw Crystalite.",
+  "description_upgrade": null,
+  "grid_height": 3,
+  "grid_width": 3,
+  "is_available": true,
+  "order_menu": 1,
+  "title": "Crystalite silo"
+ },
+ {
+  "CATEGORY_SLUG": "decor",
+  "SLUG": "dragon_bones",
+  "description": "",
+  "description_upgrade": null,
+  "grid_height": 3,
+  "grid_width": 3,
+  "is_available": true,
+  "order_menu": 1,
+  "title": "Dragon Bones"
+ },
+ {
+  "CATEGORY_SLUG": null,
+  "SLUG": "flag_stock",
+  "description": "",
+  "description_upgrade": null,
+  "grid_height": 2,
+  "grid_width": 2,
+  "is_available": true,
+  "order_menu": 1,
+  "title": "Flag Stock"
+ },
+ {
+  "CATEGORY_SLUG": "decor",
+  "SLUG": "golden_cat",
+  "description": "",
+  "description_upgrade": null,
+  "grid_height": 2,
+  "grid_width": 2,
+  "is_available": true,
+  "order_menu": 1,
+  "title": "Golden Cat"
+ },
+ {
+  "CATEGORY_SLUG": "support",
+  "SLUG": "laboratory",
+  "description": "Research new tech, to upgrade units and weapons and keep your colony on the bleeding edge.",
+  "description_upgrade": null,
+  "grid_height": 3,
+  "grid_width": 3,
+  "is_available": true,
+  "order_menu": 1,
+  "title": "Laboratory"
+ },
+ {
+  "CATEGORY_SLUG": "defense",
+  "SLUG": "landmine",
+  "description": "Hidden explosives which can decimate the enemy once tread on.",
+  "description_upgrade": null,
+  "grid_height": 1,
+  "grid_width": 1,
+  "is_available": false,
+  "order_menu": 1,
+  "title": "Landmine"
+ },
+ {
+  "CATEGORY_SLUG": "defense",
+  "SLUG": "machine_gun",
+  "description": "Quickly cut down encroaching forces with the high rate of fire from these machine gunners.",
+  "description_upgrade": null,
+  "grid_height": 2,
+  "grid_width": 2,
+  "is_available": true,
+  "order_menu": 1,
+  "title": "Machine Gun"
+ },
+ {
+  "CATEGORY_SLUG": "decor",
+  "SLUG": "mushroom",
+  "description": "",
+  "description_upgrade": null,
+  "grid_height": 2,
+  "grid_width": 2,
+  "is_available": true,
+  "order_menu": 1,
+  "title": "Mushroom"
+ },
+ {
+  "CATEGORY_SLUG": "decor",
+  "SLUG": "rip",
+  "description": "",
+  "description_upgrade": null,
+  "grid_height": 2,
+  "grid_width": 2,
+  "is_available": true,
+  "order_menu": 1,
+  "title": "RIP"
+ },
+ {
+  "CATEGORY_SLUG": "defense",
+  "SLUG": "rocket_gun",
+  "description": "Targets groups of enemy forces with long-range explosive shells.",
+  "description_upgrade": "",
+  "grid_height": 2,
+  "grid_width": 2,
+  "is_available": true,
+  "order_menu": 1,
+  "title": "Rocket Gun"
+ },
+ {
+  "CATEGORY_SLUG": "decor",
+  "SLUG": "rocket_stone",
+  "description": "",
+  "description_upgrade": null,
+  "grid_height": 2,
+  "grid_width": 2,
+  "is_available": true,
+  "order_menu": 1,
+  "title": "Rocket Stone"
+ },
+ {
+  "CATEGORY_SLUG": "decor",
+  "SLUG": "scarecrow",
+  "description": "",
+  "description_upgrade": null,
+  "grid_height": 2,
+  "grid_width": 2,
+  "is_available": true,
+  "order_menu": 1,
+  "title": "Scarecrow"
+ },
+ {
+  "CATEGORY_SLUG": "defense",
+  "SLUG": "sentry_gun",
+  "description": "Snipe enemy combatants from long range with this high powered rifle tower.",
+  "description_upgrade": null,
+  "grid_height": 3,
+  "grid_width": 3,
+  "is_available": true,
+  "order_menu": 1,
+  "title": "Sentry Gun"
+ },
+ {
+  "CATEGORY_SLUG": "decor",
+  "SLUG": "stone_lego",
+  "description": "",
+  "description_upgrade": null,
+  "grid_height": 2,
+  "grid_width": 2,
+  "is_available": true,
+  "order_menu": 1,
+  "title": "Stone Lego"
+ },
+ {
+  "CATEGORY_SLUG": "decor",
+  "SLUG": "ufo",
+  "description": "",
+  "description_upgrade": null,
+  "grid_height": 3,
+  "grid_width": 3,
+  "is_available": true,
+  "order_menu": 1,
+  "title": "UFO"
+ },
+ {
+  "CATEGORY_SLUG": "resource",
+  "SLUG": "vault",
+  "description": "Resources are kept safe from damage and theft within the walls of the impenetrable Vaultmaster 5K.",
+  "description_upgrade": null,
+  "grid_height": 3,
+  "grid_width": 3,
+  "is_available": true,
+  "order_menu": 1,
+  "title": "Vault"
+ },
+ {
+  "CATEGORY_SLUG": "decor",
+  "SLUG": "zeus",
+  "description": "",
+  "description_upgrade": null,
+  "grid_height": 3,
+  "grid_width": 3,
+  "is_available": true,
+  "order_menu": 1,
+  "title": "Zeus"
+ }
 ]

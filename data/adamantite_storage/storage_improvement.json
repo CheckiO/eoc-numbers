@@ -1,0 +1,72 @@
+[
+ {
+  "BUILDING_LEVEL": 1,
+  "BUILDING_SLUG": "adamantite_storage",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "count_ingots",
+  "TIER": 1,
+  "type_improvement": 1,
+  "value": 800,
+  "xp_gain": 4
+ },
+ {
+  "BUILDING_LEVEL": 2,
+  "BUILDING_SLUG": "adamantite_storage",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "broken_reports",
+  "TIER": 1,
+  "type_improvement": 1,
+  "value": 1600,
+  "xp_gain": 7
+ },
+ {
+  "BUILDING_LEVEL": 2,
+  "BUILDING_SLUG": "adamantite_storage",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "broken_reports",
+  "TIER": 2,
+  "type_improvement": 1,
+  "value": 1600,
+  "xp_gain": 7
+ },
+ {
+  "BUILDING_LEVEL": 2,
+  "BUILDING_SLUG": "adamantite_storage",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "broken_reports",
+  "TIER": 3,
+  "type_improvement": 1,
+  "value": 1600,
+  "xp_gain": 7
+ },
+ {
+  "BUILDING_LEVEL": 3,
+  "BUILDING_SLUG": "adamantite_storage",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "daily_reports",
+  "TIER": 1,
+  "type_improvement": 1,
+  "value": 2000,
+  "xp_gain": 12
+ },
+ {
+  "BUILDING_LEVEL": 4,
+  "BUILDING_SLUG": "adamantite_storage",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "letter_queue",
+  "TIER": 1,
+  "type_improvement": 1,
+  "value": 6400,
+  "xp_gain": 25
+ },
+ {
+  "BUILDING_LEVEL": 5,
+  "BUILDING_SLUG": "adamantite_storage",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "call_base",
+  "TIER": 1,
+  "type_improvement": 1,
+  "value": 6400,
+  "xp_gain": 25
+ }
+]

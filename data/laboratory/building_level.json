@@ -1,0 +1,72 @@
+[
+ {
+  "BUILDING_SLUG": "laboratory",
+  "LEVEL": 1,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 2600,
+  "hit_points": 1200,
+  "time_upgrade": 2700,
+  "user_level": 1,
+  "xp_gain": 8
+ },
+ {
+  "BUILDING_SLUG": "laboratory",
+  "LEVEL": 2,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 10000,
+  "hit_points": 1300,
+  "time_upgrade": 7200,
+  "user_level": 1,
+  "xp_gain": 14
+ },
+ {
+  "BUILDING_SLUG": "laboratory",
+  "LEVEL": 3,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 19800,
+  "hit_points": 1400,
+  "time_upgrade": 12600,
+  "user_level": 1,
+  "xp_gain": 18
+ },
+ {
+  "BUILDING_SLUG": "laboratory",
+  "LEVEL": 4,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 29400,
+  "hit_points": 1500,
+  "time_upgrade": 18000,
+  "user_level": 1,
+  "xp_gain": 20
+ },
+ {
+  "BUILDING_SLUG": "laboratory",
+  "LEVEL": 5,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 49000,
+  "hit_points": 1600,
+  "time_upgrade": 21600,
+  "user_level": 1,
+  "xp_gain": 22
+ },
+ {
+  "BUILDING_SLUG": "laboratory",
+  "LEVEL": 6,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 76000,
+  "hit_points": 1700,
+  "time_upgrade": 25200,
+  "user_level": 1,
+  "xp_gain": 26
+ },
+ {
+  "BUILDING_SLUG": "laboratory",
+  "LEVEL": 7,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 118000,
+  "hit_points": 1900,
+  "time_upgrade": 28800,
+  "user_level": 1,
+  "xp_gain": 28
+ }
+]

@@ -1,0 +1,30 @@
+[
+ {
+  "MISSION_SLUG": "vault_password",
+  "building_level": 1,
+  "building_number": 1,
+  "building_slug": "vault",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "verify_anagrams",
+  "building_level": 2,
+  "building_number": 1,
+  "building_slug": "vault",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "cipher_map",
+  "building_level": 3,
+  "building_number": 1,
+  "building_slug": "vault",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "playfair_cipher",
+  "building_level": 5,
+  "building_number": 1,
+  "building_slug": "vault",
+  "order_menu": 1
+ }
+]

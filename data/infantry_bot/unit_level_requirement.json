@@ -1,0 +1,50 @@
+[
+ {
+  "UNIT_LEVEL": 1,
+  "UNIT_SLUG": "infantry_bot",
+  "required_building_level": 1,
+  "required_building_slug": "command_center"
+ },
+ {
+  "UNIT_LEVEL": 2,
+  "UNIT_SLUG": "infantry_bot",
+  "required_building_level": 1,
+  "required_building_slug": "command_center"
+ },
+ {
+  "UNIT_LEVEL": 3,
+  "UNIT_SLUG": "infantry_bot",
+  "required_building_level": 1,
+  "required_building_slug": "command_center"
+ },
+ {
+  "UNIT_LEVEL": 4,
+  "UNIT_SLUG": "infantry_bot",
+  "required_building_level": 1,
+  "required_building_slug": "command_center"
+ },
+ {
+  "UNIT_LEVEL": 5,
+  "UNIT_SLUG": "infantry_bot",
+  "required_building_level": 1,
+  "required_building_slug": "command_center"
+ },
+ {
+  "UNIT_LEVEL": 6,
+  "UNIT_SLUG": "infantry_bot",
+  "required_building_level": 1,
+  "required_building_slug": "command_center"
+ },
+ {
+  "UNIT_LEVEL": 7,
+  "UNIT_SLUG": "infantry_bot",
+  "required_building_level": 1,
+  "required_building_slug": "command_center"
+ },
+ {
+  "UNIT_LEVEL": 8,
+  "UNIT_SLUG": "infantry_bot",
+  "required_building_level": 1,
+  "required_building_slug": "command_center"
+ }
+]

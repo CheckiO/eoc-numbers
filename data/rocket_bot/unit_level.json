@@ -1,0 +1,74 @@
+[
+ {
+  "LEVEL": 1,
+  "UNIT_SLUG": "rocket_bot",
+  "amount_resource_production": 250,
+  "amount_resource_upgrade": 0,
+  "damage_per_shot": 160.0,
+  "hit_points": 50,
+  "resource_slug": "crystalite",
+  "time_production": 240,
+  "time_upgrade": 0,
+  "xp_gain": 0
+ },
+ {
+  "LEVEL": 2,
+  "UNIT_SLUG": "rocket_bot",
+  "amount_resource_production": 330,
+  "amount_resource_upgrade": 17100,
+  "damage_per_shot": 176.0,
+  "hit_points": 54,
+  "resource_slug": "crystalite",
+  "time_production": 240,
+  "time_upgrade": 14400,
+  "xp_gain": 0
+ },
+ {
+  "LEVEL": 3,
+  "UNIT_SLUG": "rocket_bot",
+  "amount_resource_production": 450,
+  "amount_resource_upgrade": 46000,
+  "damage_per_shot": 194.0,
+  "hit_points": 59,
+  "resource_slug": "crystalite",
+  "time_production": 240,
+  "time_upgrade": 28800,
+  "xp_gain": 0
+ },
+ {
+  "LEVEL": 4,
+  "UNIT_SLUG": "rocket_bot",
+  "amount_resource_production": 550,
+  "amount_resource_upgrade": 99000,
+  "damage_per_shot": 212.0,
+  "hit_points": 67,
+  "resource_slug": "crystalite",
+  "time_production": 240,
+  "time_upgrade": 39600,
+  "xp_gain": 0
+ },
+ {
+  "LEVEL": 5,
+  "UNIT_SLUG": "rocket_bot",
+  "amount_resource_production": 700,
+  "amount_resource_upgrade": 168000,
+  "damage_per_shot": 234.0,
+  "hit_points": 70,
+  "resource_slug": "crystalite",
+  "time_production": 240,
+  "time_upgrade": 57600,
+  "xp_gain": 0
+ },
+ {
+  "LEVEL": 6,
+  "UNIT_SLUG": "rocket_bot",
+  "amount_resource_production": 850,
+  "amount_resource_upgrade": 284000,
+  "damage_per_shot": 258.0,
+  "hit_points": 76,
+  "resource_slug": "crystalite",
+  "time_production": 240,
+  "time_upgrade": 79200,
+  "xp_gain": 0
+ }
+]

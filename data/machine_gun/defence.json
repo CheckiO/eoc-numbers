@@ -1,0 +1,58 @@
+[
+ {
+  "BUILDING_LEVEL": 1,
+  "BUILDING_SLUG": "machine_gun",
+  "damage_per_shot": 20.0,
+  "fire_range": 5.0,
+  "fire_rate": 10.0,
+  "target_system": 1
+ },
+ {
+  "BUILDING_LEVEL": 2,
+  "BUILDING_SLUG": "machine_gun",
+  "damage_per_shot": 22.0,
+  "fire_range": 5.0,
+  "fire_rate": 10.0,
+  "target_system": 1
+ },
+ {
+  "BUILDING_LEVEL": 3,
+  "BUILDING_SLUG": "machine_gun",
+  "damage_per_shot": 25.0,
+  "fire_range": 5.0,
+  "fire_rate": 10.0,
+  "target_system": 1
+ },
+ {
+  "BUILDING_LEVEL": 4,
+  "BUILDING_SLUG": "machine_gun",
+  "damage_per_shot": 27.0,
+  "fire_range": 5.0,
+  "fire_rate": 10.0,
+  "target_system": 1
+ },
+ {
+  "BUILDING_LEVEL": 5,
+  "BUILDING_SLUG": "machine_gun",
+  "damage_per_shot": 30.0,
+  "fire_range": 5.0,
+  "fire_rate": 10.0,
+  "target_system": 1
+ },
+ {
+  "BUILDING_LEVEL": 6,
+  "BUILDING_SLUG": "machine_gun",
+  "damage_per_shot": 33.0,
+  "fire_range": 5.0,
+  "fire_rate": 10.0,
+  "target_system": 1
+ },
+ {
+  "BUILDING_LEVEL": 7,
+  "BUILDING_SLUG": "machine_gun",
+  "damage_per_shot": 36.0,
+  "fire_range": 5.0,
+  "fire_rate": 10.0,
+  "target_system": 1
+ }
+]

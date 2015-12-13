@@ -1,8 +1,19 @@
-from jinja2 import FileSystemLoader
-from jinja2.environment import Environment
+#!/usr/bin/env python3
 
-env = Environment()
-env.loader = FileSystemLoader('.')
-tmpl = env.get_template('balance/main.json')
+import os
+from json import load, dumps
 
-print(tmpl.render())
+data = {}
+
+from settings import FOLDER_SPLITTED
+
+for root, dirs, files in os.walk(FOLDER_SPLITTED):
+    for filename in files:
+        if not filename.endswith('json'):
+            continue
+        key = filename.split('.')[0]
+        if key not in data:
+            data[key] = []
+        data[key] += load(open(os.path.join(root, filename)))
+
+print(dumps(data))

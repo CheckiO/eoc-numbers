@@ -258,7 +258,7 @@ function processDataBuilding(buildingSlug) {
 	$('title').text(generalData.title + '. ' + CONFIG.title);
 	$('.out__name').text(generalData.title);
 	$('.out__description').text(generalData.description);
-	$('.out__img').attr('src', '../img/' + buildingSlug + '.png');
+	$('.out__img').attr('src', 'img/' + buildingSlug + '.png');
 
 	var specData = DATA.B[buildingSlug],
 		specTypeData = specData[configData.type];
@@ -372,7 +372,7 @@ function processDataUnit(unitSlug) {
 	$('title').text(generalData.title + '. ' + CONFIG.title);
 
 	$('.out__name').text(generalData.title);
-	$('.out__img').attr('src', '../img/' + unitSlug + '.png');
+	$('.out__img').attr('src', 'img/' + unitSlug + '.png');
 
 	$table = $('.out__general');
 	$table.append(

@@ -2,7 +2,7 @@ var CONFIG = {
 	data: 'data/',
 	maxLevel: 10,
 	maxUnitLevel: 8,
-	dataLink: 'https://github.com/CheckiO/eoc-game/tree/gh-pages/data',
+	dataLink: 'https://github.com/CheckiO/eoc-game/tree/gh-pages/data/',
 	title: ' EoC Numbers'
 };
 var DATA = {
@@ -57,7 +57,7 @@ function formatPrice(amount) {
 }
 
 function appedLog(line) {
-	var url = line.replace('../data', CONFIG.dataLink);
+	var url = line.replace('data/', CONFIG.dataLink);
 	$('#log').append($('<div><a href="' + url + '">' + url + '</a></div>'));
 }
 

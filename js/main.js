@@ -1,5 +1,5 @@
 var CONFIG = {
-	data: '../data/',
+	data: 'data/',
 	maxLevel: 10,
 	maxUnitLevel: 8,
 	dataLink: 'https://github.com/CheckiO/eoc-game/tree/gh-pages/data',
@@ -62,7 +62,7 @@ function appedLog(line) {
 }
 
 function getDataConfig(fn) {
-	$.getJSON('../config.json', function(data){
+	$.getJSON('config.json', function(data){
 		DATA.config = data;
 		fn();
 	});
@@ -153,19 +153,19 @@ function outIndex() {
 		$out.append('<h2>Buildings</h2>');
 		var $ul = $('<ul></ul>').appendTo($out);
 		_.each(DATA.config.categories, function(_d, categorySlug) {
-			$ul.append('<li><a href="sections/levels.html"><b>' + categorySlug + '</b></a></li>');
+			$ul.append('<li><a href="levels.html"><b>' + categorySlug + '</b></a></li>');
 			var $ulBuilding = $('<ul></ul>').appendTo($ul);
 			_.each(DATA.config.buildings, function(data, buildingSlug){
 				if (data.category !== categorySlug) {
 					return;
 				}
-				$ulBuilding.append('<li><a href="sections/building.html?' + buildingSlug + '">' + data.name + '</a></li>');
+				$ulBuilding.append('<li><a href="building.html?' + buildingSlug + '">' + data.name + '</a></li>');
 			});
 		});
 		$out.append('<h2>Units</h2>');
 		$ul = $('<ul></ul>').appendTo($out);
 		_.each(DATA.config.units, function(data, unitSlug) {
-			$ul.append('<li><a href="sections/unit.html?' + unitSlug + '">' + data.name + '</a></li>');
+			$ul.append('<li><a href="unit.html?' + unitSlug + '">' + data.name + '</a></li>');
 		});
 	});
 }

@@ -147,6 +147,29 @@ function getClosesValue(list, buildLvl) {
 	return resultVal;
 }
 
+function outIndex() {
+	getDataConfig(function(){
+		var $out = $('#out');
+		$out.append('<h2>Buildings</h2>');
+		var $ul = $('<ul></ul>').appendTo($out);
+		_.each(DATA.config.categories, function(_d, categorySlug) {
+			$ul.append('<li><a href="sections/levels.html"><b>' + categorySlug + '</b></a></li>');
+			var $ulBuilding = $('<ul></ul>').appendTo($ul);
+			_.each(DATA.config.buildings, function(data, buildingSlug){
+				if (data.category !== categorySlug) {
+					return;
+				}
+				$ulBuilding.append('<li><a href="sections/building.html?' + buildingSlug + '">' + data.name + '</a></li>');
+			});
+		});
+		$out.append('<h2>Units</h2>');
+		$ul = $('<ul></ul>').appendTo($out);
+		_.each(DATA.config.units, function(data, unitSlug) {
+			$ul.append('<li><a href="sections/unit.html?' + unitSlug + '">' + data.name + '</a></li>');
+		});
+	});
+}
+
 function outLevels() {
 	getDataConfig(function(){
 		getBuildingsData(['building_level_requirement', 'building_count'], processDataLevels);
@@ -155,24 +178,28 @@ function outLevels() {
 
 function processDataLevels() {
 	var $out = $('#out');
+	$('title').text('Buildings. ' + CONFIG.title);
 	_.each(DATA.config.categories, function(catData, catSlug){
+		if (catSlug === 'other') {
+			return;
+		}
 
 		// Show the category
-		var $table = $('<table border="1"></table>'),
+		var $table = $('<table class="table table-striped"></table>'),
 			$trNames = $('<tr><th rowspan="2">LvL</th></tr>'),
 			$trCats = $('<tr></tr>');
-		$out.append('<h2>' + catSlug + '</h2>');
+		$out.append('<div class="page-header"><h2>' + catSlug + '</h2></div>');
 		$out.append($table);
 		$table.append($trNames);
 		$table.append($trCats);
 
-		_.each(DATA.config.buildings, function(buildData){
+		_.each(DATA.config.buildings, function(buildData, buildingKey){
 
 			// Show the table header for each building in the category
 			if (buildData.category !== catSlug) {
 				return;
 			}
-			$trNames.append('<th colspan="2">' + buildData.name + '</th>');
+			$trNames.append('<th colspan="2"><a href="building.html?' + buildingKey + '">' + buildData.name + '</a></th>');
 			$trCats.append('<th>CC</th>');
 			$trCats.append('<th>Am</th>');
 		});

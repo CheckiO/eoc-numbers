@@ -6,7 +6,7 @@
   "MISSION_SLUG": "index_power",
   "TIER": 1,
   "type_improvement": 1,
-  "value": 60,
+  "value": 120,
   "xp_gain": 4
  },
  {
@@ -26,7 +26,7 @@
   "MISSION_SLUG": "non_unique",
   "TIER": 1,
   "type_improvement": 2,
-  "value": 1000,
+  "value": 500,
   "xp_gain": 7
  },
  {
@@ -36,7 +36,7 @@
   "MISSION_SLUG": "non_unique",
   "TIER": 2,
   "type_improvement": 2,
-  "value": 1000,
+  "value": 500,
   "xp_gain": 7
  },
  {
@@ -86,7 +86,7 @@
   "MISSION_SLUG": "place_queens",
   "TIER": 1,
   "type_improvement": 2,
-  "value": 2000,
+  "value": 5000,
   "xp_gain": 25
  },
  {
@@ -96,7 +96,7 @@
   "MISSION_SLUG": "super_root",
   "TIER": 1,
   "type_improvement": 2,
-  "value": 2000,
+  "value": 6000,
   "xp_gain": 25
  }
 ]

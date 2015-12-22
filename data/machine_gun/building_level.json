@@ -5,7 +5,7 @@
   "RESOURCE_SLUG": "adamantite",
   "amount_resource_construction": 3300,
   "hit_points": 1600,
-  "time_upgrade": 3600,
+  "time_upgrade": 28800,
   "user_level": 1,
   "xp_gain": 10
  },
@@ -15,7 +15,7 @@
   "RESOURCE_SLUG": "adamantite",
   "amount_resource_construction": 4600,
   "hit_points": 1740,
-  "time_upgrade": 4500,
+  "time_upgrade": 43200,
   "user_level": 1,
   "xp_gain": 11
  },
@@ -25,7 +25,7 @@
   "RESOURCE_SLUG": "adamantite",
   "amount_resource_construction": 8800,
   "hit_points": 1890,
-  "time_upgrade": 6300,
+  "time_upgrade": 86400,
   "user_level": 1,
   "xp_gain": 13
  },
@@ -35,7 +35,7 @@
   "RESOURCE_SLUG": "adamantite",
   "amount_resource_construction": 10000,
   "hit_points": 2060,
-  "time_upgrade": 7200,
+  "time_upgrade": 172800,
   "user_level": 1,
   "xp_gain": 14
  },
@@ -45,7 +45,7 @@
   "RESOURCE_SLUG": "adamantite",
   "amount_resource_construction": 13200,
   "hit_points": 2240,
-  "time_upgrade": 8100,
+  "time_upgrade": 345600,
   "user_level": 1,
   "xp_gain": 15
  },
@@ -55,7 +55,7 @@
   "RESOURCE_SLUG": "adamantite",
   "amount_resource_construction": 14900,
   "hit_points": 2700,
-  "time_upgrade": 9000,
+  "time_upgrade": 432000,
   "user_level": 1,
   "xp_gain": 15
  },
@@ -65,7 +65,7 @@
   "RESOURCE_SLUG": "adamantite",
   "amount_resource_construction": 22500,
   "hit_points": 2900,
-  "time_upgrade": 10800,
+  "time_upgrade": 604800,
   "user_level": 1,
   "xp_gain": 17
  }

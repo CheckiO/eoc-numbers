@@ -1,6 +1,6 @@
 [
  {
-  "BUILDING_LEVEL": 1,
+  "BUILDING_LEVEL": 3,
   "BUILDING_SLUG": "laboratory",
   "OBJECT_LEVEL": 2,
   "OBJECT_SLUG": "heavy_bot",
@@ -12,7 +12,7 @@
   "xp_gain": 17
  },
  {
-  "BUILDING_LEVEL": 2,
+  "BUILDING_LEVEL": 4,
   "BUILDING_SLUG": "laboratory",
   "OBJECT_LEVEL": 3,
   "OBJECT_SLUG": "heavy_bot",
@@ -24,7 +24,7 @@
   "xp_gain": 20
  },
  {
-  "BUILDING_LEVEL": 3,
+  "BUILDING_LEVEL": 5,
   "BUILDING_SLUG": "laboratory",
   "OBJECT_LEVEL": 4,
   "OBJECT_SLUG": "heavy_bot",
@@ -36,7 +36,7 @@
   "xp_gain": 26
  },
  {
-  "BUILDING_LEVEL": 4,
+  "BUILDING_LEVEL": 6,
   "BUILDING_SLUG": "laboratory",
   "OBJECT_LEVEL": 5,
   "OBJECT_SLUG": "heavy_bot",
@@ -46,41 +46,5 @@
   ],
   "type_research": 1,
   "xp_gain": 33
- },
- {
-  "BUILDING_LEVEL": 5,
-  "BUILDING_SLUG": "laboratory",
-  "OBJECT_LEVEL": 6,
-  "OBJECT_SLUG": "heavy_bot",
-  "content_type": [
-   "units",
-   "unitlevel"
-  ],
-  "type_research": 1,
-  "xp_gain": 38
- },
- {
-  "BUILDING_LEVEL": 6,
-  "BUILDING_SLUG": "laboratory",
-  "OBJECT_LEVEL": 7,
-  "OBJECT_SLUG": "heavy_bot",
-  "content_type": [
-   "units",
-   "unitlevel"
-  ],
-  "type_research": 1,
-  "xp_gain": 45
- },
- {
-  "BUILDING_LEVEL": 7,
-  "BUILDING_SLUG": "laboratory",
-  "OBJECT_LEVEL": 8,
-  "OBJECT_SLUG": "heavy_bot",
-  "content_type": [
-   "units",
-   "unitlevel"
-  ],
-  "type_research": 1,
-  "xp_gain": 52
  }
 ]

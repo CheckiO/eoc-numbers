@@ -40,11 +40,5 @@
   "UNIT_SLUG": "infantry_bot",
   "required_building_level": 1,
   "required_building_slug": "command_center"
- },
- {
-  "UNIT_LEVEL": 8,
-  "UNIT_SLUG": "infantry_bot",
-  "required_building_level": 1,
-  "required_building_slug": "command_center"
  }
 ]

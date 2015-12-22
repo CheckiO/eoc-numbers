@@ -6,7 +6,7 @@
   "MISSION_SLUG": "number_base",
   "TIER": 1,
   "type_improvement": 1,
-  "value": 3,
+  "value": 7,
   "xp_gain": 7
  },
  {
@@ -16,7 +16,7 @@
   "MISSION_SLUG": "boolean_algebra",
   "TIER": 1,
   "type_improvement": 1,
-  "value": 3,
+  "value": 7,
   "xp_gain": 7
  },
  {
@@ -26,7 +26,7 @@
   "MISSION_SLUG": "binary_count",
   "TIER": 1,
   "type_improvement": 1,
-  "value": 3,
+  "value": 5,
   "xp_gain": 7
  },
  {
@@ -36,7 +36,7 @@
   "MISSION_SLUG": "flat_dictionary",
   "TIER": 1,
   "type_improvement": 2,
-  "value": 15,
+  "value": 200,
   "xp_gain": 7
  },
  {
@@ -46,7 +46,7 @@
   "MISSION_SLUG": "pangram",
   "TIER": 1,
   "type_improvement": 1,
-  "value": 5,
+  "value": 7,
   "xp_gain": 7
  },
  {
@@ -66,7 +66,7 @@
   "MISSION_SLUG": "transpose_matrix",
   "TIER": 1,
   "type_improvement": 1,
-  "value": 5,
+  "value": 11,
   "xp_gain": 7
  },
  {
@@ -96,7 +96,7 @@
   "MISSION_SLUG": "skew_symmetry",
   "TIER": 1,
   "type_improvement": 2,
-  "value": 50,
+  "value": 250,
   "xp_gain": 7
  },
  {
@@ -106,7 +106,7 @@
   "MISSION_SLUG": "weak_point",
   "TIER": 1,
   "type_improvement": 2,
-  "value": 15,
+  "value": 200,
   "xp_gain": 7
  },
  {
@@ -126,7 +126,7 @@
   "MISSION_SLUG": "weak_point",
   "TIER": 2,
   "type_improvement": 2,
-  "value": 20,
+  "value": 100,
   "xp_gain": 7
  },
  {
@@ -136,7 +136,7 @@
   "MISSION_SLUG": "weak_point",
   "TIER": 3,
   "type_improvement": 2,
-  "value": 20,
+  "value": 50,
   "xp_gain": 7
  },
  {
@@ -146,7 +146,7 @@
   "MISSION_SLUG": "pawn_brotherhood",
   "TIER": 1,
   "type_improvement": 2,
-  "value": 50,
+  "value": 300,
   "xp_gain": 7
  },
  {
@@ -156,7 +156,7 @@
   "MISSION_SLUG": "eternal_marathon",
   "TIER": 1,
   "type_improvement": 2,
-  "value": 30,
+  "value": 500,
   "xp_gain": 7
  },
  {
@@ -206,7 +206,7 @@
   "MISSION_SLUG": "number_factory",
   "TIER": 1,
   "type_improvement": 1,
-  "value": 7,
+  "value": 10,
   "xp_gain": 7
  }
 ]

@@ -2,37 +2,37 @@
  {
   "UNIT_LEVEL": 1,
   "UNIT_SLUG": "rocket_bot",
-  "required_building_level": 5,
+  "required_building_level": 3,
   "required_building_slug": "command_center"
  },
  {
   "UNIT_LEVEL": 2,
   "UNIT_SLUG": "rocket_bot",
-  "required_building_level": 5,
+  "required_building_level": 3,
   "required_building_slug": "command_center"
  },
  {
   "UNIT_LEVEL": 3,
   "UNIT_SLUG": "rocket_bot",
-  "required_building_level": 5,
+  "required_building_level": 3,
   "required_building_slug": "command_center"
  },
  {
   "UNIT_LEVEL": 4,
   "UNIT_SLUG": "rocket_bot",
-  "required_building_level": 5,
+  "required_building_level": 3,
   "required_building_slug": "command_center"
  },
  {
   "UNIT_LEVEL": 5,
   "UNIT_SLUG": "rocket_bot",
-  "required_building_level": 5,
+  "required_building_level": 3,
   "required_building_slug": "command_center"
  },
  {
   "UNIT_LEVEL": 6,
   "UNIT_SLUG": "rocket_bot",
-  "required_building_level": 5,
+  "required_building_level": 3,
   "required_building_slug": "command_center"
  }
 ]

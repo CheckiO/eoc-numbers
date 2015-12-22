@@ -3,38 +3,8 @@
   "BUILDING_LEVEL": 2,
   "BUILDING_SLUG": "craft_pad",
   "IS_ACTIVE": true,
-  "MISSION_SLUG": "square_codes",
-  "TIER": 1,
-  "type_improvement": 3,
-  "value": 1,
-  "xp_gain": 12
- },
- {
-  "BUILDING_LEVEL": 2,
-  "BUILDING_SLUG": "craft_pad",
-  "IS_ACTIVE": true,
   "MISSION_SLUG": "clock_angle",
   "TIER": 1,
-  "type_improvement": 3,
-  "value": 1,
-  "xp_gain": 12
- },
- {
-  "BUILDING_LEVEL": 2,
-  "BUILDING_SLUG": "craft_pad",
-  "IS_ACTIVE": true,
-  "MISSION_SLUG": "square_codes",
-  "TIER": 2,
-  "type_improvement": 3,
-  "value": 1,
-  "xp_gain": 12
- },
- {
-  "BUILDING_LEVEL": 2,
-  "BUILDING_SLUG": "craft_pad",
-  "IS_ACTIVE": true,
-  "MISSION_SLUG": "square_codes",
-  "TIER": 3,
   "type_improvement": 3,
   "value": 1,
   "xp_gain": 12
@@ -80,61 +50,11 @@
   "xp_gain": 12
  },
  {
-  "BUILDING_LEVEL": 7,
-  "BUILDING_SLUG": "craft_pad",
-  "IS_ACTIVE": true,
-  "MISSION_SLUG": "network_attack",
-  "TIER": 1,
-  "type_improvement": 3,
-  "value": 1,
-  "xp_gain": 12
- },
- {
-  "BUILDING_LEVEL": 7,
-  "BUILDING_SLUG": "craft_pad",
-  "IS_ACTIVE": true,
-  "MISSION_SLUG": "knight_path",
-  "TIER": 1,
-  "type_improvement": 3,
-  "value": 1,
-  "xp_gain": 12
- },
- {
-  "BUILDING_LEVEL": 7,
+  "BUILDING_LEVEL": 3,
   "BUILDING_SLUG": "craft_pad",
   "IS_ACTIVE": true,
   "MISSION_SLUG": "mona_captcha",
   "TIER": 1,
-  "type_improvement": 3,
-  "value": 1,
-  "xp_gain": 12
- },
- {
-  "BUILDING_LEVEL": 7,
-  "BUILDING_SLUG": "craft_pad",
-  "IS_ACTIVE": true,
-  "MISSION_SLUG": "knight_path",
-  "TIER": 2,
-  "type_improvement": 3,
-  "value": 1,
-  "xp_gain": 12
- },
- {
-  "BUILDING_LEVEL": 7,
-  "BUILDING_SLUG": "craft_pad",
-  "IS_ACTIVE": true,
-  "MISSION_SLUG": "network_attack",
-  "TIER": 2,
-  "type_improvement": 3,
-  "value": 1,
-  "xp_gain": 12
- },
- {
-  "BUILDING_LEVEL": 7,
-  "BUILDING_SLUG": "craft_pad",
-  "IS_ACTIVE": true,
-  "MISSION_SLUG": "knight_path",
-  "TIER": 3,
   "type_improvement": 3,
   "value": 1,
   "xp_gain": 12

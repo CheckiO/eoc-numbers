@@ -4,7 +4,7 @@
   "BUILDING_SLUG": "rocket_gun",
   "damage_per_shot": 100.0,
   "fire_range": 15.0,
-  "fire_rate": 0.4,
+  "fire_rate": 0.2,
   "target_system": 2
  },
  {
@@ -12,7 +12,7 @@
   "BUILDING_SLUG": "rocket_gun",
   "damage_per_shot": 120.0,
   "fire_range": 15.0,
-  "fire_rate": 0.4,
+  "fire_rate": 0.2,
   "target_system": 2
  },
  {
@@ -20,7 +20,7 @@
   "BUILDING_SLUG": "rocket_gun",
   "damage_per_shot": 130.0,
   "fire_range": 15.0,
-  "fire_rate": 0.4,
+  "fire_rate": 0.2,
   "target_system": 2
  },
  {
@@ -28,7 +28,7 @@
   "BUILDING_SLUG": "rocket_gun",
   "damage_per_shot": 135.0,
   "fire_range": 15.0,
-  "fire_rate": 0.4,
+  "fire_rate": 0.2,
   "target_system": 2
  }
 ]

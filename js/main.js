@@ -24,18 +24,26 @@ function formatTime(secondsDelta) {
     var options = {
         m: 'm',
         h: 'h',
-        s: 's '
+        s: 's ',
+        d: 'd '
     };
 
     hours   = Math.floor(secondsDelta / 3600);
     minutes = Math.floor((secondsDelta - (hours * 3600)) / 60);
     seconds = Math.floor(secondsDelta - (hours * 3600) - (minutes * 60));
 
-    if (hours != 0) {
-        time = hours + options.h + ' ';
+    days = Math.floor(hours / 24);
+
+    if (days) {
+    	hours = hours - days * 24;
+    	time += days + options.d + ' ';
     }
 
-    if (minutes != 0 || time !== '') {
+    if (hours) {
+        time += hours + options.h + ' ';
+    }
+
+    if (minutes) {
         minutes = (minutes < 10 && time !== '') ? '0' + minutes : String(minutes);
         time += minutes + options.m + ' ';
     }
@@ -44,8 +52,11 @@ function formatTime(secondsDelta) {
         if (time === '') {
             time = seconds + options.s;
         } else {
-            time += (seconds < 10) ? '0' + seconds : String(seconds);
-            time += options.s;
+        	if (seconds) {
+        		time += (seconds < 10) ? '0' + seconds : String(seconds);
+            	time += options.s;
+        	}
+            
         }
     }
 
@@ -53,7 +64,11 @@ function formatTime(secondsDelta) {
 }
 
 function formatPrice(amount) {
-	return String(amount).replace(/(\d)(?=(\d{3})+(?!\d))/g, '$1 ');
+	if (amount >= 1000) {
+		return (amount / 1000) + 'k';
+	}
+	return amount;
+	//return String(amount).replace(/(\d)(?=(\d{3})+(?!\d))/g, '$1 ').replace(/\s000$/, 'k');
 }
 
 function appedLog(line) {
@@ -134,7 +149,7 @@ function getClosesValue(list, buildLvl) {
 	var resultVal = 0,
 		closesLvl = 0;
 	_.each(list, function(data){
-		var lvl = data.BUILDING_LEVEL || data.REQUIRED_BUILDING_LEVEL;
+		var lvl = data.REQUIRED_BUILDING_LEVEL || data.required_building_level;
 		if (lvl > buildLvl) {
 			return;
 		}
@@ -142,7 +157,7 @@ function getClosesValue(list, buildLvl) {
 			return;
 		}
 		closesLvl = lvl;
-		resultVal = data.max_count || data.required_building_level;
+		resultVal = data.BUILDING_LEVEL || data.max_count;
 	});
 	return resultVal;
 }
@@ -172,7 +187,7 @@ function outIndex() {
 
 function outLevels() {
 	getDataConfig(function(){
-		getBuildingsData(['building_level_requirement', 'building_count'], processDataLevels);
+		getBuildingsData(['building_level_requirement', 'building_count', 'building_level'], processDataLevels);
 	});
 }
 
@@ -186,7 +201,7 @@ function processDataLevels() {
 
 		// Show the category
 		var $table = $('<table class="table table-striped"></table>'),
-			$trNames = $('<tr><th rowspan="2">LvL</th></tr>'),
+			$trNames = $('<tr><th rowspan="2">CC Lvl</th></tr>'),
 			$trCats = $('<tr></tr>');
 		$out.append('<div class="page-header"><h2>' + catSlug + '</h2></div>');
 		$out.append($table);
@@ -199,9 +214,11 @@ function processDataLevels() {
 			if (buildData.category !== catSlug) {
 				return;
 			}
-			$trNames.append('<th colspan="2"><a href="building.html?' + buildingKey + '">' + buildData.name + '</a></th>');
-			$trCats.append('<th>CC</th>');
-			$trCats.append('<th>Am</th>');
+			$trNames.append('<th colspan="4"><a href="building.html?' + buildingKey + '">' + buildData.name + '</a></th>');
+			$trCats.append('<th>Lvl</th>');
+			$trCats.append('<th>Am.</th>');
+			$trCats.append('<th>Time</th>');
+			$trCats.append('<th>Cost</th>');
 		});
 
 		_.each(_.range(1, CONFIG.maxLevel + 1), function(lvl) {
@@ -214,12 +231,27 @@ function processDataLevels() {
 				if (buildData.category !== catSlug) {
 					return;
 				}
-				$trData.append('<td>'+
-					getClosesValue(DATA.B[buildingSlug].building_level_requirement, lvl)+
-					'</td>');
-				$trData.append('<td>'+
-					getClosesValue(DATA.B[buildingSlug].building_count, lvl)+
-					'</td>');
+				var maxLvl = getClosesValue(DATA.B[buildingSlug].building_level_requirement, lvl);
+				$trData.append('<td>' + maxLvl + '</td>');
+
+				var maxCount = getClosesValue(DATA.B[buildingSlug].building_count, lvl);
+				$trData.append('<td>' + maxCount + '</td>');
+
+				if (maxCount) {
+					var lvlData = _.find(DATA.B[buildingSlug].building_level, function(d) {return d.LEVEL === maxLvl;}),
+						upTime = lvlData.time_upgrade,
+						cost = lvlData.amount_resource_construction;
+					$trData.append('<td>'+
+						formatTime(upTime) +
+						'</td>');
+					$trData.append('<td>'+
+						formatPrice(cost) +
+						'</td>');
+				} else {
+					$trData.append('<td> 0 </td>');	
+					$trData.append('<td> 0 </td>');	
+				}
+				
 			});
 
 		});
@@ -261,23 +293,66 @@ function processDataBuilding(buildingSlug) {
 	$('.out__img').attr('src', 'img/' + buildingSlug + '.png');
 
 	var specData = DATA.B[buildingSlug],
-		specTypeData = specData[configData.type];
+		specTypeData = specData[configData.type],
+		typeData = DATA.config.types[configData.type];
 
 	//CC level open
 	var $table = $('.out__lvl_count'),
-		$trCC = $('<tr><th>CC</th></tr>').appendTo($table),
-		$trLevel = $('<tr><th>LVL</th></tr>').appendTo($table),
-		$trCount = $('<tr><th>Count</th></tr>').appendTo($table);
+		$trCC = $('<tr><th>CC Lvl.</th></tr>').appendTo($table),
+		$trLevel = $('<tr><th>Max. Lvl.</th></tr>').appendTo($table),
+		$trCount = $('<tr><th>Max. Am.</th></tr>').appendTo($table),
+		$trAdditioanal = [];
+
+	if (typeData.calcViewDescription) {
+		$trAdditioanal = _.map(typeData.calcViewDescription, function(name){
+			return $('<tr><th>' + name + '</th></tr>').appendTo($table);
+		});
+	}
+
+	var funcsLvl = {
+		"maxCapacity": function(lvl) {
+			var maxLvl = getClosesValue(specData.building_level_requirement, lvl),
+				maxCount = getClosesValue(specData.building_count, lvl),
+				lvlData = _.find(specTypeData, function(d){return d.BUILDING_LEVEL === maxLvl;});
+			if (!maxLvl) {
+				return 0;
+			}
+			return formatPrice(maxCount * lvlData.limit_resource_storage);
+		},
+		"maxProduct": function(lvl) {
+			var maxLvl = getClosesValue(specData.building_level_requirement, lvl),
+				maxCount = getClosesValue(specData.building_count, lvl),
+				lvlData = _.find(specTypeData, function(d){return d.BUILDING_LEVEL === maxLvl;});
+			if (!maxLvl) {
+				return 0;
+			}
+			return formatPrice(maxCount * lvlData.amount_resource_production);
+		},
+		"maxCapacityProduct": function(lvl) {
+			var maxLvl = getClosesValue(specData.building_level_requirement, lvl),
+				maxCount = getClosesValue(specData.building_count, lvl),
+				lvlData = _.find(specTypeData, function(d){return d.BUILDING_LEVEL === maxLvl;});
+			if (!maxLvl) {
+				return 0;
+			}
+			return formatPrice(maxCount * lvlData.limit_resource_production);
+		}
+	};
 
 	_.each(_.range(1, CONFIG.maxLevel + 1), function(lvl) {
 		$trCC.append('<th>' + lvl + '</th>');
 		$trLevel.append('<td>' + getClosesValue(specData.building_level_requirement, lvl) + '</td>');
 		$trCount.append('<td>' + getClosesValue(specData.building_count, lvl) + '</td>');
+
+		if (typeData.calcViewFunc) {
+			_.map(typeData.calcViewFunc, function(funcName, i) {
+				$trAdditioanal[i].append('<td>' + funcsLvl[funcName](lvl) + '</td>');
+			});
+		}
 	});
 
 	// Upgrades
-	var typeData = DATA.config.types[configData.type],
-		thTypeData = typeData.keysDescription.length? '<th>' +
+	var thTypeData = typeData.keysDescription.length? '<th>' +
 				typeData.keysDescription.join('</th><th>') +
 				'</th>':'';
 	$table = $('.out__levels');

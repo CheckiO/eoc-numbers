@@ -4,7 +4,7 @@
   "LEVEL": 1,
   "RESOURCE_SLUG": null,
   "amount_resource_construction": 0,
-  "hit_points": 5000,
+  "hit_points": 1000,
   "time_upgrade": 0,
   "user_level": 1,
   "xp_gain": 0
@@ -14,8 +14,8 @@
   "LEVEL": 2,
   "RESOURCE_SLUG": "adamantite",
   "amount_resource_construction": 600,
-  "hit_points": 11000,
-  "time_upgrade": 600,
+  "hit_points": 3000,
+  "time_upgrade": 10,
   "user_level": 1,
   "xp_gain": 1
  },
@@ -25,7 +25,7 @@
   "RESOURCE_SLUG": "adamantite",
   "amount_resource_construction": 1900,
   "hit_points": 12000,
-  "time_upgrade": 3600,
+  "time_upgrade": 10800,
   "user_level": 1,
   "xp_gain": 7
  },
@@ -35,7 +35,7 @@
   "RESOURCE_SLUG": "adamantite",
   "amount_resource_construction": 5900,
   "hit_points": 14000,
-  "time_upgrade": 7200,
+  "time_upgrade": 86400,
   "user_level": 3,
   "xp_gain": 13
  },
@@ -45,7 +45,7 @@
   "RESOURCE_SLUG": "adamantite",
   "amount_resource_construction": 13000,
   "hit_points": 16000,
-  "time_upgrade": 18000,
+  "time_upgrade": 172800,
   "user_level": 8,
   "xp_gain": 17
  },
@@ -55,7 +55,7 @@
   "RESOURCE_SLUG": "adamantite",
   "amount_resource_construction": 25000,
   "hit_points": 18000,
-  "time_upgrade": 21600,
+  "time_upgrade": 345600,
   "user_level": 10,
   "xp_gain": 19
  },
@@ -65,7 +65,7 @@
   "RESOURCE_SLUG": "adamantite",
   "amount_resource_construction": 33000,
   "hit_points": 20000,
-  "time_upgrade": 25200,
+  "time_upgrade": 518400,
   "user_level": 13,
   "xp_gain": 20
  },
@@ -75,7 +75,7 @@
   "RESOURCE_SLUG": "adamantite",
   "amount_resource_construction": 49000,
   "hit_points": 23000,
-  "time_upgrade": 28800,
+  "time_upgrade": 691200,
   "user_level": 15,
   "xp_gain": 22
  },
@@ -85,7 +85,7 @@
   "RESOURCE_SLUG": "adamantite",
   "amount_resource_construction": 81000,
   "hit_points": 26000,
-  "time_upgrade": 36000,
+  "time_upgrade": 864000,
   "user_level": 18,
   "xp_gain": 26
  },
@@ -95,7 +95,7 @@
   "RESOURCE_SLUG": "adamantite",
   "amount_resource_construction": 126000,
   "hit_points": 29000,
-  "time_upgrade": 43200,
+  "time_upgrade": 1036800,
   "user_level": 21,
   "xp_gain": 26
  }

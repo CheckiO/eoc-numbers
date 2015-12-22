@@ -26,7 +26,7 @@
   "MISSION_SLUG": "earth_distances",
   "TIER": 1,
   "type_improvement": 1,
-  "value": 6400,
+  "value": 30000,
   "xp_gain": 12
  },
  {
@@ -36,7 +36,7 @@
   "MISSION_SLUG": "counting_tiles",
   "TIER": 1,
   "type_improvement": 1,
-  "value": 1000,
+  "value": 15000,
   "xp_gain": 7
  },
  {
@@ -46,7 +46,7 @@
   "MISSION_SLUG": "counting_tiles",
   "TIER": 2,
   "type_improvement": 1,
-  "value": 1000,
+  "value": 15000,
   "xp_gain": 7
  },
  {
@@ -56,7 +56,7 @@
   "MISSION_SLUG": "counting_tiles",
   "TIER": 3,
   "type_improvement": 1,
-  "value": 1000,
+  "value": 15000,
   "xp_gain": 7
  },
  {

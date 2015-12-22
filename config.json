@@ -94,12 +94,22 @@
 			"improvementTypes": [
 				"Production",
 				"Capacity"
+			],
+			"calcViewDescription": [
+				"Production",
+				"Capacity"
+			],
+			"calcViewFunc": [
+				"maxProduct",
+				"maxCapacityProduct"
 			]
 		},
 		"storage": {
 			"keys": ["limit_resource_storage"],
 			"keysDescription": ["Capacity"],
-			"improvementTypes": ["Capacity"]
+			"improvementTypes": ["Capacity"],
+			"calcViewDescription": ["Capacity"],
+			"calcViewFunc": ["maxCapacity"]
 		},
 		"vault": {
 			"keys": ["protection_percentage"],
@@ -126,6 +136,11 @@
 			"keys": [],
 			"keysDescription": [],
 			"improvementTypes": []
+		},
+		"craft": {
+			"keys": ["capacity"],
+			"keysDescription": ["Capacity"],
+			"improvementTypes": [null, null, "Capacity"]
 		}
 	}
 }

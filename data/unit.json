@@ -5,8 +5,8 @@
   "fire_range": 2.5,
   "fire_rate": 10.0,
   "movement_speed": 1.0,
-  "occupied_space": 5,
-  "order_menu": 2,
+  "occupied_space": 3,
+  "order_menu": 3,
   "title": "HeavyBot"
  },
  {
@@ -24,9 +24,9 @@
   "description": "Rocket Bot",
   "fire_range": 8.0,
   "fire_rate": 0.5,
-  "movement_speed": 2.0,
+  "movement_speed": 2.5,
   "occupied_space": 2,
-  "order_menu": 3,
+  "order_menu": 2,
   "title": "RocketBot"
  }
 ]

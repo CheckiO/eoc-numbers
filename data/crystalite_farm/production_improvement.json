@@ -6,7 +6,7 @@
   "MISSION_SLUG": "fizz_buzz",
   "TIER": 1,
   "type_improvement": 1,
-  "value": 15,
+  "value": 200,
   "xp_gain": 2
  },
  {
@@ -16,7 +16,7 @@
   "MISSION_SLUG": "speech_module",
   "TIER": 1,
   "type_improvement": 2,
-  "value": 1000,
+  "value": 3000,
   "xp_gain": 7
  },
  {
@@ -56,7 +56,7 @@
   "MISSION_SLUG": "monkey_typing",
   "TIER": 1,
   "type_improvement": 1,
-  "value": 15,
+  "value": 60,
   "xp_gain": 2
  },
  {
@@ -66,7 +66,7 @@
   "MISSION_SLUG": "crystal_grid",
   "TIER": 1,
   "type_improvement": 1,
-  "value": 25,
+  "value": 200,
   "xp_gain": 4
  },
  {
@@ -76,7 +76,7 @@
   "MISSION_SLUG": "digits_multiplication",
   "TIER": 1,
   "type_improvement": 1,
-  "value": 25,
+  "value": 700,
   "xp_gain": 4
  },
  {
@@ -86,7 +86,7 @@
   "MISSION_SLUG": "digits_multiplication",
   "TIER": 2,
   "type_improvement": 1,
-  "value": 15,
+  "value": 300,
   "xp_gain": 2
  },
  {
@@ -96,7 +96,7 @@
   "MISSION_SLUG": "digits_multiplication",
   "TIER": 3,
   "type_improvement": 1,
-  "value": 25,
+  "value": 300,
   "xp_gain": 4
  },
  {
@@ -106,7 +106,7 @@
   "MISSION_SLUG": "good_radix",
   "TIER": 1,
   "type_improvement": 1,
-  "value": 75,
+  "value": 375,
   "xp_gain": 12
  },
  {
@@ -116,7 +116,7 @@
   "MISSION_SLUG": "structure_pattern",
   "TIER": 1,
   "type_improvement": 2,
-  "value": 1000,
+  "value": 3000,
   "xp_gain": 7
  },
  {
@@ -126,7 +126,7 @@
   "MISSION_SLUG": "digit_stack",
   "TIER": 1,
   "type_improvement": 2,
-  "value": 1000,
+  "value": 3000,
   "xp_gain": 7
  },
  {
@@ -186,7 +186,7 @@
   "MISSION_SLUG": "hidden_word",
   "TIER": 1,
   "type_improvement": 2,
-  "value": 3000,
+  "value": 16000,
   "xp_gain": 25
  },
  {
@@ -196,7 +196,7 @@
   "MISSION_SLUG": "friendly_numbers",
   "TIER": 1,
   "type_improvement": 2,
-  "value": 3000,
+  "value": 6000,
   "xp_gain": 25
  },
  {

@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import os
+import sys
 from json import load, dumps
 
 data = {}
@@ -14,6 +15,10 @@ for root, dirs, files in os.walk(FOLDER_SPLITTED):
         key = filename.split('.')[0]
         if key not in data:
             data[key] = []
-        data[key] += load(open(os.path.join(root, filename)))
+        try:
+            data[key] += load(open(os.path.join(root, filename)))
+        except ValueError as e:
+            print(os.path.join(root, filename), file=sys.stderr)
+            raise
 
 print(dumps(data))

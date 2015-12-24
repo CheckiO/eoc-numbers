@@ -81,7 +81,7 @@
    "unitlevel"
   ],
   "type_research": 1,
-  "xp_gain": 43
+  "xp_gain": 49
  },
  {
   "BUILDING_LEVEL": 6,
@@ -93,10 +93,10 @@
    "unitlevel"
   ],
   "type_research": 1,
-  "xp_gain": 49
+  "xp_gain": 55
  },
  {
-  "BUILDING_LEVEL": 7,
+  "BUILDING_LEVEL": 6,
   "BUILDING_SLUG": "laboratory",
   "OBJECT_LEVEL": 10,
   "OBJECT_SLUG": "infantry_bot",
@@ -105,6 +105,6 @@
    "unitlevel"
   ],
   "type_research": 1,
-  "xp_gain": 55
+  "xp_gain": 61
  }
 ]

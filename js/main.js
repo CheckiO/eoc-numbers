@@ -1,7 +1,7 @@
 var CONFIG = {
 	data: 'data/',
 	maxLevel: 10,
-	maxUnitLevel: 8,
+	maxUnitLevel: 10,
 	dataLink: 'https://github.com/CheckiO/eoc-game/tree/gh-pages/data/',
 	title: ' EoC Numbers'
 };
@@ -77,7 +77,7 @@ function appedLog(line) {
 }
 
 function getDataConfig(fn) {
-	$.getJSON('config.json', function(data){
+	$.getJSON('config.json?_='+Math.random(), function(data){
 		DATA.config = data;
 		fn();
 	});
@@ -105,7 +105,7 @@ function getBuildingsData(keys, fn) {
 				getSuccess(buildingSlug, key, []);
 			} else {
 				var requestPath = CONFIG.data + buildingSlug + '/' + key + '.json';
-				$.getJSON(requestPath, function(data){
+				$.getJSON(requestPath + '?_='+Math.random(), function(data){
 					appedLog(requestPath);
 					getSuccess(buildingSlug, key, data);
 				});
@@ -133,7 +133,7 @@ function getData(keys, fn) {
 
 	_.each(keys, function(key){
 		var requestPath = CONFIG.data + key + '.json';
-		$.getJSON(requestPath, function(data){
+		$.getJSON(requestPath + '?_='+Math.random(), function(data){
 			appedLog(requestPath);
 			getSuccess(key, data);
 		}).always(function(){
@@ -166,7 +166,9 @@ function outIndex() {
 	getDataConfig(function(){
 		var $out = $('#out');
 		$out.append('<h2>Buildings</h2>');
+
 		var $ul = $('<ul></ul>').appendTo($out);
+		$ul.append('<li><b><a href="building.html?command_center">Command Center</a></b></li>');
 		_.each(DATA.config.categories, function(_d, categorySlug) {
 			$ul.append('<li><a href="levels.html"><b>' + categorySlug + '</b></a></li>');
 			var $ulBuilding = $('<ul></ul>').appendTo($ul);
@@ -352,11 +354,20 @@ function processDataBuilding(buildingSlug) {
 	});
 
 	// Upgrades
+
+	var funcBuildLvls = {
+		"timeToFill": function(lvl, specTypeLevelData, buildingLevel){
+			return formatTime(specTypeLevelData.limit_resource_production * 3600 / specTypeLevelData.amount_resource_production);
+		}
+	};
 	var thTypeData = typeData.keysDescription.length? '<th>' +
 				typeData.keysDescription.join('</th><th>') +
+				'</th>':'',
+		thCalcData = typeData.calcLvlDescription ? '<th>' +
+				typeData.calcLvlDescription.join('</th><th>') +
 				'</th>':'';
 	$table = $('.out__levels');
-	$table = $table.append('<tr><th>LVL</th><th>Time</th><th>HP</th><th>XP</th><th>Cost</th>' + thTypeData + '</tr>');
+	$table = $table.append('<tr><th>LVL</th><th>Time</th><th>HP</th><th>XP</th><th>Cost</th>' + thTypeData + thCalcData + '</tr>');
 
 	_.each(_.range(1, CONFIG.maxLevel + 1), function(lvl) {
 		var buildingLevel = _.find(specData.building_level, function(data){
@@ -377,6 +388,12 @@ function processDataBuilding(buildingSlug) {
 		_.each(typeData.keys, function(key){
 			$tr.append('<td>' + formatPrice(specTypeLevelData[key]) + '</td>');
 		});
+
+		if (typeData.calcLvlFunc) {
+			_.map(typeData.calcLvlFunc, function(funcName) {
+				$tr.append('<td>' + funcBuildLvls[funcName](lvl, specTypeLevelData, buildingLevel) + '</td>');
+			});
+		}
 	});
 
 	// Improvements
@@ -458,7 +475,7 @@ function processDataUnit(unitSlug) {
 			'<tr><th>CC Required</th><td>' + specData.unit_level_requirement[0].required_building_level + '</td></tr>');
 
 	$table = $('.out__levels');
-	$table.append('<tr><th>LvL</th><th>Cost</th><th>Time</th><th>Demage per Shot</th><th>HP</th><th>Lab. Level</th><th>Upgrade Cost</th><th>Upgrade Time</th></tr>');
+	$table.append('<tr><th>LvL</th><th>Cost</th><th>Time</th><th>Demage per Shot</th><th>HP</th><th>Lab. Level</th><th>Upgrade Cost</th><th>Upgrade Time</th><th>XP</th></tr>');
 
 	_.each(_.range(1, CONFIG.maxUnitLevel + 1), function(lvl){
 		var unitLevel = _.find(specData.unit_level, function(data){
@@ -480,6 +497,7 @@ function processDataUnit(unitSlug) {
 		$('<td>' + (laboratoryResearch?laboratoryResearch.BUILDING_LEVEL:'0') + '</td>').appendTo($tr);
 		$('<td>' + formatPrice(unitLevel.amount_resource_upgrade) + '</td>').appendTo($tr);
 		$('<td>' + formatTime(unitLevel.time_upgrade) + '</td>').appendTo($tr);
+		$('<td>' + (laboratoryResearch?laboratoryResearch.xp_gain:'0') + '</td>').appendTo($tr);
 	});
 
 	console.log(unitSlug);

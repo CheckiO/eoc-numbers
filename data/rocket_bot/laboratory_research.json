@@ -9,12 +9,24 @@
    "unitlevel"
   ],
   "type_research": 1,
-  "xp_gain": 20
+  "xp_gain": 17
+ },
+ {
+  "BUILDING_LEVEL": 2,
+  "BUILDING_SLUG": "laboratory",
+  "OBJECT_LEVEL": 3,
+  "OBJECT_SLUG": "rocket_bot",
+  "content_type": [
+   "units",
+   "unitlevel"
+  ],
+  "type_research": 1,
+  "xp_gain": 24
  },
  {
   "BUILDING_LEVEL": 3,
   "BUILDING_SLUG": "laboratory",
-  "OBJECT_LEVEL": 3,
+  "OBJECT_LEVEL": 4,
   "OBJECT_SLUG": "rocket_bot",
   "content_type": [
    "units",
@@ -24,19 +36,7 @@
   "xp_gain": 30
  },
  {
-  "BUILDING_LEVEL": 4,
-  "BUILDING_SLUG": "laboratory",
-  "OBJECT_LEVEL": 4,
-  "OBJECT_SLUG": "rocket_bot",
-  "content_type": [
-   "units",
-   "unitlevel"
-  ],
-  "type_research": 1,
-  "xp_gain": 34
- },
- {
-  "BUILDING_LEVEL": 5,
+  "BUILDING_LEVEL": 3,
   "BUILDING_SLUG": "laboratory",
   "OBJECT_LEVEL": 5,
   "OBJECT_SLUG": "rocket_bot",
@@ -45,10 +45,10 @@
    "unitlevel"
   ],
   "type_research": 1,
-  "xp_gain": 42
+  "xp_gain": 37
  },
  {
-  "BUILDING_LEVEL": 6,
+  "BUILDING_LEVEL": 4,
   "BUILDING_SLUG": "laboratory",
   "OBJECT_LEVEL": 6,
   "OBJECT_SLUG": "rocket_bot",
@@ -57,6 +57,54 @@
    "unitlevel"
   ],
   "type_research": 1,
-  "xp_gain": 50
+  "xp_gain": 43
+ },
+ {
+  "BUILDING_LEVEL": 4,
+  "BUILDING_SLUG": "laboratory",
+  "OBJECT_LEVEL": 7,
+  "OBJECT_SLUG": "rocket_bot",
+  "content_type": [
+   "units",
+   "unitlevel"
+  ],
+  "type_research": 1,
+  "xp_gain": 49
+ },
+ {
+  "BUILDING_LEVEL": 5,
+  "BUILDING_SLUG": "laboratory",
+  "OBJECT_LEVEL": 8,
+  "OBJECT_SLUG": "rocket_bot",
+  "content_type": [
+   "units",
+   "unitlevel"
+  ],
+  "type_research": 1,
+  "xp_gain": 55
+ },
+ {
+  "BUILDING_LEVEL": 5,
+  "BUILDING_SLUG": "laboratory",
+  "OBJECT_LEVEL": 9,
+  "OBJECT_SLUG": "rocket_bot",
+  "content_type": [
+   "units",
+   "unitlevel"
+  ],
+  "type_research": 1,
+  "xp_gain": 61
+ },
+ {
+  "BUILDING_LEVEL": 6,
+  "BUILDING_SLUG": "laboratory",
+  "OBJECT_LEVEL": 10,
+  "OBJECT_SLUG": "rocket_bot",
+  "content_type": [
+   "units",
+   "unitlevel"
+  ],
+  "type_research": 1,
+  "xp_gain": 66
  }
 ]

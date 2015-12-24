@@ -20,6 +20,16 @@
   "xp_gain": 12
  },
  {
+  "BUILDING_LEVEL": 3,
+  "BUILDING_SLUG": "craft_pad",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "mona_captcha",
+  "TIER": 1,
+  "type_improvement": 3,
+  "value": 1,
+  "xp_gain": 12
+ },
+ {
   "BUILDING_LEVEL": 4,
   "BUILDING_SLUG": "craft_pad",
   "IS_ACTIVE": true,
@@ -44,16 +54,6 @@
   "BUILDING_SLUG": "craft_pad",
   "IS_ACTIVE": true,
   "MISSION_SLUG": "repeating_decimals",
-  "TIER": 1,
-  "type_improvement": 3,
-  "value": 1,
-  "xp_gain": 12
- },
- {
-  "BUILDING_LEVEL": 3,
-  "BUILDING_SLUG": "craft_pad",
-  "IS_ACTIVE": true,
-  "MISSION_SLUG": "mona_captcha",
   "TIER": 1,
   "type_improvement": 3,
   "value": 1,

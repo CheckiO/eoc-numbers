@@ -102,6 +102,12 @@
 			"calcViewFunc": [
 				"maxProduct",
 				"maxCapacityProduct"
+			],
+			"calcLvlDescription": [
+				"Fill"
+			],
+			"calcLvlFunc": [
+				"timeToFill"
 			]
 		},
 		"storage": {
@@ -133,6 +139,11 @@
 			]
 		},
 		"laboratory": {
+			"keys": [],
+			"keysDescription": [],
+			"improvementTypes": []
+		},
+		"command_center": {
 			"keys": [],
 			"keysDescription": [],
 			"improvementTypes": []

@@ -9,7 +9,7 @@
    "unitlevel"
   ],
   "type_research": 1,
-  "xp_gain": 17
+  "xp_gain": 20
  },
  {
   "BUILDING_LEVEL": 2,
@@ -21,7 +21,7 @@
    "unitlevel"
   ],
   "type_research": 1,
-  "xp_gain": 24
+  "xp_gain": 30
  },
  {
   "BUILDING_LEVEL": 3,
@@ -33,7 +33,7 @@
    "unitlevel"
   ],
   "type_research": 1,
-  "xp_gain": 30
+  "xp_gain": 34
  },
  {
   "BUILDING_LEVEL": 3,
@@ -45,7 +45,7 @@
    "unitlevel"
   ],
   "type_research": 1,
-  "xp_gain": 37
+  "xp_gain": 42
  },
  {
   "BUILDING_LEVEL": 4,
@@ -57,7 +57,7 @@
    "unitlevel"
   ],
   "type_research": 1,
-  "xp_gain": 43
+  "xp_gain": 50
  },
  {
   "BUILDING_LEVEL": 4,

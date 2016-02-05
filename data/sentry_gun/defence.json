@@ -2,7 +2,7 @@
  {
   "BUILDING_LEVEL": 1,
   "BUILDING_SLUG": "sentry_gun",
-  "damage_per_shot": 56.0,
+  "damage_per_shot": 54.0,
   "fire_range": 9.0,
   "fire_rate": 0.8,
   "target_system": 1
@@ -10,7 +10,7 @@
  {
   "BUILDING_LEVEL": 2,
   "BUILDING_SLUG": "sentry_gun",
-  "damage_per_shot": 61.6,
+  "damage_per_shot": 75.0,
   "fire_range": 9.0,
   "fire_rate": 0.8,
   "target_system": 1
@@ -18,7 +18,7 @@
  {
   "BUILDING_LEVEL": 3,
   "BUILDING_SLUG": "sentry_gun",
-  "damage_per_shot": 67.2,
+  "damage_per_shot": 95.0,
   "fire_range": 9.0,
   "fire_rate": 0.8,
   "target_system": 1
@@ -26,7 +26,7 @@
  {
   "BUILDING_LEVEL": 4,
   "BUILDING_SLUG": "sentry_gun",
-  "damage_per_shot": 72.1,
+  "damage_per_shot": 115.0,
   "fire_range": 10.0,
   "fire_rate": 0.8,
   "target_system": 1
@@ -34,7 +34,7 @@
  {
   "BUILDING_LEVEL": 5,
   "BUILDING_SLUG": "sentry_gun",
-  "damage_per_shot": 77.6,
+  "damage_per_shot": 150.0,
   "fire_range": 10.0,
   "fire_rate": 0.8,
   "target_system": 1
@@ -42,7 +42,7 @@
  {
   "BUILDING_LEVEL": 6,
   "BUILDING_SLUG": "sentry_gun",
-  "damage_per_shot": 82.3,
+  "damage_per_shot": 150.0,
   "fire_range": 11.0,
   "fire_rate": 0.8,
   "target_system": 1
@@ -50,7 +50,7 @@
  {
   "BUILDING_LEVEL": 7,
   "BUILDING_SLUG": "sentry_gun",
-  "damage_per_shot": 86.5,
+  "damage_per_shot": 175.0,
   "fire_range": 11.0,
   "fire_rate": 0.8,
   "target_system": 1
@@ -74,7 +74,7 @@
  {
   "BUILDING_LEVEL": 10,
   "BUILDING_SLUG": "sentry_gun",
-  "damage_per_shot": 98,
+  "damage_per_shot": 98.0,
   "fire_range": 12.0,
   "fire_rate": 0.8,
   "target_system": 1
@@ -82,7 +82,7 @@
  {
   "BUILDING_LEVEL": 11,
   "BUILDING_SLUG": "sentry_gun",
-  "damage_per_shot": 101,
+  "damage_per_shot": 101.0,
   "fire_range": 12.0,
   "fire_rate": 0.8,
   "target_system": 1

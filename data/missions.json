@@ -496,6 +496,10 @@
   "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-letter-queue.git"
  },
  {
+  "MISSION_SLUG": "max-of-two",
+  "repository_url": "https://github.com/Empire-of-Code-Puzzles/checkio-empire-max-of-two.git"
+ },
+ {
   "MISSION_SLUG": "median",
   "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-median.git"
  },
@@ -618,6 +622,10 @@
  {
   "MISSION_SLUG": "stair_steps",
   "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-stair-steps.git"
+ },
+ {
+  "MISSION_SLUG": "str-length",
+  "repository_url": "https://github.com/Empire-of-Code-Puzzles/checkio-empire-str-length.git"
  },
  {
   "MISSION_SLUG": "striped_words",

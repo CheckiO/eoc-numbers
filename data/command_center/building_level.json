@@ -14,8 +14,8 @@
   "LEVEL": 2,
   "RESOURCE_SLUG": "adamantite",
   "amount_resource_construction": 600,
-  "hit_points": 3000,
-  "time_upgrade": 10,
+  "hit_points": 3500,
+  "time_upgrade": 1800,
   "user_level": 1,
   "xp_gain": 1
  },
@@ -24,7 +24,7 @@
   "LEVEL": 3,
   "RESOURCE_SLUG": "adamantite",
   "amount_resource_construction": 4000,
-  "hit_points": 12000,
+  "hit_points": 5000,
   "time_upgrade": 10800,
   "user_level": 1,
   "xp_gain": 7
@@ -33,8 +33,8 @@
   "BUILDING_SLUG": "command_center",
   "LEVEL": 4,
   "RESOURCE_SLUG": "adamantite",
-  "amount_resource_construction": 8000,
-  "hit_points": 14000,
+  "amount_resource_construction": 10000,
+  "hit_points": 7500,
   "time_upgrade": 21600,
   "user_level": 3,
   "xp_gain": 13
@@ -43,8 +43,8 @@
   "BUILDING_SLUG": "command_center",
   "LEVEL": 5,
   "RESOURCE_SLUG": "adamantite",
-  "amount_resource_construction": 16000,
-  "hit_points": 16000,
+  "amount_resource_construction": 30000,
+  "hit_points": 10000,
   "time_upgrade": 43200,
   "user_level": 8,
   "xp_gain": 17
@@ -54,7 +54,7 @@
   "LEVEL": 6,
   "RESOURCE_SLUG": "adamantite",
   "amount_resource_construction": 32000,
-  "hit_points": 18000,
+  "hit_points": 11000,
   "time_upgrade": 86400,
   "user_level": 10,
   "xp_gain": 19
@@ -64,7 +64,7 @@
   "LEVEL": 7,
   "RESOURCE_SLUG": "adamantite",
   "amount_resource_construction": 64000,
-  "hit_points": 20000,
+  "hit_points": 13000,
   "time_upgrade": 172800,
   "user_level": 13,
   "xp_gain": 20
@@ -74,7 +74,7 @@
   "LEVEL": 8,
   "RESOURCE_SLUG": "adamantite",
   "amount_resource_construction": 128000,
-  "hit_points": 23000,
+  "hit_points": 14000,
   "time_upgrade": 259200,
   "user_level": 15,
   "xp_gain": 22
@@ -84,7 +84,7 @@
   "LEVEL": 9,
   "RESOURCE_SLUG": "adamantite",
   "amount_resource_construction": 128000,
-  "hit_points": 26000,
+  "hit_points": 15000,
   "time_upgrade": 345600,
   "user_level": 18,
   "xp_gain": 26
@@ -94,7 +94,7 @@
   "LEVEL": 10,
   "RESOURCE_SLUG": "adamantite",
   "amount_resource_construction": 128000,
-  "hit_points": 29000,
+  "hit_points": 18000,
   "time_upgrade": 432000,
   "user_level": 21,
   "xp_gain": 26

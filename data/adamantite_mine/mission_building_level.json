@@ -7,8 +7,15 @@
   "order_menu": 1
  },
  {
-  "MISSION_SLUG": "most_numbers",
+  "MISSION_SLUG": "str-length",
   "building_level": 2,
+  "building_number": 1,
+  "building_slug": "adamantite_mine",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "most_numbers",
+  "building_level": 3,
   "building_number": 1,
   "building_slug": "adamantite_mine",
   "order_menu": 1

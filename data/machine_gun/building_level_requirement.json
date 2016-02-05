@@ -2,25 +2,25 @@
  {
   "BUILDING_LEVEL": 2,
   "BUILDING_SLUG": "machine_gun",
-  "required_building_level": 5,
+  "required_building_level": 6,
   "required_building_slug": "command_center"
  },
  {
   "BUILDING_LEVEL": 3,
   "BUILDING_SLUG": "machine_gun",
-  "required_building_level": 6,
+  "required_building_level": 7,
   "required_building_slug": "command_center"
  },
  {
   "BUILDING_LEVEL": 4,
   "BUILDING_SLUG": "machine_gun",
-  "required_building_level": 7,
+  "required_building_level": 8,
   "required_building_slug": "command_center"
  },
  {
   "BUILDING_LEVEL": 5,
   "BUILDING_SLUG": "machine_gun",
-  "required_building_level": 8,
+  "required_building_level": 9,
   "required_building_slug": "command_center"
  }
 ]

@@ -19,7 +19,7 @@
  },
  {
   "BUILDING_SLUG": "sentry_gun",
-  "REQUIRED_BUILDING_LEVEL": 6,
+  "REQUIRED_BUILDING_LEVEL": 7,
   "REQUIRED_BUILDING_SLUG": "command_center",
   "max_count": 4
  }

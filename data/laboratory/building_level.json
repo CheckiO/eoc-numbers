@@ -58,5 +58,15 @@
   "time_upgrade": 345600,
   "user_level": 1,
   "xp_gain": 26
+ },
+ {
+  "BUILDING_SLUG": "laboratory",
+  "LEVEL": 7,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 118000,
+  "hit_points": 1900,
+  "time_upgrade": 28800,
+  "user_level": 1,
+  "xp_gain": 28
  }
 ]

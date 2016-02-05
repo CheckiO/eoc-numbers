@@ -13,6 +13,16 @@
   "BUILDING_LEVEL": 2,
   "BUILDING_SLUG": "adamantite_mine",
   "IS_ACTIVE": true,
+  "MISSION_SLUG": "str-length",
+  "TIER": 1,
+  "type_improvement": 1,
+  "value": 5,
+  "xp_gain": 2
+ },
+ {
+  "BUILDING_LEVEL": 3,
+  "BUILDING_SLUG": "adamantite_mine",
+  "IS_ACTIVE": true,
   "MISSION_SLUG": "most_numbers",
   "TIER": 1,
   "type_improvement": 1,

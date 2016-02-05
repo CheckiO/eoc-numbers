@@ -1,0 +1,26 @@
+[
+ {
+  "BUILDING_LEVEL": 1,
+  "BUILDING_SLUG": "landmine",
+  "damage_per_shot": 1.0,
+  "fire_range": 3.0,
+  "fire_rate": 1.0,
+  "target_system": 2
+ },
+ {
+  "BUILDING_LEVEL": 2,
+  "BUILDING_SLUG": "landmine",
+  "damage_per_shot": 1.0,
+  "fire_range": 3.0,
+  "fire_rate": 1.0,
+  "target_system": 2
+ },
+ {
+  "BUILDING_LEVEL": 3,
+  "BUILDING_SLUG": "landmine",
+  "damage_per_shot": 1.0,
+  "fire_range": 1.0,
+  "fire_rate": 1.0,
+  "target_system": 2
+ }
+]

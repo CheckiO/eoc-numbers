@@ -19,7 +19,7 @@
  },
  {
   "BUILDING_SLUG": "craft_pad",
-  "REQUIRED_BUILDING_LEVEL": 9,
+  "REQUIRED_BUILDING_LEVEL": 8,
   "REQUIRED_BUILDING_SLUG": "command_center",
   "max_count": 4
  }

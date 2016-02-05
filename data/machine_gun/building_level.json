@@ -4,7 +4,7 @@
   "LEVEL": 1,
   "RESOURCE_SLUG": "adamantite",
   "amount_resource_construction": 3300,
-  "hit_points": 1600,
+  "hit_points": 2100,
   "time_upgrade": 28800,
   "user_level": 1,
   "xp_gain": 10
@@ -14,7 +14,7 @@
   "LEVEL": 2,
   "RESOURCE_SLUG": "adamantite",
   "amount_resource_construction": 4600,
-  "hit_points": 1740,
+  "hit_points": 2600,
   "time_upgrade": 43200,
   "user_level": 1,
   "xp_gain": 11
@@ -24,7 +24,7 @@
   "LEVEL": 3,
   "RESOURCE_SLUG": "adamantite",
   "amount_resource_construction": 8800,
-  "hit_points": 1890,
+  "hit_points": 3000,
   "time_upgrade": 86400,
   "user_level": 1,
   "xp_gain": 13
@@ -34,7 +34,7 @@
   "LEVEL": 4,
   "RESOURCE_SLUG": "adamantite",
   "amount_resource_construction": 10000,
-  "hit_points": 2060,
+  "hit_points": 3500,
   "time_upgrade": 172800,
   "user_level": 1,
   "xp_gain": 14
@@ -44,7 +44,7 @@
   "LEVEL": 5,
   "RESOURCE_SLUG": "adamantite",
   "amount_resource_construction": 13200,
-  "hit_points": 2240,
+  "hit_points": 3800,
   "time_upgrade": 345600,
   "user_level": 1,
   "xp_gain": 15

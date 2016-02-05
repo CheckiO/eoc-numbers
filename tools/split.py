@@ -3,7 +3,7 @@
 import os
 from json import load, dump
 
-from settings import FOLDER_SPLITTED
+from settings import FOLDER_SPLITTED, FOLDER_OTHER_SPLITTED
 
 data_config = load(open('../config.json'))
 for item in list(data_config['buildings'].keys()) + list(data_config['units'].keys()):
@@ -19,17 +19,19 @@ def sort_dump(slug_data):
                                             a.get('REQUIRED_BUILDING_LEVEL') or
                                             a.get('UNIT_LEVEL') or
                                             a.get('MISSION_SLUG') or
-                                            a.get('SLUG')))
+                                            a.get('SLUG') or
+                                            a.get('step')))
 
 
 def dump_sorted(slug_data, filename):
-    print(filename)
     sorder_data = sort_dump(slug_data)
     try:
         dump(sorder_data, open(FOLDER_SPLITTED + filename + '.json', 'w'),
              indent=1, sort_keys=True)
+        print(filename)
+        return []
     except FileNotFoundError:
-        pass
+        return slug_data
 
 data = load(open('collected.json'))
 
@@ -47,8 +49,13 @@ def split_by_slug(key):
             item.get('SLUG') or item.get('UNIT_SLUG') or item.get('BUILDING_SLUG')
         ), []).append(item)
 
+    unsplited_data = []
     for slug, slug_data in slugs.items():
-        dump_sorted(slug_data, slug + '/' + key)
+        unsplited_data += dump_sorted(slug_data, slug + '/' + key)
+
+    if unsplited_data:
+        dump_sorted(unsplited_data, key)
+
 
 split_by_slug('building_count')
 split_by_slug('building_level_requirement')
@@ -72,6 +79,7 @@ split_by_slug('unit_level')
 split_by_slug('laboratory_research')
 
 dont_split('missions')
+dont_split('stages')
 dont_split('building')
 dont_split('unit')
 dont_split('experience_levels')

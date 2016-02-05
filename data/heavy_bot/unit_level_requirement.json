@@ -28,5 +28,23 @@
   "UNIT_SLUG": "heavy_bot",
   "required_building_level": 5,
   "required_building_slug": "command_center"
+ },
+ {
+  "UNIT_LEVEL": 6,
+  "UNIT_SLUG": "heavy_bot",
+  "required_building_level": 5,
+  "required_building_slug": "command_center"
+ },
+ {
+  "UNIT_LEVEL": 7,
+  "UNIT_SLUG": "heavy_bot",
+  "required_building_level": 5,
+  "required_building_slug": "command_center"
+ },
+ {
+  "UNIT_LEVEL": 8,
+  "UNIT_SLUG": "heavy_bot",
+  "required_building_level": 5,
+  "required_building_slug": "command_center"
  }
 ]

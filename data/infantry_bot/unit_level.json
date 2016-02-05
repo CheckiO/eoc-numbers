@@ -7,7 +7,7 @@
   "damage_per_shot": 60.0,
   "hit_points": 280,
   "resource_slug": "crystalite",
-  "time_production": 60,
+  "time_production": 45,
   "time_upgrade": 0,
   "xp_gain": 0
  },

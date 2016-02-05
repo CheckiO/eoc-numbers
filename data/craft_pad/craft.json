@@ -28,5 +28,25 @@
   "BUILDING_LEVEL": 6,
   "BUILDING_SLUG": "craft_pad",
   "capacity": 7
+ },
+ {
+  "BUILDING_LEVEL": 7,
+  "BUILDING_SLUG": "craft_pad",
+  "capacity": 10
+ },
+ {
+  "BUILDING_LEVEL": 8,
+  "BUILDING_SLUG": "craft_pad",
+  "capacity": 11
+ },
+ {
+  "BUILDING_LEVEL": 9,
+  "BUILDING_SLUG": "craft_pad",
+  "capacity": 12
+ },
+ {
+  "BUILDING_LEVEL": 10,
+  "BUILDING_SLUG": "craft_pad",
+  "capacity": 13
  }
 ]

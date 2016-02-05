@@ -33,6 +33,39 @@
   "title": "Birthday Cake"
  },
  {
+  "CATEGORY_SLUG": "decor",
+  "SLUG": "christmas_elka",
+  "description": "Christmas Elka",
+  "description_upgrade": "",
+  "grid_height": 2,
+  "grid_width": 2,
+  "is_available": true,
+  "order_menu": 1,
+  "title": "Christmas Elka"
+ },
+ {
+  "CATEGORY_SLUG": "decor",
+  "SLUG": "christmas_gift",
+  "description": "Christmas Gift",
+  "description_upgrade": "",
+  "grid_height": 2,
+  "grid_width": 2,
+  "is_available": true,
+  "order_menu": 1,
+  "title": "Christmas Gift"
+ },
+ {
+  "CATEGORY_SLUG": "decor",
+  "SLUG": "christmas_snowman",
+  "description": "Christmas Snowman",
+  "description_upgrade": "",
+  "grid_height": 2,
+  "grid_width": 2,
+  "is_available": true,
+  "order_menu": 1,
+  "title": "Christmas Snowman"
+ },
+ {
   "CATEGORY_SLUG": null,
   "SLUG": "command_center",
   "description": "The nervous system of your colony. Upgrades enable increased construction capabilities and storage.",

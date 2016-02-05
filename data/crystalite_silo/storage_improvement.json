@@ -13,21 +13,21 @@
   "BUILDING_LEVEL": 2,
   "BUILDING_SLUG": "crystalite_silo",
   "IS_ACTIVE": true,
-  "MISSION_SLUG": "triangle_angles",
-  "TIER": 1,
-  "type_improvement": 1,
-  "value": 1600,
-  "xp_gain": 4
- },
- {
-  "BUILDING_LEVEL": 2,
-  "BUILDING_SLUG": "crystalite_silo",
-  "IS_ACTIVE": true,
   "MISSION_SLUG": "earth_distances",
   "TIER": 1,
   "type_improvement": 1,
   "value": 30000,
   "xp_gain": 12
+ },
+ {
+  "BUILDING_LEVEL": 2,
+  "BUILDING_SLUG": "crystalite_silo",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "triangle_angles",
+  "TIER": 1,
+  "type_improvement": 1,
+  "value": 1600,
+  "xp_gain": 4
  },
  {
   "BUILDING_LEVEL": 4,

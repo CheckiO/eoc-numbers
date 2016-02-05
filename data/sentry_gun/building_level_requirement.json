@@ -38,13 +38,19 @@
  {
   "BUILDING_LEVEL": 8,
   "BUILDING_SLUG": "sentry_gun",
-  "required_building_level": 7,
+  "required_building_level": 8,
   "required_building_slug": "command_center"
  },
  {
   "BUILDING_LEVEL": 9,
   "BUILDING_SLUG": "sentry_gun",
-  "required_building_level": 8,
+  "required_building_level": 9,
+  "required_building_slug": "command_center"
+ },
+ {
+  "BUILDING_LEVEL": 10,
+  "BUILDING_SLUG": "sentry_gun",
+  "required_building_level": 10,
   "required_building_slug": "command_center"
  }
 ]

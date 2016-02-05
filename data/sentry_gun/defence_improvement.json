@@ -13,16 +13,6 @@
   "BUILDING_LEVEL": 2,
   "BUILDING_SLUG": "sentry_gun",
   "IS_ACTIVE": true,
-  "MISSION_SLUG": "boolean_algebra",
-  "TIER": 1,
-  "type_improvement": 1,
-  "value": 7,
-  "xp_gain": 7
- },
- {
-  "BUILDING_LEVEL": 2,
-  "BUILDING_SLUG": "sentry_gun",
-  "IS_ACTIVE": true,
   "MISSION_SLUG": "binary_count",
   "TIER": 1,
   "type_improvement": 1,
@@ -30,13 +20,13 @@
   "xp_gain": 7
  },
  {
-  "BUILDING_LEVEL": 3,
+  "BUILDING_LEVEL": 2,
   "BUILDING_SLUG": "sentry_gun",
   "IS_ACTIVE": true,
-  "MISSION_SLUG": "flat_dictionary",
+  "MISSION_SLUG": "boolean_algebra",
   "TIER": 1,
-  "type_improvement": 2,
-  "value": 200,
+  "type_improvement": 1,
+  "value": 7,
   "xp_gain": 7
  },
  {
@@ -50,13 +40,13 @@
   "xp_gain": 7
  },
  {
-  "BUILDING_LEVEL": 4,
+  "BUILDING_LEVEL": 3,
   "BUILDING_SLUG": "sentry_gun",
   "IS_ACTIVE": true,
-  "MISSION_SLUG": "spheroid_bullet",
+  "MISSION_SLUG": "flat_dictionary",
   "TIER": 1,
-  "type_improvement": 1,
-  "value": 4,
+  "type_improvement": 2,
+  "value": 200,
   "xp_gain": 7
  },
  {
@@ -67,6 +57,16 @@
   "TIER": 1,
   "type_improvement": 1,
   "value": 11,
+  "xp_gain": 7
+ },
+ {
+  "BUILDING_LEVEL": 4,
+  "BUILDING_SLUG": "sentry_gun",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "spheroid_bullet",
+  "TIER": 1,
+  "type_improvement": 1,
+  "value": 4,
   "xp_gain": 7
  },
  {
@@ -93,6 +93,16 @@
   "BUILDING_LEVEL": 5,
   "BUILDING_SLUG": "sentry_gun",
   "IS_ACTIVE": true,
+  "MISSION_SLUG": "shooting_range",
+  "TIER": 1,
+  "type_improvement": 1,
+  "value": 7,
+  "xp_gain": 7
+ },
+ {
+  "BUILDING_LEVEL": 5,
+  "BUILDING_SLUG": "sentry_gun",
+  "IS_ACTIVE": true,
   "MISSION_SLUG": "skew_symmetry",
   "TIER": 1,
   "type_improvement": 2,
@@ -107,16 +117,6 @@
   "TIER": 1,
   "type_improvement": 2,
   "value": 200,
-  "xp_gain": 7
- },
- {
-  "BUILDING_LEVEL": 5,
-  "BUILDING_SLUG": "sentry_gun",
-  "IS_ACTIVE": true,
-  "MISSION_SLUG": "shooting_range",
-  "TIER": 1,
-  "type_improvement": 1,
-  "value": 7,
   "xp_gain": 7
  },
  {

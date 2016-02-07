@@ -1,1 +1,1 @@
-this tools os just for internal use
+this tools is just for internal use

@@ -95,7 +95,7 @@
   "RESOURCE_SLUG": "adamantite",
   "amount_resource_construction": 154000,
   "hit_points": 4200,
-  "time_upgrade": 21600,
+  "time_upgrade": 100800,
   "user_level": 1,
   "xp_gain": 26
  }

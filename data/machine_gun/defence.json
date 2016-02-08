@@ -42,7 +42,7 @@
  {
   "BUILDING_LEVEL": 6,
   "BUILDING_SLUG": "machine_gun",
-  "damage_per_shot": 33.0,
+  "damage_per_shot": 63.0,
   "fire_range": 6.0,
   "fire_rate": 10.0,
   "target_system": 1
@@ -50,7 +50,7 @@
  {
   "BUILDING_LEVEL": 7,
   "BUILDING_SLUG": "machine_gun",
-  "damage_per_shot": 36.0,
+  "damage_per_shot": 64.0,
   "fire_range": 6.0,
   "fire_rate": 10.0,
   "target_system": 1

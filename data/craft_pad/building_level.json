@@ -44,7 +44,7 @@
   "LEVEL": 5,
   "RESOURCE_SLUG": "adamantite",
   "amount_resource_construction": 97000,
-  "hit_points": 3800,
+  "hit_points": 3500,
   "time_upgrade": 21600,
   "user_level": 1,
   "xp_gain": 22
@@ -54,49 +54,49 @@
   "LEVEL": 6,
   "RESOURCE_SLUG": "adamantite",
   "amount_resource_construction": 154000,
-  "hit_points": 3800,
+  "hit_points": 3900,
   "time_upgrade": 50400,
   "user_level": 1,
-  "xp_gain": 22
+  "xp_gain": 25
  },
  {
   "BUILDING_SLUG": "craft_pad",
   "LEVEL": 7,
   "RESOURCE_SLUG": "adamantite",
-  "amount_resource_construction": 37000,
-  "hit_points": 2900,
+  "amount_resource_construction": 191000,
+  "hit_points": 4200,
   "time_upgrade": 57600,
   "user_level": 1,
-  "xp_gain": 17
+  "xp_gain": 28
  },
  {
   "BUILDING_SLUG": "craft_pad",
   "LEVEL": 8,
   "RESOURCE_SLUG": "adamantite",
-  "amount_resource_construction": 62000,
-  "hit_points": 3400,
+  "amount_resource_construction": 253000,
+  "hit_points": 4100,
   "time_upgrade": 72000,
   "user_level": 1,
-  "xp_gain": 20
+  "xp_gain": 30
  },
  {
   "BUILDING_SLUG": "craft_pad",
   "LEVEL": 9,
   "RESOURCE_SLUG": "adamantite",
-  "amount_resource_construction": 97000,
-  "hit_points": 3800,
+  "amount_resource_construction": 253000,
+  "hit_points": 4200,
   "time_upgrade": 86400,
   "user_level": 1,
-  "xp_gain": 22
+  "xp_gain": 32
  },
  {
   "BUILDING_SLUG": "craft_pad",
   "LEVEL": 10,
   "RESOURCE_SLUG": "adamantite",
-  "amount_resource_construction": 154000,
-  "hit_points": 4200,
+  "amount_resource_construction": 253000,
+  "hit_points": 4250,
   "time_upgrade": 100800,
   "user_level": 1,
-  "xp_gain": 26
+  "xp_gain": 33
  }
 ]

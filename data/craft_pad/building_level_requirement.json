@@ -8,7 +8,7 @@
  {
   "BUILDING_LEVEL": 3,
   "BUILDING_SLUG": "craft_pad",
-  "required_building_level": 4,
+  "required_building_level": 3,
   "required_building_slug": "command_center"
  },
  {

@@ -3,6 +3,26 @@
   "BUILDING_LEVEL": 1,
   "BUILDING_SLUG": "adamantite_storage",
   "IS_ACTIVE": true,
+  "MISSION_SLUG": "two-monkeys",
+  "TIER": 1,
+  "type_improvement": 1,
+  "value": 100,
+  "xp_gain": 1
+ },
+ {
+  "BUILDING_LEVEL": 2,
+  "BUILDING_SLUG": "adamantite_storage",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "list-combination",
+  "TIER": 1,
+  "type_improvement": 1,
+  "value": 200,
+  "xp_gain": 2
+ },
+ {
+  "BUILDING_LEVEL": 1,
+  "BUILDING_SLUG": "adamantite_storage",
+  "IS_ACTIVE": true,
   "MISSION_SLUG": "count_ingots",
   "TIER": 1,
   "type_improvement": 1,

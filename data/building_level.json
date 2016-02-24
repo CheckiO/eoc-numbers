@@ -1,119 +1,9 @@
 [
  {
-  "BUILDING_SLUG": "christmas_gift",
-  "LEVEL": 1,
-  "RESOURCE_SLUG": "energon",
-  "amount_resource_construction": 100,
-  "hit_points": 100,
-  "time_upgrade": 0,
-  "user_level": 1,
-  "xp_gain": 0
- },
- {
-  "BUILDING_SLUG": "golden_cat",
-  "LEVEL": 1,
-  "RESOURCE_SLUG": "energon",
-  "amount_resource_construction": 5000,
-  "hit_points": 100,
-  "time_upgrade": 0,
-  "user_level": 1,
-  "xp_gain": 0
- },
- {
-  "BUILDING_SLUG": "stone_lego",
-  "LEVEL": 1,
-  "RESOURCE_SLUG": "adamantite",
-  "amount_resource_construction": 50000,
-  "hit_points": 100,
-  "time_upgrade": 0,
-  "user_level": 1,
-  "xp_gain": 0
- },
- {
-  "BUILDING_SLUG": "rocket_stone",
-  "LEVEL": 1,
-  "RESOURCE_SLUG": "adamantite",
-  "amount_resource_construction": 10000,
-  "hit_points": 100,
-  "time_upgrade": 0,
-  "user_level": 1,
-  "xp_gain": 0
- },
- {
   "BUILDING_SLUG": "birthday_cake",
   "LEVEL": 1,
   "RESOURCE_SLUG": "energon",
   "amount_resource_construction": 50,
-  "hit_points": 100,
-  "time_upgrade": 0,
-  "user_level": 1,
-  "xp_gain": 0
- },
- {
-  "BUILDING_SLUG": "scarecrow",
-  "LEVEL": 1,
-  "RESOURCE_SLUG": "adamantite",
-  "amount_resource_construction": 150000,
-  "hit_points": 100,
-  "time_upgrade": 0,
-  "user_level": 1,
-  "xp_gain": 0
- },
- {
-  "BUILDING_SLUG": "dragon_bones",
-  "LEVEL": 1,
-  "RESOURCE_SLUG": "adamantite",
-  "amount_resource_construction": 250000,
-  "hit_points": 100,
-  "time_upgrade": 0,
-  "user_level": 1,
-  "xp_gain": 0
- },
- {
-  "BUILDING_SLUG": "rip",
-  "LEVEL": 1,
-  "RESOURCE_SLUG": "energon",
-  "amount_resource_construction": 1000,
-  "hit_points": 100,
-  "time_upgrade": 0,
-  "user_level": 1,
-  "xp_gain": 0
- },
- {
-  "BUILDING_SLUG": "flag_stock",
-  "LEVEL": 1,
-  "RESOURCE_SLUG": null,
-  "amount_resource_construction": 0,
-  "hit_points": 100,
-  "time_upgrade": 0,
-  "user_level": 1,
-  "xp_gain": 0
- },
- {
-  "BUILDING_SLUG": "christmas_elka",
-  "LEVEL": 1,
-  "RESOURCE_SLUG": "energon",
-  "amount_resource_construction": 500,
-  "hit_points": 100,
-  "time_upgrade": 0,
-  "user_level": 1,
-  "xp_gain": 0
- },
- {
-  "BUILDING_SLUG": "ufo",
-  "LEVEL": 1,
-  "RESOURCE_SLUG": "energon",
-  "amount_resource_construction": 250,
-  "hit_points": 100,
-  "time_upgrade": 0,
-  "user_level": 1,
-  "xp_gain": 0
- },
- {
-  "BUILDING_SLUG": "zeus",
-  "LEVEL": 1,
-  "RESOURCE_SLUG": "energon",
-  "amount_resource_construction": 1000,
   "hit_points": 100,
   "time_upgrade": 0,
   "user_level": 1,
@@ -130,10 +20,120 @@
   "xp_gain": 0
  },
  {
+  "BUILDING_SLUG": "stone_lego",
+  "LEVEL": 1,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 50000,
+  "hit_points": 100,
+  "time_upgrade": 0,
+  "user_level": 1,
+  "xp_gain": 0
+ },
+ {
+  "BUILDING_SLUG": "christmas_elka",
+  "LEVEL": 1,
+  "RESOURCE_SLUG": "energon",
+  "amount_resource_construction": 500,
+  "hit_points": 100,
+  "time_upgrade": 0,
+  "user_level": 1,
+  "xp_gain": 0
+ },
+ {
+  "BUILDING_SLUG": "rip",
+  "LEVEL": 1,
+  "RESOURCE_SLUG": "energon",
+  "amount_resource_construction": 1000,
+  "hit_points": 100,
+  "time_upgrade": 0,
+  "user_level": 1,
+  "xp_gain": 0
+ },
+ {
+  "BUILDING_SLUG": "scarecrow",
+  "LEVEL": 1,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 150000,
+  "hit_points": 100,
+  "time_upgrade": 0,
+  "user_level": 1,
+  "xp_gain": 0
+ },
+ {
+  "BUILDING_SLUG": "christmas_gift",
+  "LEVEL": 1,
+  "RESOURCE_SLUG": "energon",
+  "amount_resource_construction": 100,
+  "hit_points": 100,
+  "time_upgrade": 0,
+  "user_level": 1,
+  "xp_gain": 0
+ },
+ {
   "BUILDING_SLUG": "christmas_snowman",
   "LEVEL": 1,
   "RESOURCE_SLUG": "energon",
   "amount_resource_construction": 1000,
+  "hit_points": 100,
+  "time_upgrade": 0,
+  "user_level": 1,
+  "xp_gain": 0
+ },
+ {
+  "BUILDING_SLUG": "zeus",
+  "LEVEL": 1,
+  "RESOURCE_SLUG": "energon",
+  "amount_resource_construction": 1000,
+  "hit_points": 100,
+  "time_upgrade": 0,
+  "user_level": 1,
+  "xp_gain": 0
+ },
+ {
+  "BUILDING_SLUG": "rocket_stone",
+  "LEVEL": 1,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 10000,
+  "hit_points": 100,
+  "time_upgrade": 0,
+  "user_level": 1,
+  "xp_gain": 0
+ },
+ {
+  "BUILDING_SLUG": "ufo",
+  "LEVEL": 1,
+  "RESOURCE_SLUG": "energon",
+  "amount_resource_construction": 250,
+  "hit_points": 100,
+  "time_upgrade": 0,
+  "user_level": 1,
+  "xp_gain": 0
+ },
+ {
+  "BUILDING_SLUG": "dragon_bones",
+  "LEVEL": 1,
+  "RESOURCE_SLUG": "adamantite",
+  "amount_resource_construction": 250000,
+  "hit_points": 100,
+  "time_upgrade": 0,
+  "user_level": 1,
+  "xp_gain": 0
+ },
+ {
+  "BUILDING_SLUG": "golden_cat",
+  "LEVEL": 1,
+  "RESOURCE_SLUG": "energon",
+  "amount_resource_construction": 5000,
+  "hit_points": 100,
+  "time_upgrade": 0,
+  "user_level": 1,
+  "xp_gain": 0
+ },
+ {
+  "BUILDING_SLUG": "flag_stock",
+  "LEVEL": 1,
+  "RESOURCE_SLUG": null,
+  "amount_resource_construction": 0,
   "hit_points": 100,
   "time_upgrade": 0,
   "user_level": 1,

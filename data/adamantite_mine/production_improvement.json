@@ -3,21 +3,21 @@
   "BUILDING_LEVEL": 2,
   "BUILDING_SLUG": "adamantite_mine",
   "IS_ACTIVE": true,
-  "MISSION_SLUG": "index_power",
-  "TIER": 1,
-  "type_improvement": 1,
-  "value": 120,
-  "xp_gain": 4
- },
- {
-  "BUILDING_LEVEL": 2,
-  "BUILDING_SLUG": "adamantite_mine",
-  "IS_ACTIVE": true,
   "MISSION_SLUG": "str-length",
   "TIER": 1,
   "type_improvement": 1,
   "value": 5,
   "xp_gain": 2
+ },
+ {
+  "BUILDING_LEVEL": 2,
+  "BUILDING_SLUG": "adamantite_mine",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "index_power",
+  "TIER": 1,
+  "type_improvement": 1,
+  "value": 120,
+  "xp_gain": 4
  },
  {
   "BUILDING_LEVEL": 3,
@@ -93,20 +93,20 @@
   "BUILDING_LEVEL": 6,
   "BUILDING_SLUG": "adamantite_mine",
   "IS_ACTIVE": true,
-  "MISSION_SLUG": "place_queens",
-  "TIER": 1,
-  "type_improvement": 2,
-  "value": 5000,
-  "xp_gain": 25
- },
- {
-  "BUILDING_LEVEL": 6,
-  "BUILDING_SLUG": "adamantite_mine",
-  "IS_ACTIVE": true,
   "MISSION_SLUG": "super_root",
   "TIER": 1,
   "type_improvement": 2,
   "value": 6000,
+  "xp_gain": 25
+ },
+ {
+  "BUILDING_LEVEL": 4,
+  "BUILDING_SLUG": "adamantite_mine",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "place_queens",
+  "TIER": 1,
+  "type_improvement": 2,
+  "value": 5000,
   "xp_gain": 25
  }
 ]

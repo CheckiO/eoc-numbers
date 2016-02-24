@@ -1,7 +1,14 @@
 [
  {
-  "MISSION_SLUG": "simple_areas",
+  "MISSION_SLUG": "sure-not",
   "building_level": 1,
+  "building_number": 1,
+  "building_slug": "crystalite_silo",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "simple_areas",
+  "building_level": 3,
   "building_number": 1,
   "building_slug": "crystalite_silo",
   "order_menu": 1

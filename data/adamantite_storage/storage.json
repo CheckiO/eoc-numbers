@@ -33,6 +33,6 @@
   "BUILDING_LEVEL": 6,
   "BUILDING_SLUG": "adamantite_storage",
   "RESOURCE_SLUG": "adamantite",
-  "limit_resource_storage": 250000
+  "limit_resource_storage": 125000
  }
 ]

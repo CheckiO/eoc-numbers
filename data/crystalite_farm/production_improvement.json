@@ -13,31 +13,21 @@
   "BUILDING_LEVEL": 2,
   "BUILDING_SLUG": "crystalite_farm",
   "IS_ACTIVE": true,
-  "MISSION_SLUG": "speech_module",
-  "TIER": 1,
-  "type_improvement": 2,
-  "value": 3000,
-  "xp_gain": 7
- },
- {
-  "BUILDING_LEVEL": 3,
-  "BUILDING_SLUG": "crystalite_farm",
-  "IS_ACTIVE": true,
-  "MISSION_SLUG": "crystal_row",
+  "MISSION_SLUG": "max-of-two",
   "TIER": 1,
   "type_improvement": 1,
-  "value": 15,
+  "value": 5,
   "xp_gain": 2
  },
  {
   "BUILDING_LEVEL": 2,
   "BUILDING_SLUG": "crystalite_farm",
   "IS_ACTIVE": true,
-  "MISSION_SLUG": "max-of-two",
+  "MISSION_SLUG": "speech_module",
   "TIER": 1,
-  "type_improvement": 1,
-  "value": 5,
-  "xp_gain": 2
+  "type_improvement": 2,
+  "value": 3000,
+  "xp_gain": 7
  },
  {
   "BUILDING_LEVEL": 2,
@@ -58,6 +48,16 @@
   "type_improvement": 2,
   "value": 1000,
   "xp_gain": 7
+ },
+ {
+  "BUILDING_LEVEL": 3,
+  "BUILDING_SLUG": "crystalite_farm",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "crystal_row",
+  "TIER": 1,
+  "type_improvement": 1,
+  "value": 15,
+  "xp_gain": 2
  },
  {
   "BUILDING_LEVEL": 3,

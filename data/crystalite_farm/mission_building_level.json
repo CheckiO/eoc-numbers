@@ -14,16 +14,16 @@
   "order_menu": 1
  },
  {
-  "MISSION_SLUG": "crystal_row",
-  "building_level": 3,
-  "building_number": 1,
+  "MISSION_SLUG": "speech_module",
+  "building_level": 2,
+  "building_number": 4,
   "building_slug": "crystalite_farm",
   "order_menu": 1
  },
  {
-  "MISSION_SLUG": "speech_module",
-  "building_level": 2,
-  "building_number": 4,
+  "MISSION_SLUG": "crystal_row",
+  "building_level": 3,
+  "building_number": 1,
   "building_slug": "crystalite_farm",
   "order_menu": 1
  },

@@ -45,7 +45,7 @@
   "BUILDING_LEVEL": 7,
   "BUILDING_SLUG": "adamantite_mine",
   "RESOURCE_SLUG": "adamantite",
-  "amount_resource_production": 1800,
-  "limit_resource_production": 45000
+  "amount_resource_production": 1300,
+  "limit_resource_production": 26800
  }
 ]

@@ -13,6 +13,16 @@
   "BUILDING_LEVEL": 2,
   "BUILDING_SLUG": "sentry_gun",
   "IS_ACTIVE": true,
+  "MISSION_SLUG": "rotate-list",
+  "TIER": 1,
+  "type_improvement": 1,
+  "value": 2,
+  "xp_gain": 1
+ },
+ {
+  "BUILDING_LEVEL": 3,
+  "BUILDING_SLUG": "sentry_gun",
+  "IS_ACTIVE": true,
   "MISSION_SLUG": "binary_count",
   "TIER": 1,
   "type_improvement": 1,
@@ -30,7 +40,7 @@
   "xp_gain": 7
  },
  {
-  "BUILDING_LEVEL": 3,
+  "BUILDING_LEVEL": 4,
   "BUILDING_SLUG": "sentry_gun",
   "IS_ACTIVE": true,
   "MISSION_SLUG": "pangram",

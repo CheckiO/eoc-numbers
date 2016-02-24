@@ -1,13 +1,23 @@
 [
  {
-  "BUILDING_LEVEL": 1,
+  "BUILDING_LEVEL": 3,
   "BUILDING_SLUG": "crystalite_silo",
   "IS_ACTIVE": true,
   "MISSION_SLUG": "simple_areas",
   "TIER": 1,
   "type_improvement": 1,
   "value": 800,
-  "xp_gain": 2
+  "xp_gain": 3
+ },
+ {
+  "BUILDING_LEVEL": 1,
+  "BUILDING_SLUG": "crystalite_silo",
+  "IS_ACTIVE": true,
+  "MISSION_SLUG": "sure-not",
+  "TIER": 1,
+  "type_improvement": 1,
+  "value": 50,
+  "xp_gain": 1
  },
  {
   "BUILDING_LEVEL": 2,

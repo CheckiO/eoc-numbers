@@ -112,10 +112,10 @@
  {
   "CATEGORY_SLUG": "decor",
   "SLUG": "dragon_bones",
-  "description": "",
-  "description_upgrade": null,
-  "grid_height": 3,
-  "grid_width": 3,
+  "description": "Dragon Bones",
+  "description_upgrade": "",
+  "grid_height": 2,
+  "grid_width": 2,
   "is_available": true,
   "order_menu": 1,
   "title": "Dragon Bones"

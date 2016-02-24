@@ -1,45 +1,21 @@
 [
  {
-  "BUILDING_SLUG": "christmas_gift",
-  "REQUIRED_BUILDING_LEVEL": 1,
-  "REQUIRED_BUILDING_SLUG": "command_center",
-  "max_count": 3
- },
- {
-  "BUILDING_SLUG": "golden_cat",
-  "REQUIRED_BUILDING_LEVEL": 1,
-  "REQUIRED_BUILDING_SLUG": "command_center",
-  "max_count": 1
- },
- {
-  "BUILDING_SLUG": "stone_lego",
-  "REQUIRED_BUILDING_LEVEL": 1,
-  "REQUIRED_BUILDING_SLUG": "command_center",
-  "max_count": 10
- },
- {
-  "BUILDING_SLUG": "rocket_stone",
-  "REQUIRED_BUILDING_LEVEL": 1,
-  "REQUIRED_BUILDING_SLUG": "command_center",
-  "max_count": 2
- },
- {
   "BUILDING_SLUG": "birthday_cake",
   "REQUIRED_BUILDING_LEVEL": 1,
   "REQUIRED_BUILDING_SLUG": "command_center",
   "max_count": 3
  },
  {
-  "BUILDING_SLUG": "scarecrow",
+  "BUILDING_SLUG": "mushroom",
   "REQUIRED_BUILDING_LEVEL": 1,
   "REQUIRED_BUILDING_SLUG": "command_center",
   "max_count": 2
  },
  {
-  "BUILDING_SLUG": "dragon_bones",
+  "BUILDING_SLUG": "christmas_elka",
   "REQUIRED_BUILDING_LEVEL": 1,
   "REQUIRED_BUILDING_SLUG": "command_center",
-  "max_count": 1
+  "max_count": 2
  },
  {
   "BUILDING_SLUG": "rip",
@@ -48,13 +24,37 @@
   "max_count": 2
  },
  {
-  "BUILDING_SLUG": "flag_stock",
+  "BUILDING_SLUG": "scarecrow",
+  "REQUIRED_BUILDING_LEVEL": 1,
+  "REQUIRED_BUILDING_SLUG": "command_center",
+  "max_count": 2
+ },
+ {
+  "BUILDING_SLUG": "stone_lego",
+  "REQUIRED_BUILDING_LEVEL": 1,
+  "REQUIRED_BUILDING_SLUG": "command_center",
+  "max_count": 10
+ },
+ {
+  "BUILDING_SLUG": "christmas_gift",
+  "REQUIRED_BUILDING_LEVEL": 1,
+  "REQUIRED_BUILDING_SLUG": "command_center",
+  "max_count": 3
+ },
+ {
+  "BUILDING_SLUG": "christmas_snowman",
   "REQUIRED_BUILDING_LEVEL": 1,
   "REQUIRED_BUILDING_SLUG": "command_center",
   "max_count": 1
  },
  {
-  "BUILDING_SLUG": "christmas_elka",
+  "BUILDING_SLUG": "zeus",
+  "REQUIRED_BUILDING_LEVEL": 1,
+  "REQUIRED_BUILDING_SLUG": "command_center",
+  "max_count": 1
+ },
+ {
+  "BUILDING_SLUG": "rocket_stone",
   "REQUIRED_BUILDING_LEVEL": 1,
   "REQUIRED_BUILDING_SLUG": "command_center",
   "max_count": 2
@@ -66,19 +66,19 @@
   "max_count": 2
  },
  {
-  "BUILDING_SLUG": "zeus",
+  "BUILDING_SLUG": "flag_stock",
   "REQUIRED_BUILDING_LEVEL": 1,
   "REQUIRED_BUILDING_SLUG": "command_center",
   "max_count": 1
  },
  {
-  "BUILDING_SLUG": "mushroom",
+  "BUILDING_SLUG": "golden_cat",
   "REQUIRED_BUILDING_LEVEL": 1,
   "REQUIRED_BUILDING_SLUG": "command_center",
-  "max_count": 2
+  "max_count": 1
  },
  {
-  "BUILDING_SLUG": "christmas_snowman",
+  "BUILDING_SLUG": "dragon_bones",
   "REQUIRED_BUILDING_LEVEL": 1,
   "REQUIRED_BUILDING_SLUG": "command_center",
   "max_count": 1

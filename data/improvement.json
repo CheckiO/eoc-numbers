@@ -71,6 +71,20 @@
  },
  {
   "IS_ACTIVE": true,
+  "MISSION_SLUG": "exchange_symbols",
+  "OBJECT_SLUG": "speed_boost",
+  "content_type": [
+   "resources",
+   "resource"
+  ],
+  "tier": 1,
+  "type_improvement": 1,
+  "user_level": 1,
+  "value": 900,
+  "xp_gain": 0
+ },
+ {
+  "IS_ACTIVE": true,
   "MISSION_SLUG": "flatten_list",
   "OBJECT_SLUG": "speed_boost",
   "content_type": [

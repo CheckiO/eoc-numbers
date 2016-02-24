@@ -37,14 +37,14 @@
  {
   "MISSION_SLUG": "stair_steps",
   "building_level": 5,
-  "building_number": 1,
+  "building_number": 2,
   "building_slug": "adamantite_mine",
   "order_menu": 1
  },
  {
   "MISSION_SLUG": "place_queens",
-  "building_level": 6,
-  "building_number": 1,
+  "building_level": 4,
+  "building_number": 2,
   "building_slug": "adamantite_mine",
   "order_menu": 1
  },

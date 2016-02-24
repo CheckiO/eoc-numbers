@@ -1,8 +1,22 @@
 [
  {
-  "MISSION_SLUG": "count_ingots",
+  "MISSION_SLUG": "two-monkeys",
   "building_level": 1,
   "building_number": 1,
+  "building_slug": "adamantite_storage",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "list-combination",
+  "building_level": 2,
+  "building_number": 1,
+  "building_slug": "adamantite_storage",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "count_ingots",
+  "building_level": 1,
+  "building_number": 2,
   "building_slug": "adamantite_storage",
   "order_menu": 1
  },

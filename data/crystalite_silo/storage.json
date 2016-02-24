@@ -45,6 +45,6 @@
   "BUILDING_LEVEL": 8,
   "BUILDING_SLUG": "crystalite_silo",
   "RESOURCE_SLUG": "crystalite",
-  "limit_resource_storage": 500000
+  "limit_resource_storage": 250000
  }
 ]

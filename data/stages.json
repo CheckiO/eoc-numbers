@@ -252,6 +252,59 @@
   "type_stage": 1
  },
  {
+  "USER": "2889_Brno",
+  "campaign": "default",
+  "stage_data": [
+   {
+    "building_level": 1,
+    "building_slug": "adamantite_storage",
+    "coordinate_x": 27,
+    "coordinate_y": 20,
+    "strategy_code": null,
+    "strategy_environment": null,
+    "strategy_slug": null,
+    "strategy_title": null,
+    "strategy_type": null
+   },
+   {
+    "building_level": 2,
+    "building_slug": "command_center",
+    "coordinate_x": 22,
+    "coordinate_y": 19,
+    "strategy_code": null,
+    "strategy_environment": null,
+    "strategy_slug": null,
+    "strategy_title": null,
+    "strategy_type": null
+   },
+   {
+    "building_level": 1,
+    "building_slug": "sentry_gun",
+    "coordinate_x": 27,
+    "coordinate_y": 16,
+    "strategy_code": "from battle import commander\n \ntower_client = commander.Client()\n \n \ndef search_next_target(data, **kwargs):\n    enemies = tower_client.ask_enemy_items_in_my_firing_range()\n    if enemies:\n        unit_in_firing_range(enemies[0])\n    else:\n        tower_client.subscribe_enemy_in_my_firing_range(unit_in_firing_range)\n \n \ndef unit_in_firing_range(data, **kwargs):\n    tower_client.attack_item(data['id'])\n    tower_client.subscribe_im_idle(search_next_target)\n \ntower_client.subscribe_enemy_in_my_firing_range(unit_in_firing_range)\n",
+    "strategy_environment": "python_3",
+    "strategy_slug": "destroy_the_first_1",
+    "strategy_title": "Destroy the First 1",
+    "strategy_type": 2
+   },
+   {
+    "building_level": 1,
+    "building_slug": "sentry_gun",
+    "coordinate_x": 27,
+    "coordinate_y": 24,
+    "strategy_code": "from battle import commander\n\ntower_client = commander.Client()\n\n\ndef search_next_target(data=None, **kwargs):\n    enemies = tower_client.ask_my_range_enemy_items()\n    if enemies:\n        unit_in_firing_range(enemies[0])\n    else:\n        tower_client.when_enemy_in_range(unit_in_firing_range)\n\n\ndef unit_in_firing_range(data, **kwargs):\n    tower_client.do_attack(data['id'])\n    tower_client.when_idle(search_next_target)\n\nsearch_next_target()\n",
+    "strategy_environment": "python_3",
+    "strategy_slug": "destroy_the_first_py",
+    "strategy_title": "Destroy the First",
+    "strategy_type": 2
+   }
+  ],
+  "step": 6,
+  "time_limit": 60,
+  "type_stage": 1
+ },
+ {
   "USER": "17488_Mantl",
   "campaign": "default",
   "stage_data": [

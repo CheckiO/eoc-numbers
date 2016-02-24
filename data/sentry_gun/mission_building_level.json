@@ -7,8 +7,15 @@
   "order_menu": 1
  },
  {
-  "MISSION_SLUG": "binary_count",
+  "MISSION_SLUG": "rotate-list",
   "building_level": 2,
+  "building_number": 1,
+  "building_slug": "sentry_gun",
+  "order_menu": 1
+ },
+ {
+  "MISSION_SLUG": "binary_count",
+  "building_level": 3,
   "building_number": 1,
   "building_slug": "sentry_gun",
   "order_menu": 1
@@ -29,7 +36,7 @@
  },
  {
   "MISSION_SLUG": "pangram",
-  "building_level": 3,
+  "building_level": 4,
   "building_number": 1,
   "building_slug": "sentry_gun",
   "order_menu": 1

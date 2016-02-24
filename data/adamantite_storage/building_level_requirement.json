@@ -2,7 +2,7 @@
  {
   "BUILDING_LEVEL": 1,
   "BUILDING_SLUG": "adamantite_storage",
-  "required_building_level": 2,
+  "required_building_level": 1,
   "required_building_slug": "command_center"
  },
  {

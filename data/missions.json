@@ -444,6 +444,10 @@
   "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-even-last.git"
  },
  {
+  "MISSION_SLUG": "exchange_symbols",
+  "repository_url": "https://github.com/Empire-of-Code-Puzzles/checkio-empire-exchange-symbols.git"
+ },
+ {
   "MISSION_SLUG": "find_sequence",
   "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-find-sequence.git"
  },
@@ -494,6 +498,10 @@
  {
   "MISSION_SLUG": "letter_queue",
   "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-letter-queue.git"
+ },
+ {
+  "MISSION_SLUG": "list-combination",
+  "repository_url": "https://github.com/Empire-of-Code-Puzzles/checkio-empire-list-combination.git"
  },
  {
   "MISSION_SLUG": "max-of-two",
@@ -584,6 +592,10 @@
   "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-roman-numerals.git"
  },
  {
+  "MISSION_SLUG": "rotate-list",
+  "repository_url": "https://github.com/Empire-of-Code-Puzzles/checkio-empire-rotate-list.git"
+ },
+ {
   "MISSION_SLUG": "secret_message",
   "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-secret-message.git"
  },
@@ -640,6 +652,10 @@
   "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-super-root.git"
  },
  {
+  "MISSION_SLUG": "sure-not",
+  "repository_url": "https://github.com/Empire-of-Code-Puzzles/checkio-empire-sure-not.git"
+ },
+ {
   "MISSION_SLUG": "text-holes",
   "repository_url": "https://github.com/Empire-of-Code-Puzzles/eoc-puzzle-text-hole-golf"
  },
@@ -658,6 +674,10 @@
  {
   "MISSION_SLUG": "triangle_angles",
   "repository_url": "https://github.com/Checkio-Game-Missions/checkio-empire-triangle-angles.git"
+ },
+ {
+  "MISSION_SLUG": "two-monkeys",
+  "repository_url": "https://github.com/Empire-of-Code-Puzzles/checkio-empire-two-monkeys.git"
  },
  {
   "MISSION_SLUG": "union_search",

@@ -54,7 +54,7 @@
   "LEVEL": 6,
   "RESOURCE_SLUG": "adamantite",
   "amount_resource_construction": 17600,
-  "hit_points": 1500,
+  "hit_points": 1400,
   "time_upgrade": 13500,
   "user_level": 1,
   "xp_gain": 19
@@ -64,7 +64,7 @@
   "LEVEL": 7,
   "RESOURCE_SLUG": "adamantite",
   "amount_resource_construction": 30000,
-  "hit_points": 1600,
+  "hit_points": 1400,
   "time_upgrade": 14400,
   "user_level": 1,
   "xp_gain": 20
